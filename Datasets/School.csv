@@ -1,0 +1,2303 @@
+Address_Town,Education_Sector,School_Type,LGA_Name,X,Y
+Alberton,Government,Primary,Wellington (S),146.6666,-38.61771
+Allansford,Government,Primary,Warrnambool (C),142.59039,-38.38628
+Avoca,Government,Primary,Pyrenees (S),143.47565,-37.0845
+Avenel,Government,Primary,Strathbogie (S),145.23472,-36.90137
+Warrandyte,Government,Primary,Manningham (C),145.21398,-37.74268
+Belmont,Government,Primary,Greater Geelong (C),144.3421,-38.17067
+Bacchus Marsh,Government,Primary,Moorabool (S),144.44312,-37.67303
+Ballarat,Government,Primary,Ballarat (C),143.85394,-37.56401
+Wodonga,Government,Primary,Wodonga (C),146.88982,-36.12921
+Berwick,Government,Primary,Casey (C),145.35442,-38.04409
+Beaufort,Government,Primary,Pyrenees (S),143.38172,-37.43852
+Cheltenham,Government,Primary,Bayside (C),145.05463,-37.96861
+Cudgee,Government,Primary,Moyne (S),142.65084,-38.34794
+Newport,Government,Primary,Hobsons Bay (C),144.87834,-37.83842
+Cavendish,Government,Primary,Southern Grampians (S),142.03989,-37.53087
+Colac,Government,Primary,Colac-Otway (S),143.59834,-38.33722
+Castlemaine,Government,Primary,Mount Alexander (S),144.22233,-37.0666
+Campbells Creek,Government,Primary,Mount Alexander (S),144.20466,-37.09293
+Creswick,Government,Primary,Hepburn (S),143.89156,-37.42411
+California Gully,Government,Primary,Greater Bendigo (C),144.24986,-36.73321
+St Andrews,Government,Primary,Nillumbik (S),145.26983,-37.60232
+Warrnambool,Government,Primary,Warrnambool (C),142.4668,-38.36634
+Dromana,Government,Primary,Mornington Peninsula (S),144.95965,-38.33964
+Doncaster,Government,Primary,Manningham (C),145.12967,-37.7868
+Echuca,Government,Primary,Campaspe (S),144.74746,-36.1282
+Eltham,Government,Primary,Nillumbik (S),145.1478,-37.72498
+Eaglehawk,Government,Primary,Greater Bendigo (C),144.25426,-36.72058
+Elphinstone,Government,Primary,Mount Alexander (S),144.3329,-37.105
+Hallam,Government,Primary,Casey (C),145.25824,-38.00176
+Flemington,Government,Primary,Moonee Valley (C),144.93392,-37.78067
+Footscray,Government,Primary,Maribyrnong (C),144.89267,-37.79838
+Gisborne,Government,Primary,Macedon Ranges (S),144.58844,-37.49086
+Sandringham,Government,Primary,Bayside (C),145.00947,-37.94704
+Wandiligong,Government,Primary,Alpine (S),146.98292,-36.76886
+Grovedale,Government,Primary,Greater Geelong (C),144.34776,-38.19764
+Hawthorn,Government,Primary,Boroondara (C),145.01838,-37.82011
+Heidelberg,Government,Primary,Banyule (C),145.0678,-37.7547
+Hamilton,Government,Primary,Southern Grampians (S),142.02138,-37.74491
+Heathcote,Government,Primary,Greater Bendigo (C),144.70685,-36.92401
+Highton,Government,Primary,Greater Geelong (C),144.31708,-38.17216
+Huntly,Government,Primary,Greater Bendigo (C),144.3344,-36.66254
+Bellbrae,Government,Primary,Surf Coast (S),144.263,-38.33364
+Chiltern,Government,Primary,Indigo (S),146.6066,-36.14707
+Kyneton,Government,Primary,Macedon Ranges (S),144.46269,-37.24889
+Romsey,Government,Primary,Macedon Ranges (S),144.74538,-37.35418
+Shelford,Government,Primary,Golden Plains (S),143.98214,-38.01399
+Lockwood South,Government,Primary,Greater Bendigo (C),144.15675,-36.8416
+Marong,Government,Primary,Greater Bendigo (C),144.13537,-36.73568
+Mount Macedon,Government,Primary,Macedon Ranges (S),144.58413,-37.40479
+Mount Clear,Government,Primary,Ballarat (C),143.86837,-37.60474
+Melton,Government,Primary,Melton (C),144.58702,-37.68046
+Fitzroy,Government,Primary,Yarra (C),144.98151,-37.7996
+Newstead,Government,Primary,Mount Alexander (S),144.06719,-37.10592
+Newlyn,Government,Primary,Hepburn (S),143.98443,-37.41202
+Burwood East,Government,Primary,Whitehorse (C),145.15181,-37.85973
+New Gisborne,Government,Primary,Macedon Ranges (S),144.59658,-37.46289
+Beeac,Government,Primary,Colac-Otway (S),143.64428,-38.19397
+Essendon,Government,Primary,Moonee Valley (C),144.92104,-37.7531
+Coburg,Government,Primary,Merri-bek (C),144.96821,-37.7413
+Penshurst,Government,Primary,Southern Grampians (S),142.29133,-37.87918
+Myrniong,Government,Primary,Moorabool (S),144.34632,-37.61972
+Mernda,Government,Primary,Whittlesea (C),145.09224,-37.5946
+Portland,Government,Primary,Glenelg (S),141.59941,-38.3473
+Stawell,Government,Primary,Northern Grampians (S),142.77378,-37.05613
+Rutherglen,Government,Primary,Indigo (S),146.46061,-36.05621
+Riddells Creek,Government,Primary,Macedon Ranges (S),144.67978,-37.46122
+Rokewood,Government,Primary,Golden Plains (S),143.72281,-37.90366
+Geelong East,Government,Primary,Greater Geelong (C),144.38277,-38.17551
+Sale,Government,Primary,Wellington (S),147.07364,-38.1083
+Skipton,Government,Primary,Corangamite (S),143.36816,-37.68686
+South Yarra,Government,Primary,Melbourne (C),144.98562,-37.84135
+Stratford,Government,Primary,Wellington (S),147.08539,-37.96725
+Taradale,Government,Primary,Mount Alexander (S),144.35106,-37.14131
+Koroit,Government,Primary,Moyne (S),142.3687,-38.29244
+Tylden,Government,Primary,Macedon Ranges (S),144.40878,-37.32497
+Thomastown,Government,Primary,Whittlesea (C),145.0115,-37.68227
+Wangaratta,Government,Primary,Wangaratta (RC),146.32942,-36.35528
+Wahgunyah,Government,Primary,Indigo (S),146.39792,-36.01365
+Woodend,Government,Primary,Macedon Ranges (S),144.53294,-37.35342
+Woodford,Government,Primary,Warrnambool (C),142.4845,-38.31681
+Werribee,Government,Primary,Wyndham (C),144.65874,-37.90687
+Castlemaine,Government,Primary,Mount Alexander (S),144.20749,-37.07016
+Wooragee,Government,Primary,Indigo (S),146.73088,-36.29048
+Wallan,Government,Primary,Mitchell (S),144.97504,-37.41146
+Woolsthorpe,Government,Primary,Moyne (S),142.43176,-38.18741
+Yandoit,Government,Primary,Hepburn (S),144.08844,-37.214
+Yarram,Government,Primary,Wellington (S),146.67532,-38.55853
+Lake Wendouree,Government,Primary,Ballarat (C),143.8385,-37.55633
+Yea,Government,Primary,Murrindindi (S),145.4283,-37.21273
+Lancefield,Government,Primary,Macedon Ranges (S),144.72642,-37.27495
+Coimadai,Government,Primary,Moorabool (S),144.47831,-37.61379
+Birregurra,Government,Primary,Colac-Otway (S),143.78651,-38.34046
+Clayton,Government,Primary,Monash (C),145.12267,-37.91194
+Milawa,Government,Primary,Wangaratta (RC),146.43248,-36.44454
+Lockwood,Government,Primary,Greater Bendigo (C),144.16156,-36.80258
+Bealiba,Government,Primary,Central Goldfields (S),143.5519,-36.78994
+Bairnsdale,Government,Primary,East Gippsland (S),147.62323,-37.82742
+Gordon,Government,Primary,Moorabool (S),144.10505,-37.58385
+Hepburn,Government,Primary,Hepburn (S),144.13276,-37.30972
+Lara Lake,Government,Primary,Greater Geelong (C),144.39564,-38.0304
+Rosedale,Government,Primary,Wellington (S),146.7739,-38.1546
+Bright,Government,Pri/Sec,Alpine (S),146.96093,-36.7331
+Rochester,Government,Primary,Campaspe (S),144.698,-36.3546
+Ararat,Government,Primary,Ararat (RC),142.93731,-37.28594
+Jamieson,Government,Primary,Mansfield (S),146.14,-37.30126
+Preston,Government,Primary,Darebin (C),145.00745,-37.74787
+Omeo,Government,Primary,East Gippsland (S),147.59308,-37.10022
+Harrietville,Government,Primary,Alpine (S),147.06494,-36.88771
+Mordialloc,Government,Primary,Kingston (C),145.08881,-38.00558
+Healesville,Government,Primary,Yarra Ranges (S),145.51604,-37.65713
+Lake Bolac,Government,Pri/Sec,Ararat (RC),142.8379,-37.72024
+Toongabbie,Government,Primary,Latrobe (C),146.62518,-38.05697
+Waubra,Government,Primary,Pyrenees (S),143.63446,-37.35384
+Great Western,Government,Primary,Northern Grampians (S),142.85173,-37.14851
+Maffra,Government,Primary,Wellington (S),146.97677,-37.964
+Broken Creek,Government,Primary,Benalla (RC),145.88923,-36.42328
+Lal Lal,Government,Primary,Moorabool (S),144.01071,-37.67672
+Cobden,Government,Primary,Corangamite (S),143.07812,-38.32712
+St Leonards,Government,Primary,Greater Geelong (C),144.71475,-38.17184
+Lilydale,Government,Primary,Yarra Ranges (S),145.35407,-37.75367
+Bendigo,Government,Primary,Greater Bendigo (C),144.26524,-36.75702
+Darraweit Guim,Government,Primary,Macedon Ranges (S),144.89357,-37.40103
+Linton,Government,Primary,Golden Plains (S),143.56131,-37.68407
+Invermay,Government,Primary,Ballarat (C),143.87458,-37.52053
+Mitta Mitta,Government,Primary,Towong (S),147.37948,-36.53341
+Camberwell,Government,Primary,Boroondara (C),145.05805,-37.83268
+Greenvale,Government,Primary,Hume (C),144.88618,-37.63983
+Alexandra,Government,Primary,Murrindindi (S),145.7117,-37.19257
+Rockbank,Government,Primary,Melton (C),144.6619,-37.73215
+Bannockburn,Government,Pri/Sec,Golden Plains (S),144.16067,-38.042
+Doreen,Government,Primary,Nillumbik (S),145.14554,-37.60601
+Talbot,Government,Primary,Central Goldfields (S),143.7036,-37.16865
+Yarra Glen,Government,Primary,Yarra Ranges (S),145.37241,-37.6497
+Kangaroo Flat,Government,Primary,Greater Bendigo (C),144.23409,-36.78768
+Westmeadows,Government,Primary,Hume (C),144.8957,-37.67565
+Sunbury,Government,Primary,Hume (C),144.72814,-37.59769
+Diamond Creek,Government,Primary,Nillumbik (S),145.15165,-37.67185
+Hesket,Government,Primary,Macedon Ranges (S),144.61978,-37.34781
+Axedale,Government,Primary,Greater Bendigo (C),144.50146,-36.78623
+Vermont,Government,Primary,Whitehorse (C),145.1943,-37.83736
+Tarnagulla,Government,Primary,Loddon (S),143.8284,-36.77126
+Balwyn,Government,Primary,Boroondara (C),145.08138,-37.81394
+Scoresby,Government,Primary,Knox (C),145.2275,-37.89395
+Carisbrook,Government,Primary,Central Goldfields (S),143.81266,-37.05206
+Wandin North,Government,Primary,Yarra Ranges (S),145.43595,-37.79025
+Yering,Government,Primary,Yarra Ranges (S),145.38222,-37.70535
+Dartmoor,Government,Primary,Glenelg (S),141.27673,-37.92302
+Mickleham,Government,Primary,Hume (C),144.87655,-37.5635
+Inglewood,Government,Primary,Loddon (S),143.87045,-36.57394
+Chewton,Government,Primary,Mount Alexander (S),144.26116,-37.08233
+Bolinda,Government,Primary,Macedon Ranges (S),144.7454,-37.43373
+Napoleons,Government,Primary,Golden Plains (S),143.82646,-37.67863
+Kew,Government,Primary,Boroondara (C),145.03339,-37.80364
+Haddon,Government,Primary,Golden Plains (S),143.72171,-37.58864
+Panmure,Government,Primary,Moyne (S),142.73253,-38.32935
+Sorrento,Government,Primary,Mornington Peninsula (S),144.74069,-38.34148
+Alfredton,Government,Primary,Ballarat (C),143.8021,-37.5548
+Bridgewater On Loddon,Government,Primary,Loddon (S),143.94592,-36.6031
+Hastings,Government,Primary,Mornington Peninsula (S),145.18947,-38.2997
+Yackandandah,Government,Primary,Indigo (S),146.83646,-36.3121
+Nagambie,Government,Primary,Strathbogie (S),145.15723,-36.78759
+Heyfield,Government,Primary,Wellington (S),146.78494,-37.98211
+Moorabbin,Government,Primary,Kingston (C),145.03959,-37.94202
+Mansfield,Government,Primary,Mansfield (S),146.08482,-37.05559
+Indigo Valley,Government,Primary,Indigo (S),146.72484,-36.15601
+Briagolong,Government,Primary,Wellington (S),147.06784,-37.8428
+Lindenow,Government,Primary,East Gippsland (S),147.45327,-37.80088
+Broadford,Government,Primary,Mitchell (S),145.0463,-37.20257
+Murchison,Government,Primary,Greater Shepparton (C),145.21429,-36.61718
+Panton Hill,Government,Primary,Nillumbik (S),145.23956,-37.64161
+Glen Park,Government,Primary,Moorabool (S),143.9348,-37.52478
+CONCONGELLA,Government,Primary,Northern Grampians (S),142.82232,-37.04956
+Bruthen,Government,Primary,East Gippsland (S),147.83349,-37.70421
+Swan Hill,Government,Primary,Swan Hill (RC),143.54325,-35.34691
+Porepunkah,Government,Primary,Alpine (S),146.91102,-36.69949
+Leopold,Government,Primary,Greater Geelong (C),144.46437,-38.18726
+Inverleigh,Government,Primary,Golden Plains (S),144.05469,-38.10094
+Glen Iris,Government,Primary,Boroondara (C),145.06589,-37.86048
+Trawalla,Government,Primary,Pyrenees (S),143.46986,-37.43773
+Quarry Hill,Government,Primary,Greater Bendigo (C),144.27998,-36.77512
+Sebastopol,Government,Primary,Ballarat (C),143.84472,-37.59643
+Woodside,Government,Primary,Wellington (S),146.87674,-38.52633
+Noorat,Government,Primary,Corangamite (S),142.92873,-38.19075
+Albert Park,Government,Primary,Port Phillip (C),144.95277,-37.84188
+Williamstown,Government,Primary,Hobsons Bay (C),144.90041,-37.8638
+Boneo,Government,Primary,Mornington Peninsula (S),144.88711,-38.41198
+Queenscliff,Government,Primary,Queenscliffe (B),144.65621,-38.26722
+Portland North,Government,Primary,Glenelg (S),141.57233,-38.31764
+Timor,Government,Primary,Central Goldfields (S),143.71199,-36.98422
+Apsley,Government,Primary,West Wimmera (S),141.08249,-36.97371
+Strathfieldsaye,Government,Primary,Greater Bendigo (C),144.35291,-36.80436
+Skye,Government,Primary,Frankston (C),145.20124,-38.11771
+Tooborac,Government,Primary,Mitchell (S),144.79814,-37.03978
+Eastwood,Government,Primary,East Gippsland (S),147.63075,-37.81267
+Upper Plenty,Government,Primary,Mitchell (S),145.05787,-37.42371
+Carlton North,Government,Primary,Yarra (C),144.97303,-37.79106
+Maldon,Government,Primary,Mount Alexander (S),144.06581,-36.99504
+Woori Yallock,Government,Primary,Yarra Ranges (S),145.53269,-37.77737
+Moyston,Government,Primary,Ararat (RC),142.76785,-37.30166
+Buninyong,Government,Primary,Ballarat (C),143.88625,-37.65423
+Marysville,Government,Primary,Murrindindi (S),145.74894,-37.51198
+Langley,Government,Primary,Mount Alexander (S),144.48966,-37.17118
+Wandong,Government,Primary,Mitchell (S),145.02786,-37.3603
+Cowes,Government,Primary,Bass Coast (S),145.24131,-38.45628
+Bullarto,Government,Primary,Hepburn (S),144.21822,-37.40538
+Lismore,Government,Primary,Corangamite (S),143.3393,-37.9546
+Lower Plenty,Government,Primary,Banyule (C),145.1155,-37.72617
+Golden Square,Government,Primary,Greater Bendigo (C),144.24834,-36.76187
+Bolwarra,Government,Primary,Glenelg (S),141.6138,-38.28161
+Navarre,Government,Primary,Northern Grampians (S),143.11134,-36.90074
+Warracknabeal,Government,Primary,Yarriambiack (S),142.39126,-36.25788
+Moyhu,Government,Primary,Wangaratta (RC),146.38309,-36.59317
+Natte Yallock,Government,Primary,Pyrenees (S),143.468,-36.94213
+Clifton Hill,Government,Primary,Yarra (C),144.98925,-37.79231
+Christmas Hills,Government,Primary,Nillumbik (S),145.3042,-37.65352
+Tallangatta,Government,Primary,Towong (S),147.1742,-36.2148
+Kialla,Government,Primary,Greater Shepparton (C),145.43115,-36.4527
+Mount Eliza,Government,Primary,Mornington Peninsula (S),145.09219,-38.19539
+San Remo,Government,Primary,Bass Coast (S),145.36945,-38.52385
+Dimboola,Government,Primary,Hindmarsh (S),142.0304,-36.45336
+Whorouly,Government,Primary,Wangaratta (RC),146.58665,-36.50544
+Merrijig,Government,Primary,Mansfield (S),146.25688,-37.1028
+Lethbridge,Government,Primary,Golden Plains (S),144.13456,-37.96906
+Oxley,Government,Primary,Wangaratta (RC),146.36064,-36.44156
+Northcote,Government,Primary,Darebin (C),144.99688,-37.77176
+North Melbourne,Government,Primary,Melbourne (C),144.95064,-37.79873
+Dandenong,Government,Primary,Greater Dandenong (C),145.21982,-37.98792
+Malmsbury,Government,Primary,Macedon Ranges (S),144.38694,-37.18732
+Williamstown,Government,Primary,Hobsons Bay (C),144.89176,-37.8559
+Kerang,Government,Primary,Gannawarra (S),143.92114,-35.73169
+Drouin West,Government,Primary,Baw Baw (S),145.87172,-38.08711
+Meredith,Government,Primary,Golden Plains (S),144.07781,-37.84271
+Edi Upper,Government,Primary,Wangaratta (RC),146.44881,-36.70647
+Eaglehawk,Government,Primary,Greater Bendigo (C),144.23727,-36.70707
+Mooroopna,Government,Primary,Greater Shepparton (C),145.36029,-36.39136
+Cairnlea,Government,Primary,Brimbank (C),144.788,-37.75885
+Ballan,Government,Primary,Moorabool (S),144.2311,-37.60168
+Ballarat,Government,Primary,Ballarat (C),143.85781,-37.57836
+Tatura,Government,Primary,Greater Shepparton (C),145.22992,-36.44497
+Toolamba,Government,Primary,Greater Shepparton (C),145.34418,-36.49052
+Tatura,Government,Primary,Greater Shepparton (C),145.14175,-36.46986
+Osbornes Flat,Government,Primary,Indigo (S),146.89257,-36.31716
+Frankston,Government,Primary,Frankston (C),145.12403,-38.14756
+Donald,Government,Primary,Buloke (S),142.98463,-36.36721
+Beveridge,Government,Primary,Mitchell (S),144.97776,-37.47206
+St Kilda,Government,Primary,Port Phillip (C),144.98902,-37.87022
+Cape Clear,Government,Primary,Golden Plains (S),143.60821,-37.79196
+Warburton,Government,Primary,Yarra Ranges (S),145.7017,-37.7558
+Tallarook,Government,Primary,Mitchell (S),145.10067,-37.09676
+Barnawartha,Government,Primary,Indigo (S),146.67589,-36.10131
+Fitzroy North,Government,Primary,Yarra (C),144.98415,-37.78502
+Geelong West,Government,Primary,Greater Geelong (C),144.3471,-38.13856
+Preston,Government,Primary,Darebin (C),145.01031,-37.73055
+Tooradin,Government,Primary,Casey (C),145.37849,-38.20763
+Hawthorn,Government,Primary,Boroondara (C),145.03397,-37.82405
+Elmore,Government,Primary,Greater Bendigo (C),144.60891,-36.4972
+Dookie,Government,Primary,Greater Shepparton (C),145.68279,-36.33107
+Brighton,Government,Primary,Bayside (C),145.00108,-37.91221
+Natimuk,Government,Primary,Horsham (RC),141.9505,-36.74124
+Murtoa,Government,Pri/Sec,Yarriambiack (S),142.47574,-36.6235
+Big Hill,Government,Primary,Greater Bendigo (C),144.24247,-36.83058
+Clunes,Government,Primary,Hepburn (S),143.79211,-37.29075
+Marnoo,Government,Primary,Northern Grampians (S),142.87035,-36.67685
+Beechworth,Government,Primary,Indigo (S),146.69357,-36.35543
+Ardmona,Government,Primary,Greater Shepparton (C),145.31307,-36.38546
+Kilmore,Government,Primary,Mitchell (S),144.94752,-37.29577
+Macarthur,Government,Primary,Moyne (S),142.00147,-38.03088
+Barwon Heads,Government,Primary,Greater Geelong (C),144.48704,-38.28119
+Keilor,Government,Primary,Brimbank (C),144.8357,-37.7169
+Dunolly,Government,Primary,Central Goldfields (S),143.73358,-36.85155
+Springhurst,Government,Primary,Wangaratta (RC),146.4681,-36.18467
+Trentham,Government,Primary,Hepburn (S),144.3281,-37.38797
+Warrenheip,Government,Primary,Ballarat (C),143.92743,-37.5741
+Maiden Gully,Government,Primary,Greater Bendigo (C),144.2097,-36.74419
+Rupanyup,Government,Primary,Yarriambiack (S),142.62861,-36.63222
+Goornong,Government,Primary,Greater Bendigo (C),144.50468,-36.617
+Oakleigh,Government,Primary,Monash (C),145.08862,-37.89447
+Ceres,Government,Primary,Greater Geelong (C),144.26673,-38.17355
+Malvern,Government,Primary,Stonnington (C),145.0344,-37.85601
+Daylesford,Government,Primary,Hepburn (S),144.14156,-37.3451
+Mooroopna,Government,Primary,Greater Shepparton (C),145.29849,-36.32914
+Swan Reach,Government,Primary,East Gippsland (S),147.86479,-37.82108
+Amphitheatre,Government,Primary,Pyrenees (S),143.39924,-37.18413
+Deans Marsh,Government,Primary,Surf Coast (S),143.88575,-38.39988
+Drysdale,Government,Primary,Greater Geelong (C),144.57175,-38.16916
+St Arnaud,Government,Primary,Northern Grampians (S),143.25754,-36.6102
+Nullawarre,Government,Primary,Moyne (S),142.73443,-38.46676
+Macedon,Government,Primary,Macedon Ranges (S),144.56268,-37.41869
+Arthurs Creek,Government,Primary,Nillumbik (S),145.2025,-37.579
+Rye,Government,Primary,Mornington Peninsula (S),144.82382,-38.37312
+Buxton,Government,Primary,Murrindindi (S),145.70905,-37.4214
+Moonambel,Government,Primary,Pyrenees (S),143.32074,-36.98986
+Longford,Government,Primary,Wellington (S),147.08841,-38.16956
+Harkaway,Government,Primary,Casey (C),145.34517,-38.00085
+Balnarring,Government,Primary,Mornington Peninsula (S),145.12282,-38.37672
+Londrigan,Government,Primary,Wangaratta (RC),146.46086,-36.3289
+Euroa,Government,Primary,Strathbogie (S),145.57208,-36.75596
+Pyramid Hill,Government,Pri/Sec,Loddon (S),144.11368,-36.04736
+Shepparton East,Government,Primary,Greater Shepparton (C),145.47925,-36.39993
+Nicholson,Government,Primary,East Gippsland (S),147.74791,-37.81578
+Kialla West,Government,Primary,Greater Shepparton (C),145.38946,-36.46601
+Miners Rest,Government,Primary,Ballarat (C),143.7947,-37.47788
+Glenrowan,Government,Primary,Wangaratta (RC),146.22234,-36.46019
+Warrnambool,Government,Primary,Warrnambool (C),142.48257,-38.37728
+Devenish,Government,Primary,Benalla (RC),145.89434,-36.32654
+Undera,Government,Primary,Greater Shepparton (C),145.21893,-36.27636
+Dederang,Government,Primary,Alpine (S),147.01531,-36.46925
+Axe Creek,Government,Primary,Greater Bendigo (C),144.38773,-36.84177
+Silvan,Government,Primary,Yarra Ranges (S),145.42132,-37.8246
+Wendouree,Government,Primary,Ballarat (C),143.82816,-37.53928
+Lancaster,Government,Primary,Campaspe (S),145.13282,-36.31325
+Raywood,Government,Primary,Greater Bendigo (C),144.2048,-36.53947
+Puckapunyal,Government,Primary,Mitchell (S),145.03351,-37.00263
+Landsborough,Government,Primary,Pyrenees (S),143.13591,-37.00586
+Lysterfield,Government,Primary,Knox (C),145.27623,-37.9116
+Winton,Government,Primary,Benalla (RC),146.08134,-36.51633
+Merrigum,Government,Primary,Greater Shepparton (C),145.12966,-36.36932
+Bethanga,Government,Primary,Towong (S),147.09576,-36.12064
+Abbotsford,Government,Primary,Yarra (C),144.99881,-37.80898
+Newtown,Government,Primary,Greater Geelong (C),144.3372,-38.14577
+Windsor,Government,Primary,Stonnington (C),144.99569,-37.8573
+Narre  Warren  North,Government,Primary,Casey (C),145.31692,-37.97859
+Buchan,Government,Primary,East Gippsland (S),148.18082,-37.49774
+Anakie,Government,Primary,Greater Geelong (C),144.25511,-37.91267
+Moolap,Government,Primary,Greater Geelong (C),144.42431,-38.17096
+Footscray,Government,Primary,Maribyrnong (C),144.90025,-37.8064
+Newham,Government,Primary,Macedon Ranges (S),144.59476,-37.31215
+Mill Park,Government,Primary,Whittlesea (C),145.07694,-37.66973
+White Hills,Government,Primary,Greater Bendigo (C),144.30415,-36.72794
+Mount Egerton,Government,Primary,Moorabool (S),144.10217,-37.62852
+Drouin,Government,Primary,Baw Baw (S),145.85384,-38.13286
+Wunghnu,Government,Primary,Moira (S),145.4306,-36.15066
+Maroona,Government,Primary,Ararat (RC),142.85847,-37.4328
+Jindivick,Government,Primary,Baw Baw (S),145.90113,-38.02762
+Talgarno,Government,Primary,Towong (S),147.15915,-36.0658
+Bungaree,Government,Primary,Moorabool (S),144.0071,-37.55759
+Little River,Government,Primary,Wyndham (C),144.50037,-37.96501
+Cowwarr,Government,Primary,Wellington (S),146.69896,-38.0137
+South Morang,Government,Primary,Whittlesea (C),145.09467,-37.65287
+Bendigo,Government,Primary,Greater Bendigo (C),144.27804,-36.75571
+Pyalong,Government,Primary,Mitchell (S),144.85709,-37.11724
+Winchelsea,Government,Primary,Surf Coast (S),143.98428,-38.24449
+Buln Buln,Government,Primary,Baw Baw (S),145.93817,-38.09935
+Soldiers Hill,Government,Primary,Ballarat (C),143.85749,-37.55115
+Elliminyt,Government,Primary,Colac-Otway (S),143.5837,-38.36135
+Mornington,Government,Primary,Mornington Peninsula (S),145.04309,-38.22181
+Hamilton,Government,Primary,Southern Grampians (S),141.99515,-37.72646
+Blowhard,Government,Primary,Ballarat (C),143.78644,-37.42924
+Creswick,Government,Primary,Hepburn (S),143.89082,-37.40884
+Ballarat,Government,Primary,Ballarat (C),143.86978,-37.54984
+Brighton,Government,Primary,Bayside (C),144.99611,-37.9221
+Castlemaine,Government,Primary,Mount Alexander (S),144.21899,-37.05783
+Yarrambat,Government,Primary,Nillumbik (S),145.1331,-37.64124
+Casterton,Government,Primary,Glenelg (S),141.4052,-37.58655
+Nathalia,Government,Primary,Moira (S),145.20589,-36.05752
+Newtown,Government,Primary,Greater Geelong (C),144.34538,-38.15511
+Greensborough,Government,Primary,Banyule (C),145.1005,-37.70357
+Teesdale,Government,Primary,Golden Plains (S),144.05459,-38.02923
+Cranbourne,Government,Primary,Casey (C),145.28785,-38.11186
+Katamatite,Government,Primary,Moira (S),145.6853,-36.07735
+Buangor,Government,Primary,Ararat (RC),143.17502,-37.36404
+Leitchville,Government,Primary,Gannawarra (S),144.30209,-35.90955
+Whittlesea,Government,Primary,Whittlesea (C),145.11405,-37.51427
+Nerrina,Government,Primary,Ballarat (C),143.89506,-37.5429
+Ballarat,Government,Primary,Ballarat (C),143.83122,-37.56602
+Warragul,Government,Primary,Baw Baw (S),145.92814,-38.15634
+Kangaroo Ground,Government,Primary,Nillumbik (S),145.21466,-37.69174
+Traralgon South,Government,Primary,Latrobe (C),146.54015,-38.29726
+Coleraine,Government,Primary,Southern Grampians (S),141.68404,-37.60184
+Ripplebrook,Government,Primary,Baw Baw (S),145.75849,-38.20349
+Numurkah,Government,Primary,Moira (S),145.445,-36.09024
+Moe,Government,Primary,Latrobe (C),146.26435,-38.17471
+South Geelong,Government,Primary,Greater Geelong (C),144.35857,-38.15694
+Bayswater,Government,Primary,Knox (C),145.25936,-37.8433
+Minyip,Government,Primary,Yarriambiack (S),142.5841,-36.46271
+Mulgrave,Government,Primary,Monash (C),145.19737,-37.93295
+Yarragon,Government,Primary,Baw Baw (S),146.06096,-38.20937
+Tyers,Government,Primary,Latrobe (C),146.47754,-38.14911
+Trafalgar,Government,Primary,Baw Baw (S),146.15987,-38.21476
+Kinglake,Government,Primary,Murrindindi (S),145.35664,-37.52157
+Ellinbank,Government,Primary,Baw Baw (S),145.93563,-38.24023
+Tambo Upper,Government,Primary,East Gippsland (S),147.8452,-37.7662
+Baranduda,Government,Primary,Wodonga (C),146.94812,-36.18053
+Tungamah,Government,Primary,Moira (S),145.87947,-36.16131
+Bunyip,Government,Primary,Cardinia (S),145.71251,-38.09884
+Gunbower,Government,Primary,Campaspe (S),144.37232,-35.95463
+Nar Nar Goon,Government,Primary,Cardinia (S),145.57401,-38.08277
+Toora,Government,Primary,South Gippsland (S),146.32799,-38.66352
+Montrose,Government,Primary,Yarra Ranges (S),145.34369,-37.8081
+Koondrook,Government,Primary,Gannawarra (S),144.12987,-35.63487
+Magpie,Government,Primary,Ballarat (C),143.84327,-37.61571
+Tawonga,Government,Primary,Alpine (S),147.14325,-36.6914
+Narracan,Government,Primary,Baw Baw (S),146.23163,-38.26158
+Drouin South,Government,Primary,Baw Baw (S),145.82682,-38.17057
+Eskdale,Government,Primary,Towong (S),147.25125,-36.46527
+Darnum,Government,Primary,Baw Baw (S),145.9997,-38.18773
+Moorooduc,Government,Primary,Mornington Peninsula (S),145.10517,-38.24809
+The Basin,Government,Primary,Knox (C),145.30842,-37.84951
+Paynesville,Government,Primary,East Gippsland (S),147.7147,-37.91128
+Epsom,Government,Primary,Greater Bendigo (C),144.31269,-36.70505
+Kensington,Government,Primary,Melbourne (C),144.92762,-37.79267
+Hazelwood North,Government,Primary,Latrobe (C),146.44768,-38.26819
+Mirboo North,Government,Primary,South Gippsland (S),146.15109,-38.40049
+Yinnar,Government,Primary,Latrobe (C),146.32891,-38.32109
+Neerim South,Government,Primary,Baw Baw (S),145.95536,-38.01531
+Ivanhoe,Government,Primary,Banyule (C),145.04298,-37.76657
+Portarlington,Government,Primary,Greater Geelong (C),144.65498,-38.11552
+Menzies Creek,Government,Primary,Yarra Ranges (S),145.39427,-37.91735
+St Kilda,Government,Primary,Port Phillip (C),144.97779,-37.85812
+Labertouche,Government,Primary,Baw Baw (S),145.80494,-38.03767
+Diggers Rest,Government,Primary,Melton (C),144.70923,-37.62263
+Longwarry,Government,Primary,Baw Baw (S),145.76914,-38.1141
+Gembrook,Government,Primary,Cardinia (S),145.54532,-37.95164
+Wurruk,Government,Primary,Wellington (S),147.03995,-38.1068
+Willow Grove,Government,Primary,Baw Baw (S),146.17734,-38.07139
+Hoddles Creek,Government,Primary,Yarra Ranges (S),145.59775,-37.83174
+BEACONSFIELD UPPER,Government,Primary,Cardinia (S),145.41476,-37.9954
+Congupna,Government,Primary,Greater Shepparton (C),145.43428,-36.29987
+Redesdale,Government,Primary,Greater Bendigo (C),144.53089,-37.01952
+Malvern East,Government,Primary,Stonnington (C),145.03846,-37.87159
+Launching Place,Government,Primary,Yarra Ranges (S),145.57077,-37.7825
+Carlton,Government,Primary,Melbourne (C),144.96951,-37.80205
+Ascot Vale,Government,Primary,Moonee Valley (C),144.92612,-37.77432
+Boolarra,Government,Primary,Latrobe (C),146.26887,-38.38287
+Rosebud,Government,Primary,Mornington Peninsula (S),144.909,-38.35576
+Koo Wee Rup,Government,Primary,Cardinia (S),145.49286,-38.19483
+Armadale,Government,Primary,Stonnington (C),145.01777,-37.85219
+Mount Martha,Government,Primary,Mornington Peninsula (S),145.04091,-38.25711
+Somerville,Government,Primary,Mornington Peninsula (S),145.17914,-38.22402
+Willaura,Government,Primary,Ararat (RC),142.73946,-37.54469
+Echuca,Government,Primary,Campaspe (S),144.76111,-36.13405
+Lakes Entrance,Government,Primary,East Gippsland (S),147.99424,-37.87598
+Myrrhee,Government,Primary,Wangaratta (RC),146.31825,-36.73819
+Longwood,Government,Primary,Strathbogie (S),145.42206,-36.80793
+Forrest,Government,Primary,Colac-Otway (S),143.71442,-38.51629
+Fairfield,Government,Primary,Darebin (C),145.0204,-37.77799
+Nilma,Government,Primary,Baw Baw (S),145.97429,-38.16574
+Garfield,Government,Primary,Cardinia (S),145.67415,-38.09056
+Yinnar South,Government,Primary,Latrobe (C),146.36481,-38.36891
+Officer,Government,Primary,Cardinia (S),145.41018,-38.05828
+Brunswick East,Government,Primary,Merri-bek (C),144.97254,-37.7787
+Orbost,Government,Primary,East Gippsland (S),148.45772,-37.70791
+Inverloch,Government,Primary,Bass Coast (S),145.72862,-38.6312
+Surrey Hills,Government,Primary,Whitehorse (C),145.1009,-37.82553
+South Melbourne,Government,Special,Port Phillip (C),144.94974,-37.8306
+Strathmerton,Government,Primary,Moira (S),145.47884,-35.92402
+Laharum,Government,Primary,Horsham (RC),142.32331,-36.94535
+Walwa,Government,Primary,Towong (S),147.73215,-35.96423
+Middle Park,Government,Primary,Port Phillip (C),144.95751,-37.8478
+Seville,Government,Primary,Yarra Ranges (S),145.46441,-37.77389
+Yarraville,Government,Primary,Maribyrnong (C),144.88539,-37.81475
+Coburg,Government,Primary,Merri-bek (C),144.96648,-37.75505
+Tanjil South,Government,Primary,Baw Baw (S),146.2524,-38.11887
+Pomonal,Government,Primary,Ararat (RC),142.60873,-37.19344
+Brighton,Government,Primary,Bayside (C),144.99729,-37.89142
+Glengarry,Government,Primary,Latrobe (C),146.57134,-38.12758
+Carnegie,Government,Primary,Glen Eira (C),145.0545,-37.89074
+Lang Lang,Government,Primary,Cardinia (S),145.5694,-38.26317
+Croydon,Government,Primary,Maroondah (C),145.28132,-37.79317
+Moonee Ponds,Government,Primary,Moonee Valley (C),144.90933,-37.76895
+Mitcham,Government,Primary,Whitehorse (C),145.19272,-37.80899
+Loch,Government,Primary,South Gippsland (S),145.70295,-38.36862
+Mildura,Government,Primary,Mildura (RC),142.16049,-34.19429
+Blackburn,Government,Primary,Whitehorse (C),145.1567,-37.81657
+Newmerella,Government,Primary,East Gippsland (S),148.434,-37.73547
+Port Melbourne,Government,Primary,Port Phillip (C),144.93381,-37.83532
+Hawthorn East,Government,Primary,Boroondara (C),145.05048,-37.82028
+Mentone,Government,Primary,Kingston (C),145.06797,-37.98295
+Carlton North,Government,Primary,Yarra (C),144.9681,-37.7804
+Research,Government,Primary,Nillumbik (S),145.18357,-37.70292
+Pearcedale,Government,Primary,Casey (C),145.23198,-38.20301
+Lindenow South,Government,Primary,East Gippsland (S),147.4339,-37.82694
+Thorpdale,Government,Primary,Baw Baw (S),146.17879,-38.28846
+St Albans,Government,Primary,Brimbank (C),144.79577,-37.73875
+Leongatha,Government,Primary,South Gippsland (S),145.95898,-38.47893
+Jeparit,Government,Primary,Hindmarsh (S),141.98405,-36.14134
+Toorak,Government,Primary,Stonnington (C),145.00991,-37.84508
+Baxter,Government,Primary,Mornington Peninsula (S),145.18155,-38.19966
+Fish Creek,Government,Primary,South Gippsland (S),146.08442,-38.69475
+Beaconsfield,Government,Primary,Cardinia (S),145.37164,-38.04863
+Metung,Government,Primary,East Gippsland (S),147.85246,-37.88296
+Newhaven,Government,Primary,Bass Coast (S),145.35686,-38.51315
+Halls Gap,Government,Primary,Northern Grampians (S),142.51743,-37.13748
+Tallygaroopna,Government,Primary,Greater Shepparton (C),145.43632,-36.23861
+Ormond,Government,Primary,Glen Eira (C),145.03367,-37.907
+Korumburra,Government,Primary,South Gippsland (S),145.82564,-38.43513
+Crib Point,Government,Primary,Mornington Peninsula (S),145.20054,-38.36048
+Pascoe Vale,Government,Primary,Merri-bek (C),144.93726,-37.73122
+Flowerdale,Government,Primary,Murrindindi (S),145.29136,-37.31692
+Ocean Grove,Government,Primary,Greater Geelong (C),144.52185,-38.26399
+Beulah,Government,Primary,Yarriambiack (S),142.41826,-35.94494
+Fitzroy North,Government,Primary,Yarra (C),144.98739,-37.77697
+Sunshine,Government,Primary,Brimbank (C),144.83101,-37.79079
+Tyabb,Government,Primary,Mornington Peninsula (S),145.16664,-38.26071
+Thornbury,Government,Primary,Darebin (C),145.00883,-37.76151
+Sandy Creek,Government,Primary,Indigo (S),147.1129,-36.35518
+Clifton Hill,Government,Primary,Yarra (C),145.00388,-37.78679
+Kew East,Government,Primary,Boroondara (C),145.04915,-37.79647
+Nichols Point,Government,Primary,Mildura (RC),142.20464,-34.2088
+Irymple,Government,Primary,Mildura (RC),142.15908,-34.2266
+Brunswick East,Government,Primary,Merri-bek (C),144.98,-37.76527
+Eagle Point,Government,Primary,East Gippsland (S),147.68022,-37.89245
+Yarra Junction,Government,Primary,Yarra Ranges (S),145.60608,-37.77903
+Sassafras,Government,Primary,Yarra Ranges (S),145.35455,-37.86162
+Ferny Creek,Government,Primary,Yarra Ranges (S),145.33473,-37.88421
+Toolangi,Government,Primary,Murrindindi (S),145.4725,-37.53537
+Wonga Park,Government,Primary,Manningham (C),145.274,-37.73064
+Kinglake West,Government,Primary,Murrindindi (S),145.2596,-37.4813
+French Island,Government,Primary,Unincorporated Vic,145.33341,-38.38338
+Monbulk,Government,Primary,Yarra Ranges (S),145.41026,-37.87685
+Lake Boga,Government,Primary,Swan Hill (RC),143.63207,-35.46451
+Chum Creek,Government,Primary,Yarra Ranges (S),145.48925,-37.60596
+Mount Dandenong,Government,Primary,Yarra Ranges (S),145.36217,-37.83074
+Healesville,Government,Primary,Yarra Ranges (S),145.53324,-37.68134
+Kinglake Central,Government,Primary,Murrindindi (S),145.31568,-37.50521
+Point Lonsdale,Government,Primary,Queenscliffe (B),144.62113,-38.27443
+Kongwak,Government,Primary,South Gippsland (S),145.71286,-38.51511
+Clarinda,Government,Primary,Kingston (C),145.10292,-37.927
+Chelsea Heights,Government,Primary,Kingston (C),145.13806,-38.04502
+Wallington,Government,Primary,Greater Geelong (C),144.50685,-38.21788
+Tecoma,Government,Primary,Yarra Ranges (S),145.34492,-37.90696
+Torquay,Government,Primary,Surf Coast (S),144.31231,-38.32177
+Emerald,Government,Primary,Cardinia (S),145.44243,-37.93338
+Carrum,Government,Primary,Kingston (C),145.1267,-38.07812
+Nyora,Government,Primary,South Gippsland (S),145.67489,-38.33624
+Exford,Government,Primary,Melton (C),144.55879,-37.74529
+Ultima,Government,Primary,Swan Hill (RC),143.26617,-35.47623
+Mount Waverley,Government,Primary,Monash (C),145.12411,-37.88127
+Marlo,Government,Primary,East Gippsland (S),148.53504,-37.79627
+Murrumbeena,Government,Primary,Glen Eira (C),145.07041,-37.88617
+Wesburn,Government,Primary,Yarra Ranges (S),145.64707,-37.76869
+Koorlong,Government,Primary,Mildura (RC),142.08485,-34.27806
+Warranwood,Government,Primary,Maroondah (C),145.24698,-37.77435
+Willowmavin,Government,Primary,Mitchell (S),144.88823,-37.25942
+Olinda,Government,Primary,Yarra Ranges (S),145.36619,-37.8547
+Carlisle River,Government,Primary,Colac-Otway (S),143.39503,-38.56393
+Bendigo,Government,Primary,Greater Bendigo (C),144.28446,-36.79318
+Mallacoota,Government,Pri/Sec,East Gippsland (S),149.7543,-37.55943
+Langwarrin,Government,Primary,Frankston (C),145.18985,-38.16039
+Cockatoo,Government,Primary,Cardinia (S),145.49638,-37.93937
+Tyabb,Government,Primary,Mornington Peninsula (S),145.1925,-38.26195
+Belgrave South,Government,Primary,Yarra Ranges (S),145.35792,-37.9312
+Preston,Government,Special,Darebin (C),145.01817,-37.73791
+Sydenham,Government,Primary,Brimbank (C),144.76233,-37.70205
+Canterbury,Government,Primary,Boroondara (C),145.08314,-37.83096
+Cabarita,Government,Primary,Mildura (RC),142.09314,-34.20592
+Traralgon,Government,Primary,Latrobe (C),146.53712,-38.19305
+Brunswick West,Government,Primary,Merri-bek (C),144.95043,-37.75984
+Fawkner,Government,Primary,Merri-bek (C),144.97476,-37.71524
+Alphington,Government,Primary,Yarra (C),145.03201,-37.78352
+Heidelberg,Government,Special,Banyule (C),145.05829,-37.75544
+Bona Vista,Government,Primary,Baw Baw (S),145.95991,-38.21052
+Carrum Downs,Government,Primary,Frankston (C),145.18791,-38.0946
+Bundoora,Government,Primary,Whittlesea (C),145.04263,-37.69451
+Macclesfield,Government,Primary,Yarra Ranges (S),145.47537,-37.88979
+Black Rock,Government,Primary,Bayside (C),145.02165,-37.96987
+Mount Evelyn,Government,Primary,Yarra Ranges (S),145.38882,-37.79093
+Kilsyth,Government,Primary,Yarra Ranges (S),145.31494,-37.80211
+Wonthaggi,Government,Primary,Bass Coast (S),145.58864,-38.60795
+Spotswood,Government,Primary,Hobsons Bay (C),144.88174,-37.83045
+Clyde,Government,Primary,Casey (C),145.32639,-38.13232
+Noble Park,Government,Primary,Greater Dandenong (C),145.17391,-37.97063
+Deepdene,Government,Primary,Boroondara (C),145.06136,-37.80837
+Clifton Creek,Government,Primary,East Gippsland (S),147.65939,-37.70208
+Kennington,Government,Primary,Greater Bendigo (C),144.3075,-36.7688
+Cardinia,Government,Primary,Cardinia (S),145.42377,-38.1458
+Grahamvale,Government,Primary,Greater Shepparton (C),145.43072,-36.3572
+Irymple,Government,Primary,Mildura (RC),142.19062,-34.25249
+Glen Huntly,Government,Primary,Glen Eira (C),145.04623,-37.89377
+Nanneella,Government,Primary,Campaspe (S),144.77804,-36.31297
+Wantirna,Government,Primary,Knox (C),145.21651,-37.85626
+Wonthaggi,Government,Primary,Bass Coast (S),145.60023,-38.59882
+Melton South,Government,Primary,Melton (C),144.57426,-37.70872
+Chelsea,Government,Primary,Kingston (C),145.12231,-38.05489
+Hampton,Government,Primary,Bayside (C),145.00348,-37.93339
+Melbourne,Government,Special,Melbourne (C),144.98231,-37.84977
+Balliang East,Government,Primary,Moorabool (S),144.41535,-37.79498
+Edithvale,Government,Primary,Kingston (C),145.11297,-38.03749
+Orrvale,Government,Primary,Greater Shepparton (C),145.44054,-36.41041
+Thornbury,Government,Primary,Darebin (C),145.01427,-37.75452
+Underbool,Government,Primary,Mildura (RC),141.81405,-35.17057
+Caulfield North,Government,Primary,Glen Eira (C),145.02156,-37.87211
+Seaford,Government,Primary,Frankston (C),145.1305,-38.10444
+Burwood,Government,Primary,Whitehorse (C),145.09737,-37.84264
+Murrabit,Government,Primary,Gannawarra (S),143.95075,-35.52884
+Preston,Government,Primary,Darebin (C),144.99553,-37.73737
+Thornbury,Government,Primary,Darebin (C),144.99675,-37.75543
+West Footscray,Government,Primary,Maribyrnong (C),144.87527,-37.79487
+Wandin North,Government,Primary,Yarra Ranges (S),145.40971,-37.76978
+Brighton East,Government,Primary,Bayside (C),145.01503,-37.90468
+Beaumaris,Government,Primary,Bayside (C),145.03759,-37.98527
+Dookie Campus,Government,Primary,Greater Shepparton (C),145.70379,-36.38475
+Cann River,Government,Pri/Sec,East Gippsland (S),149.15302,-37.5697
+Altona,Government,Primary,Hobsons Bay (C),144.82274,-37.86771
+Devon Meadows,Government,Primary,Casey (C),145.30138,-38.16203
+Upper Ferntree Gully,Government,Primary,Knox (C),145.31432,-37.8956
+Eildon,Government,Primary,Murrindindi (S),145.90676,-37.23397
+Bittern,Government,Primary,Mornington Peninsula (S),145.17168,-38.33986
+Colbinabbin,Government,Primary,Campaspe (S),144.80166,-36.58988
+Stanhope,Government,Primary,Campaspe (S),144.98802,-36.4481
+Hurstbridge,Government,Primary,Nillumbik (S),145.19812,-37.6359
+Coburg,Government,Primary,Merri-bek (C),144.94762,-37.74715
+Elwood,Government,Primary,Port Phillip (C),144.98836,-37.8815
+Mont Albert,Government,Primary,Whitehorse (C),145.10273,-37.81308
+Dhurringile,Government,Primary,Greater Shepparton (C),145.23979,-36.5432
+Strathewen,Government,Primary,Nillumbik (S),145.27009,-37.54758
+Don Valley,Government,Primary,Yarra Ranges (S),145.58741,-37.7602
+Reservoir,Government,Primary,Darebin (C),145.00677,-37.71142
+Yallourn North,Government,Primary,Latrobe (C),146.36222,-38.16321
+Lake Tyers Beach,Government,Primary,East Gippsland (S),148.05097,-37.85254
+Girgarre,Government,Primary,Campaspe (S),144.97376,-36.39811
+Gladysdale,Government,Primary,Yarra Ranges (S),145.65099,-37.82025
+Mildura,Government,Primary,Mildura (RC),142.15239,-34.17973
+Moonee Ponds,Government,Primary,Moonee Valley (C),144.93299,-37.76334
+Yarraville,Government,Primary,Maribyrnong (C),144.87466,-37.8126
+Kallista,Government,Primary,Yarra Ranges (S),145.37,-37.88509
+Essendon North,Government,Primary,Moonee Valley (C),144.90319,-37.74152
+Ascot Vale,Government,Primary,Moonee Valley (C),144.91112,-37.78068
+Camberwell,Government,Primary,Boroondara (C),145.08447,-37.84805
+Red Cliffs,Government,Primary,Mildura (RC),142.18531,-34.31157
+Wattle Glen,Government,Primary,Nillumbik (S),145.18204,-37.66884
+Hampton Park,Government,Primary,Casey (C),145.25289,-38.03041
+Colac,Government,Primary,Colac-Otway (S),143.57975,-38.33642
+St Kilda East,Government,Primary,Glen Eira (C),145.00505,-37.87461
+Montmorency,Government,Primary,Banyule (C),145.1216,-37.71765
+Moriac,Government,Primary,Surf Coast (S),144.17557,-38.24139
+Ringwood North,Government,Primary,Maroondah (C),145.23074,-37.79313
+Red Cliffs,Government,Primary,Mildura (RC),142.21427,-34.30511
+Malvern East,Government,Primary,Stonnington (C),145.05611,-37.87242
+Bayswater North,Government,Primary,Maroondah (C),145.29562,-37.8288
+Pascoe Vale,Government,Primary,Merri-bek (C),144.93548,-37.71629
+Point Cook,Government,Pri/Sec,Wyndham (C),144.72449,-37.8938
+Footscray,Government,Primary,Maribyrnong (C),144.88337,-37.78775
+Airly,Government,Primary,Wellington (S),147.1139,-38.02571
+Glen Iris,Government,Primary,Boroondara (C),145.06261,-37.8479
+Parkdale,Government,Primary,Kingston (C),145.0831,-37.99279
+Hughesdale,Government,Primary,Monash (C),145.07764,-37.90584
+Northcote,Government,Primary,Darebin (C),145.00556,-37.77647
+Hawthorn East,Government,Primary,Boroondara (C),145.04589,-37.83926
+Aspendale,Government,Primary,Kingston (C),145.09976,-38.02027
+Eltham North,Government,Primary,Nillumbik (S),145.15087,-37.70011
+Warrnambool,Government,Primary,Warrnambool (C),142.45615,-38.37802
+Dandenong,Government,Primary,Greater Dandenong (C),145.20042,-37.98074
+CROYDON NORTH,Government,Primary,Maroondah (C),145.27223,-37.7664
+Essendon,Government,Primary,Moonee Valley (C),144.89477,-37.75649
+Manifold Heights,Government,Primary,Greater Geelong (C),144.33292,-38.13597
+Nungurner,Government,Primary,East Gippsland (S),147.88839,-37.86592
+Dingley Village,Government,Primary,Kingston (C),145.1325,-37.9826
+Cardross,Government,Primary,Mildura (RC),142.14504,-34.28801
+Albion,Government,Primary,Brimbank (C),144.81975,-37.77808
+Lemnos,Government,Primary,Greater Shepparton (C),145.46246,-36.35805
+Tarwin Lower,Government,Primary,South Gippsland (S),145.86706,-38.70257
+Seaford,Government,Special,Frankston (C),145.14233,-38.11943
+Brunswick West,Government,Primary,Merri-bek (C),144.94352,-37.77058
+Preston,Government,Primary,Darebin (C),144.99061,-37.7477
+Surrey Hills,Government,Primary,Boroondara (C),145.0916,-37.81765
+Caulfield South,Government,Primary,Glen Eira (C),145.0308,-37.89525
+Ashburton,Government,Primary,Boroondara (C),145.08362,-37.8622
+Bentleigh,Government,Primary,Glen Eira (C),145.02677,-37.92059
+Seaspray,Government,Primary,Wellington (S),147.17062,-38.35649
+Anglesea,Government,Primary,Surf Coast (S),144.19184,-38.39678
+Briar Hill,Government,Primary,Banyule (C),145.11622,-37.70831
+Zeerust,Government,Primary,Greater Shepparton (C),145.40507,-36.2772
+Ormond,Government,Primary,Glen Eira (C),145.0528,-37.90805
+Clayton South,Government,Primary,Kingston (C),145.11644,-37.94048
+Ivanhoe East,Government,Primary,Banyule (C),145.05945,-37.77459
+Cobains,Government,Primary,Wellington (S),147.13228,-38.07479
+Mildura South,Government,Primary,Mildura (RC),142.12679,-34.21348
+Geelong East,Government,Primary,Greater Geelong (C),144.3792,-38.16605
+Brunswick West,Government,Primary,Merri-bek (C),144.94359,-37.75671
+Katandra West,Government,Primary,Greater Shepparton (C),145.56071,-36.22547
+Narre Warren,Government,Primary,Casey (C),145.3181,-38.0393
+Sandringham,Government,Primary,Bayside (C),145.02222,-37.95667
+Seaholme,Government,Primary,Hobsons Bay (C),144.83991,-37.86421
+Somers,Government,Primary,Mornington Peninsula (S),145.16461,-38.39212
+TRAVANCORE,Government,Special,Moonee Valley (C),144.93487,-37.7819
+Upwey,Government,Primary,Yarra Ranges (S),145.3328,-37.90287
+Coburg,Government,Primary,Merri-bek (C),144.95185,-37.73617
+Rosanna,Government,Primary,Banyule (C),145.0629,-37.73539
+Wantirna South,Government,Primary,Knox (C),145.23734,-37.87253
+Strathmore,Government,Primary,Moonee Valley (C),144.917,-37.73551
+Balwyn North,Government,Primary,Boroondara (C),145.07704,-37.7967
+Ashburton,Government,Primary,Boroondara (C),145.07283,-37.87324
+Wangaratta,Government,Primary,Wangaratta (RC),146.30442,-36.35413
+Mount Beauty,Government,Primary,Alpine (S),147.17159,-36.7395
+Preston,Government,Primary,Darebin (C),144.98538,-37.73011
+Somers,Government,Primary,Mornington Peninsula (S),145.14575,-38.38878
+Newborough,Government,Primary,Latrobe (C),146.29279,-38.18858
+Traralgon,Government,Primary,Latrobe (C),146.52417,-38.18998
+Shepparton,Government,Primary,Greater Shepparton (C),145.39635,-36.3668
+Tootgarook,Government,Primary,Mornington Peninsula (S),144.85732,-38.36948
+Moe,Government,Primary,Latrobe (C),146.26006,-38.18319
+Belmont,Government,Primary,Greater Geelong (C),144.32982,-38.17401
+Newport,Government,Primary,Hobsons Bay (C),144.86883,-37.84521
+Shepparton,Government,Primary,Greater Shepparton (C),145.40574,-36.39009
+Malvern East,Government,Primary,Stonnington (C),145.08149,-37.8807
+Newborough,Government,Primary,Latrobe (C),146.29376,-38.179
+Balwyn,Government,Special,Boroondara (C),145.08114,-37.80428
+Northcote,Government,Special,Darebin (C),144.9874,-37.764
+Hamlyn Heights,Government,Primary,Greater Geelong (C),144.33245,-38.12936
+Frankston,Government,Primary,Frankston (C),145.14553,-38.14663
+Selby,Government,Primary,Yarra Ranges (S),145.36752,-37.91143
+Reservoir,Government,Primary,Darebin (C),145.02184,-37.71998
+Bentleigh,Government,Primary,Glen Eira (C),145.04901,-37.93254
+Katunga,Government,Primary,Moira (S),145.45561,-35.99856
+Ballarat,Government,Primary,Ballarat (C),143.86281,-37.5401
+Bandiana,Government,Primary,Wodonga (C),146.92714,-36.15296
+Balwyn North,Government,Primary,Boroondara (C),145.09596,-37.80143
+Warragul,Government,Primary,Baw Baw (S),145.93985,-38.14811
+Horsham,Government,Primary,Horsham (RC),142.17999,-36.71742
+Traralgon,Government,Primary,Latrobe (C),146.51536,-38.19927
+Traralgon,Government,Primary,Latrobe (C),146.55149,-38.20155
+Ringwood East,Government,Primary,Maroondah (C),145.25295,-37.81724
+Pascoe Vale South,Government,Primary,Merri-bek (C),144.93562,-37.74572
+Lalor,Government,Primary,Whittlesea (C),145.02539,-37.67008
+Reservoir,Government,Primary,Darebin (C),144.99023,-37.72214
+Bentleigh East,Government,Primary,Glen Eira (C),145.07363,-37.92008
+Blackburn North,Government,Primary,Whitehorse (C),145.15251,-37.80757
+Oakleigh South,Government,Primary,Monash (C),145.10236,-37.91308
+Box Hill North,Government,Primary,Whitehorse (C),145.12331,-37.80079
+Ferntree Gully,Government,Primary,Knox (C),145.29942,-37.87479
+Ararat,Government,Primary,Ararat (RC),142.921,-37.27736
+Oak Park,Government,Primary,Merri-bek (C),144.91504,-37.71553
+Dandenong,Government,Primary,Greater Dandenong (C),145.21447,-37.97664
+Bairnsdale,Government,Primary,East Gippsland (S),147.6081,-37.82454
+Bendigo,Government,Special,Greater Bendigo (C),144.27865,-36.73783
+Noble Park,Government,Primary,Greater Dandenong (C),145.1799,-37.95444
+Pascoe Vale,Government,Primary,Merri-bek (C),144.94848,-37.72126
+Balwyn North,Government,Primary,Boroondara (C),145.07865,-37.78252
+Belmont,Government,Primary,Greater Geelong (C),144.34199,-38.17944
+Moe,Government,Primary,Latrobe (C),146.24672,-38.18973
+St Albans,Government,Primary,Brimbank (C),144.81109,-37.74217
+Shepparton,Government,Primary,Greater Shepparton (C),145.41297,-36.36654
+Swan Hill,Government,Primary,Swan Hill (RC),143.54607,-35.33179
+Sunshine,Government,Primary,Brimbank (C),144.81816,-37.79222
+Sunshine North,Government,Primary,Brimbank (C),144.83719,-37.77201
+Rosanna,Government,Primary,Banyule (C),145.07794,-37.74361
+Portland,Government,Primary,Glenelg (S),141.61062,-38.36527
+Rosanna,Government,Primary,Banyule (C),145.07412,-37.73512
+Cheltenham,Government,Primary,Kingston (C),145.06835,-37.96526
+Cranbourne South,Government,Primary,Casey (C),145.24506,-38.14794
+Wangaratta,Government,Primary,Wangaratta (RC),146.31718,-36.37256
+Lake Gardens,Government,Special,Ballarat (C),143.8187,-37.55244
+East Preston,Government,Primary,Darebin (C),145.02946,-37.73305
+Orbost,Government,Primary,East Gippsland (S),148.466,-37.69779
+Bell Park,Government,Special,Greater Geelong (C),144.3377,-38.11424
+Craigieburn,Government,Primary,Hume (C),144.93355,-37.58264
+Warrnambool,Government,Primary,Warrnambool (C),142.49958,-38.38959
+Colac,Government,Primary,Colac-Otway (S),143.57203,-38.34363
+Hamilton,Government,Primary,Southern Grampians (S),142.0344,-37.74662
+Bentleigh East,Government,Primary,Glen Eira (C),145.05717,-37.91461
+Frankston,Government,Primary,Frankston (C),145.12697,-38.16049
+Yarraville,Government,Primary,Maribyrnong (C),144.87443,-37.82104
+Braybrook,Government,Special,Maribyrnong (C),144.85541,-37.77964
+Bonbeach,Government,Primary,Kingston (C),145.12564,-38.06649
+Springvale,Government,Primary,Greater Dandenong (C),145.15815,-37.96265
+Beaumaris,Government,Primary,Bayside (C),145.03661,-37.97424
+Hamlyn Heights,Government,Primary,Greater Geelong (C),144.3271,-38.11776
+Noble Park,Government,Primary,Greater Dandenong (C),145.19153,-37.97029
+Nunawading,Government,Primary,Whitehorse (C),145.18009,-37.82859
+Glenroy,Government,Primary,Merri-bek (C),144.90829,-37.70496
+Dandenong,Government,Primary,Greater Dandenong (C),145.21143,-37.99895
+St Albans,Government,Primary,Brimbank (C),144.80201,-37.73174
+Avondale Heights,Government,Primary,Moonee Valley (C),144.86085,-37.76784
+Doncaster East,Government,Primary,Manningham (C),145.15984,-37.79624
+Wodonga,Government,Primary,Wodonga (C),146.87671,-36.12241
+Frankston,Government,Primary,Frankston (C),145.14717,-38.16181
+Box Hill North,Government,Primary,Whitehorse (C),145.13525,-37.80368
+Heathmont,Government,Primary,Maroondah (C),145.25769,-37.83035
+Strathmore,Government,Primary,Moonee Valley (C),144.91598,-37.72486
+Oakleigh South,Government,Primary,Monash (C),145.0947,-37.92221
+Thomastown,Government,Primary,Whittlesea (C),145.0249,-37.68033
+Mount Waverley,Government,Primary,Monash (C),145.11127,-37.88892
+Bentleigh East,Government,Primary,Glen Eira (C),145.06942,-37.93451
+Watsonia,Government,Primary,Banyule (C),145.08692,-37.70703
+Parkdale,Government,Primary,Kingston (C),145.08824,-37.98711
+Mitcham,Government,Primary,Whitehorse (C),145.206,-37.81619
+Kingsbury,Government,Primary,Darebin (C),145.0372,-37.71602
+Ardeer,Government,Primary,Brimbank (C),144.80049,-37.78107
+Clayton South,Government,Primary,Kingston (C),145.13574,-37.94219
+Tullamarine,Government,Primary,Hume (C),144.87957,-37.7022
+Sale,Government,Primary,Wellington (S),147.08383,-38.0957
+Park Orchards,Government,Primary,Manningham (C),145.21592,-37.77952
+Sunshine North,Government,Primary,Brimbank (C),144.82304,-37.76212
+Blackburn,Government,Primary,Whitehorse (C),145.1661,-37.8276
+Blackburn,Government,Primary,Whitehorse (C),145.13921,-37.8271
+Bell Post Hill,Government,Primary,Greater Geelong (C),144.32646,-38.10121
+Donvale,Government,Special,Manningham (C),145.17804,-37.80034
+Highton,Government,Primary,Greater Geelong (C),144.31977,-38.17959
+Mount Waverley,Government,Primary,Monash (C),145.14234,-37.89012
+Broadmeadows,Government,Primary,Hume (C),144.92849,-37.68019
+Fawkner,Government,Primary,Merri-bek (C),144.96722,-37.69576
+Keilor East,Government,Primary,Moonee Valley (C),144.86649,-37.73752
+Croydon,Government,Primary,Maroondah (C),145.26424,-37.79379
+Forest Hill,Government,Primary,Whitehorse (C),145.17718,-37.84384
+Lara,Government,Primary,Greater Geelong (C),144.41054,-38.01592
+Ringwood,Government,Primary,Maroondah (C),145.23944,-37.79774
+Cranbourne,Government,Primary,Casey (C),145.27775,-38.10406
+Viewbank,Government,Primary,Banyule (C),145.08999,-37.73473
+Greensborough,Government,Primary,Banyule (C),145.11865,-37.69228
+Upwey,Government,Primary,Yarra Ranges (S),145.32684,-37.91314
+Simpson,Government,Primary,Corangamite (S),143.20788,-38.49862
+Eltham,Government,Primary,Nillumbik (S),145.15486,-37.71143
+Seaford,Government,Primary,Frankston (C),145.14693,-38.10984
+Mount Waverley,Government,Primary,Monash (C),145.11564,-37.86299
+Ferntree Gully,Government,Primary,Knox (C),145.26971,-37.88569
+Ferntree Gully,Government,Primary,Knox (C),145.2648,-37.8696
+Boronia,Government,Primary,Knox (C),145.27848,-37.85856
+Moorabbin,Government,Primary,Kingston (C),145.05697,-37.94118
+Ringwood North,Government,Primary,Maroondah (C),145.21721,-37.80423
+Glenroy,Government,Special,Merri-bek (C),144.92053,-37.69936
+Croydon,Government,Primary,Maroondah (C),145.29616,-37.79894
+Dandenong,Government,Special,Greater Dandenong (C),145.2081,-37.96986
+Newtown,Government,Primary,Greater Geelong (C),144.32686,-38.1538
+Frankston,Government,Primary,Frankston (C),145.15228,-38.13792
+Glen Waverley,Government,Primary,Monash (C),145.17881,-37.88348
+Mount Waverley,Government,Primary,Monash (C),145.1433,-37.87909
+Montmorency,Government,Primary,Banyule (C),145.12966,-37.72493
+Altona North,Government,Primary,Hobsons Bay (C),144.84917,-37.83698
+Burwood East,Government,Primary,Whitehorse (C),145.16328,-37.84675
+Stawell,Government,Primary,Northern Grampians (S),142.77129,-37.06576
+Greensborough,Government,Primary,Banyule (C),145.10073,-37.7153
+Wendouree,Government,Primary,Ballarat (C),143.83543,-37.52319
+Mooroolbark,Government,Primary,Yarra Ranges (S),145.32724,-37.7968
+Frankston North,Government,Primary,Frankston (C),145.1574,-38.12562
+Shepparton,Government,Primary,Greater Shepparton (C),145.4059,-36.3985
+Bundoora,Government,Primary,Banyule (C),145.06299,-37.70734
+St Albans,Government,Primary,Brimbank (C),144.80307,-37.75489
+St Albans,Government,Primary,Brimbank (C),144.81037,-37.74865
+Kerang,Government,Primary,Gannawarra (S),143.92716,-35.74123
+Broadmeadows,Government,Special,Hume (C),144.92701,-37.6724
+Mentone,Government,Primary,Kingston (C),145.0828,-37.98001
+Donvale,Government,Primary,Manningham (C),145.17378,-37.80041
+Bell Park,Government,Primary,Greater Geelong (C),144.33602,-38.10589
+Boronia,Government,Primary,Knox (C),145.29648,-37.84457
+Glen Waverley,Government,Special,Monash (C),145.16175,-37.88836
+Churchill,Government,Primary,Latrobe (C),146.41542,-38.3111
+Highton,Government,Primary,Greater Geelong (C),144.31612,-38.16627
+Bayswater,Government,Primary,Knox (C),145.26135,-37.8549
+Seaford,Government,Primary,Frankston (C),145.13361,-38.09016
+Morwell,Government,Primary,Latrobe (C),146.42446,-38.22793
+Thomastown,Government,Primary,Whittlesea (C),145.03554,-37.67658
+St Albans,Government,Special,Brimbank (C),144.81418,-37.75602
+Carlton,Government,Primary,Melbourne (C),144.97045,-37.7956
+Belmont,Government,Primary,Greater Geelong (C),144.33986,-38.18571
+Lower Templestowe,Government,Primary,Manningham (C),145.10938,-37.76061
+Glen Waverley,Government,Primary,Monash (C),145.17407,-37.86702
+Watsonia North,Government,Primary,Banyule (C),145.08051,-37.7004
+Dandenong,Government,Primary,Greater Dandenong (C),145.21636,-37.96024
+Knoxfield,Government,Primary,Knox (C),145.2514,-37.88363
+Doncaster,Government,Primary,Manningham (C),145.11335,-37.79342
+Ararat,Government,Primary,Ararat (RC),142.94005,-37.27465
+Frankston South,Government,Primary,Frankston (C),145.12094,-38.17444
+Thomastown,Government,Primary,Whittlesea (C),145.00079,-37.6787
+Rowville,Government,Primary,Knox (C),145.23711,-37.92292
+Hoppers Crossing,Government,Primary,Wyndham (C),144.69612,-37.87288
+Templestowe Lower,Government,Primary,Manningham (C),145.11935,-37.76721
+Frankston,Government,Primary,Frankston (C),145.15828,-38.14746
+Sunbury,Government,Primary,Hume (C),144.71292,-37.5748
+Gladstone Park,Government,Primary,Hume (C),144.88658,-37.68715
+Mooroolbark,Government,Primary,Yarra Ranges (S),145.30955,-37.77213
+Glen Waverley,Government,Primary,Monash (C),145.15904,-37.86708
+Mooroolbark,Government,Primary,Yarra Ranges (S),145.32114,-37.77376
+Ferntree Gully,Government,Primary,Knox (C),145.27802,-37.87582
+Briar Hill,Government,Primary,Banyule (C),145.13008,-37.70891
+Doncaster East,Government,Primary,Manningham (C),145.16552,-37.78746
+Shepparton,Government,Primary,Greater Shepparton (C),145.39097,-36.3985
+Sale,Government,Primary,Wellington (S),147.08906,-38.10805
+Parkville,Government,Special,Melbourne (C),144.95097,-37.79435
+Vermont South,Government,Special,Whitehorse (C),145.1806,-37.85114
+Bundoora,Government,Special,Banyule (C),145.07501,-37.702
+Deer Park,Government,Primary,Brimbank (C),144.76444,-37.772
+Campbellfield,Government,Primary,Hume (C),144.96587,-37.67433
+Lalor,Government,Primary,Whittlesea (C),145.02854,-37.66415
+Melton West,Government,Primary,Melton (C),144.56749,-37.67748
+Diamond Creek,Government,Primary,Nillumbik (S),145.1656,-37.67419
+Wheelers Hill,Government,Primary,Monash (C),145.17325,-37.91432
+Bayswater,Government,Primary,Knox (C),145.25305,-37.84907
+Mornington,Government,Primary,Mornington Peninsula (S),145.05875,-38.22603
+Wodonga,Government,Primary,Wodonga (C),146.89399,-36.13962
+Frankston North,Government,Primary,Frankston (C),145.16162,-38.11662
+Richmond,Government,Primary,Yarra (C),144.99574,-37.81363
+Heathmont,Government,Primary,Maroondah (C),145.23294,-37.83641
+St Albans,Government,Primary,Brimbank (C),144.78121,-37.7361
+Mount Evelyn,Government,Primary,Yarra Ranges (S),145.36852,-37.77958
+Hoppers Crossing,Government,Primary,Wyndham (C),144.69123,-37.88377
+Sunshine West,Government,Primary,Brimbank (C),144.81407,-37.79899
+Frankston,Government,Primary,Frankston (C),145.16681,-38.14148
+Noble Park,Government,Primary,Greater Dandenong (C),145.17082,-37.97962
+Lilydale,Government,Primary,Yarra Ranges (S),145.33611,-37.75518
+Mooroolbark,Government,Primary,Yarra Ranges (S),145.3357,-37.7868
+Sunshine West,Government,Primary,Brimbank (C),144.799,-37.7884
+Kilsyth,Government,Primary,Yarra Ranges (S),145.32291,-37.8111
+Falls Creek,Government,Primary,Unincorporated Vic,147.27976,-36.86431
+Flemington,Government,Primary,Moonee Valley (C),144.93515,-37.78598
+Narre Warren,Government,Primary,Casey (C),145.2952,-38.00942
+Ringwood East,Government,Primary,Maroondah (C),145.26534,-37.81841
+Grovedale,Government,Primary,Greater Geelong (C),144.32895,-38.20828
+Moe,Government,Special,Latrobe (C),146.2572,-38.19174
+Frankston,Government,Special,Frankston (C),145.163,-38.14716
+Ferntree Gully,Government,Primary,Knox (C),145.26273,-37.88349
+Deer Park,Government,Primary,Brimbank (C),144.77403,-37.75614
+Dandenong North,Government,Primary,Greater Dandenong (C),145.21346,-37.94411
+Mooroopna,Government,Primary,Greater Shepparton (C),145.34594,-36.3801
+Melton South,Government,Primary,Melton (C),144.57266,-37.69487
+Werribee,Government,Primary,Wyndham (C),144.64389,-37.89406
+Gladstone Park,Government,Primary,Hume (C),144.89837,-37.68901
+Wheelers Hill,Government,Primary,Monash (C),145.17759,-37.90017
+Ashwood,Government,Special,Monash (C),145.10716,-37.85966
+Broadmeadows,Government,Primary,Hume (C),144.9141,-37.6814
+Bulleen,Government,Special,Manningham (C),145.09506,-37.76329
+Cheltenham,Government,Primary,Kingston (C),145.07907,-37.96278
+Warrandyte,Government,Primary,Manningham (C),145.20768,-37.74822
+Wheelers Hill,Government,Primary,Monash (C),145.18428,-37.91475
+Dingley Village,Government,Primary,Kingston (C),145.1238,-37.983
+Ascot Vale,Government,Special,Moonee Valley (C),144.93236,-37.77682
+Glen Waverley,Government,Primary,Monash (C),145.18777,-37.86528
+Vermont South,Government,Primary,Whitehorse (C),145.18067,-37.85289
+Churchill,Government,Primary,Latrobe (C),146.41695,-38.30464
+St Albans,Government,Primary,Brimbank (C),144.81778,-37.75337
+Noble Park North,Government,Primary,Greater Dandenong (C),145.19288,-37.94923
+Ringwood,Government,Primary,Maroondah (C),145.25483,-37.7893
+Whittington,Government,Primary,Greater Geelong (C),144.39501,-38.17815
+Coldstream,Government,Primary,Yarra Ranges (S),145.38271,-37.73256
+Templestowe,Government,Primary,Manningham (C),145.14326,-37.75627
+Hampton Park,Government,Primary,Casey (C),145.26051,-38.03465
+Wantirna,Government,Primary,Knox (C),145.23616,-37.85487
+Croydon,Government,Primary,Maroondah (C),145.28575,-37.81008
+Capel Sound,Government,Primary,Mornington Peninsula (S),144.8835,-38.37376
+Thomastown,Government,Primary,Whittlesea (C),144.9931,-37.68259
+Frankston,Government,Primary,Frankston (C),145.1557,-38.16808
+Endeavour Hills,Government,Primary,Casey (C),145.24585,-37.97906
+KINGS PARK,Government,Primary,Brimbank (C),144.77536,-37.73771
+Mount Eliza,Government,Primary,Mornington Peninsula (S),145.10054,-38.1884
+West Wodonga,Government,Primary,Wodonga (C),146.86142,-36.1305
+Aspendale,Government,Special,Kingston (C),145.09669,-38.01399
+Frankston,Government,Special,Frankston (C),145.1702,-38.1433
+Bellfield,Government,Special,Banyule (C),145.04074,-37.75629
+Port Melbourne,Government,Special,Port Phillip (C),144.94197,-37.83679
+Cobram,Government,Special,Moira (S),145.65158,-35.92582
+Wheelers Hill,Government,Special,Monash (C),145.1658,-37.90698
+Wyndham Vale,Government,Primary,Wyndham (C),144.62857,-37.89587
+Shepparton,Government,Special,Greater Shepparton (C),145.41529,-36.36744
+Vermont South,Government,Primary,Whitehorse (C),145.17764,-37.85916
+Mill Park,Government,Primary,Whittlesea (C),145.06588,-37.67461
+Greensborough,Government,Special,Nillumbik (S),145.11165,-37.68675
+Melton,Government,Special,Melton (C),144.56822,-37.68057
+Springvale,Government,Special,Greater Dandenong (C),145.15431,-37.94936
+Hoppers Crossing,Government,Special,Wyndham (C),144.68759,-37.88404
+Templestowe,Government,Primary,Manningham (C),145.15557,-37.7699
+Mount Martha,Government,Primary,Mornington Peninsula (S),145.01373,-38.27556
+Altona Meadows,Government,Primary,Hobsons Bay (C),144.77973,-37.86869
+The Patch,Government,Primary,Yarra Ranges (S),145.39284,-37.89242
+Sale,Government,Special,Wellington (S),147.07075,-38.08164
+Wheelers Hill,Government,Primary,Monash (C),145.19285,-37.90284
+Albanvale,Government,Primary,Brimbank (C),144.77442,-37.74402
+Sunbury,Government,Primary,Hume (C),144.72867,-37.56525
+Ballarat,Government,Camp,Ballarat (C),143.86526,-37.57582
+Mount Eliza,Government,Primary,Mornington Peninsula (S),145.07623,-38.18768
+Greensborough,Government,Primary,Nillumbik (S),145.10987,-37.68739
+Grovedale,Government,Primary,Greater Geelong (C),144.32788,-38.2004
+Meadow Heights,Government,Primary,Hume (C),144.91782,-37.6592
+Cranbourne,Government,Primary,Casey (C),145.26772,-38.10271
+Patterson Lakes,Government,Primary,Kingston (C),145.14479,-38.06984
+Seaford,Government,Primary,Frankston (C),145.15444,-38.10504
+Montrose,Government,Primary,Yarra Ranges (S),145.33925,-37.82495
+Chirnside Park,Government,Primary,Yarra Ranges (S),145.31134,-37.75007
+Corinella,Government,Primary,Bass Coast (S),145.48877,-38.43123
+Wantirna,Government,Primary,Knox (C),145.23229,-37.86094
+Sunbury,Government,Primary,Hume (C),144.70696,-37.58114
+Darley,Government,Primary,Moorabool (S),144.43691,-37.65528
+Delacombe,Government,Primary,Ballarat (C),143.81853,-37.58478
+Hastings,Government,Primary,Mornington Peninsula (S),145.17275,-38.29789
+Endeavour Hills,Government,Primary,Casey (C),145.26772,-37.96839
+Melton West,Government,Primary,Melton (C),144.55421,-37.67562
+Wangaratta,Government,Primary,Wangaratta (RC),146.30071,-36.34159
+Croydon South,Government,Special,Maroondah (C),145.28078,-37.81563
+Doncaster East,Government,Primary,Manningham (C),145.17519,-37.7738
+Berwick,Government,Primary,Casey (C),145.32743,-38.03114
+Sunshine North,Government,Special,Brimbank (C),144.8271,-37.76144
+Laverton,Government,Special,Hobsons Bay (C),144.77363,-37.85635
+Sunbury,Government,Special,Hume (C),144.72933,-37.59602
+Reservoir,Government,Special,Darebin (C),145.02993,-37.70059
+Traralgon,Government,Special,Latrobe (C),146.55136,-38.20403
+West Wodonga,Government,Special,Wodonga (C),146.85454,-36.12321
+Botanic Ridge,Government,Primary,Casey (C),145.28805,-38.15007
+Burwood East,Government,Special,Whitehorse (C),145.14212,-37.8572
+Wangaratta,Government,Special,Wangaratta (RC),146.30016,-36.34379
+Meadow Heights,Government,Primary,Hume (C),144.92384,-37.65042
+Portland,Government,Primary,Glenelg (S),141.59245,-38.36224
+Dromana,Government,Special,Mornington Peninsula (S),145.01011,-38.34184
+Endeavour Hills,Government,Primary,Casey (C),145.2477,-37.96973
+Cranbourne,Government,Primary,Casey (C),145.27622,-38.08736
+Wantirna South,Government,Primary,Knox (C),145.22958,-37.88228
+Endeavour Hills,Government,Primary,Casey (C),145.26441,-37.98823
+St Albans,Government,Primary,Brimbank (C),144.76754,-37.73315
+Narre Warren,Government,Special,Casey (C),145.296,-38.0076
+Mornington,Government,Special,Mornington Peninsula (S),145.05718,-38.22611
+Moorabbin,Government,Special,Kingston (C),145.0568,-37.94336
+Mooroolbark,Government,Primary,Yarra Ranges (S),145.32684,-37.76651
+Craigieburn,Government,Primary,Hume (C),144.93585,-37.60875
+Mill Park,Government,Primary,Whittlesea (C),145.05107,-37.6665
+Loch Sport,Government,Primary,Wellington (S),147.56717,-38.05819
+Mount Evelyn,Government,Special,Yarra Ranges (S),145.38487,-37.77502
+Colac,Government,Special,Colac-Otway (S),143.58902,-38.34571
+Sunbury,Government,Primary,Hume (C),144.75105,-37.58052
+Mildura,Government,Special,Mildura (RC),142.14364,-34.19988
+East Bentleigh,Government,Special,Glen Eira (C),145.06208,-37.92672
+Hoppers Crossing,Government,Primary,Wyndham (C),144.71078,-37.87108
+Croydon Hills,Government,Primary,Maroondah (C),145.27204,-37.77668
+Melton,Government,Primary,Melton (C),144.58632,-37.67057
+Langwarrin,Government,Primary,Frankston (C),145.2025,-38.15092
+Taylors Lakes,Government,Primary,Brimbank (C),144.79377,-37.70965
+Eltham North,Government,Primary,Banyule (C),145.13984,-37.68998
+Coburg,Government,Special,Merri-bek (C),144.95174,-37.73292
+Broadmeadows,Government,Special,Hume (C),144.9141,-37.68165
+Sunshine,Government,Special,Brimbank (C),144.81989,-37.80343
+Swan Hill,Government,Special,Swan Hill (RC),143.54509,-35.34924
+Richmond,Government,Primary,Yarra (C),144.99907,-37.82957
+Richmond,Government,Primary,Yarra (C),145.00748,-37.81464
+Stawell,Government,Special,Northern Grampians (S),142.78383,-37.05767
+Horsham,Government,Special,Horsham (RC),142.18678,-36.70784
+Cobden,Government,Special,Corangamite (S),143.06466,-38.32356
+Warrnambool,Government,Special,Warrnambool (C),142.48177,-38.35498
+Yarraville,Government,Special,Maribyrnong (C),144.88365,-37.81791
+Clifton Springs,Government,Primary,Greater Geelong (C),144.55314,-38.16566
+Rowville,Government,Primary,Knox (C),145.26246,-37.91841
+Portland,Government,Special,Glenelg (S),141.59756,-38.34633
+Hamilton,Government,Special,Southern Grampians (S),142.02246,-37.72686
+Lalor,Government,Special,Whittlesea (C),145.01508,-37.66724
+Blackburn South,Government,Primary,Whitehorse (C),145.14653,-37.84023
+Epping,Government,Primary,Whittlesea (C),145.05309,-37.64275
+Altona Meadows,Government,Primary,Hobsons Bay (C),144.78492,-37.88677
+Balwyn North,Government,Primary,Boroondara (C),145.08789,-37.78944
+Warragul,Government,Special,Baw Baw (S),145.92506,-38.16489
+Laverton,Government,Special,Hobsons Bay (C),144.77807,-37.85078
+Warracknabeal,Government,Special,Yarriambiack (S),142.39075,-36.25761
+Hampton Park,Government,Primary,Casey (C),145.27435,-38.04385
+Narre Warren,Government,Primary,Casey (C),145.30412,-38.00344
+Endeavour Hills,Government,Primary,Casey (C),145.27391,-37.98056
+Rowville,Government,Primary,Knox (C),145.26328,-37.90532
+Delahey,Government,Primary,Brimbank (C),144.77753,-37.71723
+Kangaroo Flat,Government,Special,Greater Bendigo (C),144.24015,-36.79587
+Echuca,Government,Special,Campaspe (S),144.72461,-36.13829
+Aspendale Gardens,Government,Primary,Kingston (C),145.1168,-38.02251
+Berwick,Government,Primary,Casey (C),145.33439,-38.04874
+Berwick,Government,Primary,Casey (C),145.34777,-38.05298
+Ferntree Gully,Government,Special,Knox (C),145.28492,-37.88042
+Wollert,Government,Primary,Whittlesea (C),145.00257,-37.60984
+Eynesbury,Government,Primary,Melton (C),144.54755,-37.78994
+Hoppers Crossing,Government,Primary,Wyndham (C),144.67569,-37.86739
+Carrum Downs,Government,Primary,Frankston (C),145.19245,-38.10442
+Hoppers Crossing,Government,Pri/Sec,Wyndham (C),144.69102,-37.85984
+Langwarrin,Government,Primary,Frankston (C),145.20502,-38.13568
+Mill Park,Government,Primary,Whittlesea (C),145.05175,-37.65733
+Keilor Downs,Government,Primary,Brimbank (C),144.79205,-37.71727
+Seabrook,Government,Primary,Hobsons Bay (C),144.7579,-37.87884
+Craigieburn,Government,Primary,Hume (C),144.92259,-37.59178
+Werribee,Government,Primary,Wyndham (C),144.63788,-37.9032
+Rowville,Government,Primary,Knox (C),145.24288,-37.93392
+Mildura,Government,Primary,Mildura (RC),142.1339,-34.19367
+Hampton Park,Government,Primary,Casey (C),145.27957,-38.03416
+Sunbury,Government,Primary,Hume (C),144.70458,-37.56379
+Ocean Grove,Government,Primary,Greater Geelong (C),144.54166,-38.26145
+Officer,Government,Primary,Cardinia (S),145.39659,-38.05488
+Werribee,Government,Primary,Wyndham (C),144.63933,-37.92103
+Niddrie,Government,Special,Moonee Valley (C),144.88706,-37.74393
+Narre Warren,Government,Primary,Casey (C),145.31619,-38.00644
+Werribee,Government,Primary,Wyndham (C),144.65953,-37.8785
+Violet Town,Government,Primary,Strathbogie (S),145.71697,-36.63424
+Belmont,Government,Special,Greater Geelong (C),144.32804,-38.17878
+Bacchus Marsh,Government,Primary,Moorabool (S),144.42318,-37.65586
+Pakenham,Government,Primary,Cardinia (S),145.49442,-38.06063
+Cranbourne North,Government,Primary,Casey (C),145.28345,-38.08012
+Somerville,Government,Primary,Mornington Peninsula (S),145.16775,-38.23003
+Derrinallum,Government,Pri/Sec,Corangamite (S),143.21674,-37.93959
+Mortlake,Government,Pri/Sec,Moyne (S),142.80955,-38.08637
+Branxholme,Government,Primary,Southern Grampians (S),141.79872,-37.85635
+Mount Duneed,Government,Primary,Greater Geelong (C),144.31968,-38.24124
+Grasmere,Government,Primary,Moyne (S),142.52288,-38.28599
+Narrawong,Government,Primary,Glenelg (S),141.71658,-38.25268
+Ballarat East,Government,Primary,Ballarat (C),143.87591,-37.57297
+Brown Hill,Government,Primary,Ballarat (C),143.89424,-37.55542
+Clyde North,Government,Primary,Casey (C),145.37283,-38.08273
+Tempy,Government,Primary,Yarriambiack (S),142.42708,-35.34395
+Rawson,Government,Primary,Baw Baw (S),146.39897,-37.95912
+Bundalaguah,Government,Primary,Wellington (S),147.0121,-38.0235
+Lardner,Government,Primary,Baw Baw (S),145.88035,-38.20464
+Nambrok,Government,Primary,Wellington (S),146.87481,-38.05399
+Welshpool,Government,Primary,South Gippsland (S),146.43111,-38.66552
+Whitfield,Government,Primary,Wangaratta (RC),146.41206,-36.76558
+Greta South,Government,Primary,Wangaratta (RC),146.23636,-36.61784
+Everton,Government,Primary,Wangaratta (RC),146.54454,-36.43532
+Nangiloc,Government,Primary,Mildura (RC),142.35779,-34.47385
+Sea Lake,Government,Pri/Sec,Buloke (S),142.85352,-35.50928
+Harcourt,Government,Primary,Mount Alexander (S),144.25723,-37.00297
+Beverford,Government,Primary,Swan Hill (RC),143.47891,-35.23248
+Niddrie,Government,Primary,Moonee Valley (C),144.87843,-37.73085
+Greenvale,Government,Primary,Hume (C),144.87884,-37.6232
+Lucas,Government,Primary,Ballarat (C),143.7804,-37.54796
+Toolern Vale,Government,Primary,Melton (C),144.59423,-37.60627
+Ashwood,Government,Primary,Monash (C),145.10687,-37.86288
+Seaford,Government,Primary,Frankston (C),145.13174,-38.12516
+Box Hill South,Government,Primary,Whitehorse (C),145.12521,-37.83477
+Meeniyan,Government,Primary,South Gippsland (S),146.01518,-38.57934
+Bayles,Government,Primary,Cardinia (S),145.56603,-38.17604
+Cheltenham,Government,Primary,Kingston (C),145.06814,-37.95926
+Dalyston,Government,Primary,Bass Coast (S),145.5462,-38.56035
+Glen Waverley,Government,Primary,Monash (C),145.16759,-37.87472
+Knoxfield,Government,Primary,Knox (C),145.24649,-37.89148
+Mulgrave,Government,Primary,Monash (C),145.17289,-37.92812
+Oakleigh East,Government,Primary,Monash (C),145.10878,-37.90032
+Boronia,Government,Primary,Knox (C),145.25498,-37.86116
+Mount Waverley,Government,Primary,Monash (C),145.14135,-37.86802
+Mitcham,Government,Primary,Whitehorse (C),145.2063,-37.82958
+Edenhope,Government,Pri/Sec,West Wimmera (S),141.29856,-37.03343
+Murrayville,Government,Pri/Sec,Mildura (RC),141.17734,-35.26557
+Hawkesdale,Government,Pri/Sec,Moyne (S),142.31917,-38.10698
+Noble Park,Government,Pri/Sec,Greater Dandenong (C),145.18873,-37.94284
+Glen Waverley,Government,Primary,Monash (C),145.16761,-37.89686
+Yallambie,Government,Primary,Banyule (C),145.10222,-37.72156
+Woorinen South,Government,Primary,Swan Hill (RC),143.45374,-35.29041
+Smythesdale,Government,Primary,Golden Plains (S),143.6843,-37.64352
+Millgrove,Government,Primary,Yarra Ranges (S),145.65186,-37.75279
+Gormandale,Government,Primary,Wellington (S),146.70321,-38.29418
+Roxburgh Park,Government,Primary,Hume (C),144.91628,-37.63206
+Newcomb,Government,Primary,Greater Geelong (C),144.39495,-38.16516
+Braybrook,Government,Primary,Maribyrnong (C),144.85612,-37.79169
+Glenroy,Government,Primary,Merri-bek (C),144.94394,-37.7012
+Doncaster East,Government,Primary,Manningham (C),145.1479,-37.78161
+Nyah West,Government,Primary,Swan Hill (RC),143.34319,-35.18608
+Narre Warren South,Government,Primary,Casey (C),145.28692,-38.06312
+Cranbourne East,Government,Special,Casey (C),145.2965,-38.1102
+Heathmont,Government,Primary,Maroondah (C),145.23763,-37.8238
+Berwick,Government,Pri/Sec,Casey (C),145.32263,-38.01557
+Hillside,Government,Primary,Melton (C),144.74446,-37.69921
+Narre Warren South,Government,Primary,Casey (C),145.30746,-38.06472
+Roxburgh Park,Government,Primary,Hume (C),144.9314,-37.63424
+Point Cook,Government,Pri/Sec,Wyndham (C),144.74313,-37.88474
+Mornington,Government,Primary,Mornington Peninsula (S),145.06111,-38.24595
+Caulfield South,Government,Primary,Glen Eira (C),145.02003,-37.88805
+Bairnsdale,Government,Special,East Gippsland (S),147.599,-37.82871
+Roxburgh Park,Government,Primary,Hume (C),144.9235,-37.61621
+Lynbrook,Government,Primary,Casey (C),145.24899,-38.05239
+Leongatha,Government,Special,South Gippsland (S),145.95729,-38.47819
+Doreen,Government,Primary,Whittlesea (C),145.12687,-37.58582
+Truganina,Government,Primary,Wyndham (C),144.72565,-37.86453
+Burnside Heights,Government,Primary,Melton (C),144.75458,-37.73503
+Epping,Government,Primary,Whittlesea (C),145.00226,-37.62208
+Truganina,Government,Pri/Sec,Wyndham (C),144.71909,-37.83877
+Burnside,Government,Primary,Melton (C),144.75289,-37.74566
+Berwick,Government,Primary,Casey (C),145.34696,-38.06743
+Pakenham,Government,Primary,Cardinia (S),145.439,-38.06846
+Tarneit,Government,Primary,Wyndham (C),144.66024,-37.85588
+Pakenham,Government,Primary,Cardinia (S),145.47008,-38.08451
+Taylors Hill,Government,Primary,Melton (C),144.7599,-37.71669
+Cranbourne,Government,Primary,Casey (C),145.28906,-38.08753
+Blackburn South,Government,Special,Whitehorse (C),145.15079,-37.84018
+Derrimut,Government,Primary,Brimbank (C),144.7632,-37.78927
+Epping,Government,Primary,Whittlesea (C),145.02402,-37.62844
+Echuca,Government,Primary,Campaspe (S),144.72467,-36.13772
+Cranbourne East,Government,Primary,Casey (C),145.30444,-38.10628
+Wendouree,Government,Pri/Sec,Ballarat (C),143.8204,-37.5275
+Lyndhurst,Government,Primary,Casey (C),145.25408,-38.07496
+Craigieburn,Government,Primary,Hume (C),144.90557,-37.58175
+Reservoir,Government,Primary,Darebin (C),145.02272,-37.70552
+Broadmeadows,Government,Primary,Hume (C),144.92956,-37.68754
+Mernda,Government,Primary,Whittlesea (C),145.09694,-37.61403
+Sunshine,Government,Primary,Brimbank (C),144.84569,-37.78293
+Pakenham,Government,Primary,Cardinia (S),145.51084,-38.06394
+Point Cook,Government,Pri/Sec,Wyndham (C),144.74133,-37.90824
+Blackburn North,Government,Primary,Whitehorse (C),145.16699,-37.80747
+Golden Square,Government,Primary,Greater Bendigo (C),144.2573,-36.7706
+Lalor,Government,Primary,Whittlesea (C),145.00135,-37.66369
+Keysborough,Government,Primary,Greater Dandenong (C),145.18048,-37.9924
+Springvale South,Government,Primary,Greater Dandenong (C),145.15242,-37.98263
+Dandenong North,Government,Primary,Greater Dandenong (C),145.20465,-37.96505
+Springvale South,Government,Primary,Greater Dandenong (C),145.14997,-37.97105
+Springvale,Government,Primary,Greater Dandenong (C),145.15904,-37.93926
+Springvale,Government,Primary,Greater Dandenong (C),145.13951,-37.95884
+Keilor Downs,Government,Primary,Brimbank (C),144.80919,-37.71765
+Werribee,Government,Primary,Wyndham (C),144.67655,-37.88487
+Bendigo,Government,Primary,Greater Bendigo (C),144.26844,-36.73692
+Glenroy,Government,Primary,Merri-bek (C),144.92504,-37.70428
+Reservoir,Government,Primary,Darebin (C),145.00278,-37.69667
+Craigieburn,Government,Primary,Hume (C),144.90955,-37.57099
+Dallas,Government,Primary,Hume (C),144.94185,-37.6703
+Horsham,Government,Primary,Horsham (RC),142.21515,-36.71138
+Wyndham Vale,Government,Primary,Wyndham (C),144.60961,-37.89556
+Officer,Government,Special,Cardinia (S),145.41131,-38.07079
+Epping,Government,Primary,Whittlesea (C),145.02559,-37.64485
+Doreen,Government,Pri/Sec,Whittlesea (C),145.11937,-37.59755
+Cranbourne North,Government,Primary,Casey (C),145.32734,-38.0816
+Coolaroo,Government,Primary,Hume (C),144.9309,-37.66206
+Jacana,Government,Special,Hume (C),144.91309,-37.68762
+Torquay,Government,Primary,Surf Coast (S),144.33818,-38.30456
+Harkness,Government,Primary,Melton (C),144.54286,-37.66636
+Clyde North,Government,Primary,Casey (C),145.31981,-38.10893
+Southbank,Government,Primary,Port Phillip (C),144.9535,-37.82935
+Cranbourne West,Government,Primary,Casey (C),145.23902,-38.11498
+Pakenham,Government,Primary,Cardinia (S),145.4428,-38.07754
+Albert Park,Government,Primary,Port Phillip (C),144.9627,-37.84054
+Officer,Government,Primary,Cardinia (S),145.41966,-38.07195
+Armstrong Creek,Government,Primary,Greater Geelong (C),144.36731,-38.23261
+Hamlyn Heights,Government,Special,Greater Geelong (C),144.33237,-38.12528
+Aireys Inlet,Government,Primary,Surf Coast (S),144.10997,-38.45737
+Craigieburn,Government,Primary,Hume (C),144.90556,-37.60171
+Morwell,Government,Primary,Latrobe (C),146.40764,-38.23167
+Doreen,Government,Primary,Whittlesea (C),145.12728,-37.61564
+Cranbourne East,Government,Primary,Casey (C),145.29841,-38.12014
+Mount Duneed,Government,Primary,Greater Geelong (C),144.32848,-38.22492
+Keysborough,Government,Primary,Greater Dandenong (C),145.16132,-38.00951
+Docklands,Government,Primary,Melbourne (C),144.94055,-37.81271
+Truganina,Government,Primary,Wyndham (C),144.72505,-37.82878
+Aintree,Government,Primary,Melton (C),144.66623,-37.7238
+Donnybrook,Government,Primary,Whittlesea (C),144.99775,-37.53707
+Deanside,Government,Primary,Melton (C),144.69701,-37.72176
+Mickleham,Government,Primary,Hume (C),144.90909,-37.52861
+Wyndham Vale,Government,Primary,Wyndham (C),144.62651,-37.87627
+Clyde North,Government,Primary,Casey (C),145.33828,-38.11488
+Strathtulloh,Government,Primary,Melton (C),144.58976,-37.71662
+Kalkallo,Government,Primary,Hume (C),144.95825,-37.53243
+Wollert,Government,Primary,Whittlesea (C),144.99354,-37.59795
+Gisborne,Government,Primary,Macedon Ranges (S),144.6081,-37.50394
+Clyde,Government,Primary,Casey (C),145.33155,-38.12299
+Wollert,Government,Primary,Whittlesea (C),145.02711,-37.61133
+Endeavour Hills,Government,Special,Casey (C),145.24388,-37.97889
+Cranbourne West,Government,Primary,Casey (C),145.25017,-38.09481
+Manor Lakes,Government,Primary,Wyndham (C),144.58403,-37.86679
+Werribee,Government,Primary,Wyndham (C),144.61342,-37.91097
+Officer,Government,Primary,Cardinia (S),145.40499,-38.07026
+Thornhill Park,Government,Primary,Melton (C),144.62601,-37.71533
+Tarneit,Government,Primary,Wyndham (C),144.64577,-37.85261
+Tarneit,Government,Primary,Wyndham (C),144.68496,-37.82571
+Craigieburn,Government,Special,Hume (C),144.92108,-37.57591
+Alvie,Government,Primary,Colac-Otway (S),143.50332,-38.2419
+Apollo Bay,Government,Pri/Sec,Colac-Otway (S),143.66051,-38.75352
+Boisdale,Government,Primary,Wellington (S),146.97947,-37.87959
+Cobram,Government,Primary,Moira (S),145.6511,-35.92511
+Cohuna,Government,Primary,Gannawarra (S),144.21342,-35.80632
+Collingwood,Government,Pri/Sec,Yarra (C),144.9905,-37.80298
+Dunkeld,Government,Primary,Southern Grampians (S),142.34037,-37.63898
+Dingee,Government,Pri/Sec,Loddon (S),144.14145,-36.37222
+Foster,Government,Primary,South Gippsland (S),146.202,-38.65734
+Goroke,Government,Pri/Sec,West Wimmera (S),141.48354,-36.71579
+Heywood,Government,Primary,Glenelg (S),141.61292,-38.12752
+Tangambalanga,Government,Primary,Indigo (S),147.03877,-36.25105
+Lavers Hill,Government,Pri/Sec,Colac-Otway (S),143.38305,-38.68184
+Lockington,Government,Primary,Campaspe (S),144.53664,-36.26577
+Manangatang,Government,Pri/Sec,Swan Hill (RC),142.88488,-35.05623
+Terang,Government,Pri/Sec,Corangamite (S),142.92139,-38.24628
+Merino,Government,Primary,Glenelg (S),141.54831,-37.70637
+Rushworth,Government,Pri/Sec,Campaspe (S),145.0144,-36.58332
+Macleod,Government,Pri/Sec,Banyule (C),145.07222,-37.72475
+Pakenham,Government,Primary,Cardinia (S),145.46466,-38.06537
+Poowong,Government,Primary,South Gippsland (S),145.7697,-38.34248
+Port Fairy,Government,Primary,Moyne (S),142.22822,-38.38662
+Red Hill,Government,Primary,Mornington Peninsula (S),144.99527,-38.36668
+Sassafras,Government,Pri/Sec,Yarra Ranges (S),145.34944,-37.86824
+Tongala,Government,Primary,Campaspe (S),144.95652,-36.25215
+Werrimull,Government,Pri/Sec,Mildura (RC),141.59384,-34.39041
+Camperdown,Government,Pri/Sec,Corangamite (S),143.14544,-38.23973
+Timboon,Government,Pri/Sec,Corangamite (S),142.97589,-38.48406
+Thornbury,Government,Pri/Sec,Darebin (C),145.0257,-37.76204
+Wedderburn,Government,Pri/Sec,Loddon (S),143.61877,-36.41702
+Thornbury,Government,Pri/Sec,Darebin (C),145.02583,-37.76195
+Moorabbin,Government,Special,Kingston (C),145.03628,-37.93458
+Clayton,Government,Special,Monash (C),145.12425,-37.91938
+Hampton East,Government,Special,Bayside (C),145.03181,-37.93896
+Frankston South,Government,Secondary,Frankston (C),145.14663,-38.17412
+Mont Albert North,Government,Secondary,Whitehorse (C),145.11191,-37.80924
+Wollert,Government,Secondary,Whittlesea (C),145.00507,-37.60949
+Craigieburn,Government,Secondary,Hume (C),144.89025,-37.59829
+Clyde,Government,Secondary,Casey (C),145.33886,-38.12955
+Cobden,Government,Secondary,Corangamite (S),143.06361,-38.32404
+Cranbourne,Government,Secondary,Casey (C),145.27103,-38.07539
+Daylesford,Government,Secondary,Hepburn (S),144.15185,-37.33467
+Dromana,Government,Secondary,Mornington Peninsula (S),145.01358,-38.34264
+Grovedale,Government,Secondary,Greater Geelong (C),144.32744,-38.2104
+Irymple,Government,Secondary,Mildura (RC),142.1647,-34.23233
+Kangaroo Flat,Government,Secondary,Greater Bendigo (C),144.23367,-36.78865
+Lalor,Government,Secondary,Whittlesea (C),145.01316,-37.66691
+Lilydale,Government,Secondary,Yarra Ranges (S),145.34141,-37.74582
+Melton South,Government,Secondary,Melton (C),144.56869,-37.70836
+Mildura,Government,Secondary,Mildura (RC),142.14798,-34.19573
+Bentleigh East,Government,Secondary,Glen Eira (C),145.0598,-37.92736
+Mount Clear,Government,Secondary,Ballarat (C),143.87667,-37.60796
+Niddrie,Government,Secondary,Moonee Valley (C),144.88618,-37.74668
+Preston,Government,Secondary,Darebin (C),145.02537,-37.74007
+Hawthorn,Government,Secondary,Boroondara (C),145.04082,-37.82314
+Southbank,Government,Secondary,Melbourne (C),144.96477,-37.82823
+Warrnambool,Government,Secondary,Warrnambool (C),142.45892,-38.35871
+Werribee,Government,Secondary,Wyndham (C),144.65385,-37.88893
+Bendigo,Government,Secondary,Greater Bendigo (C),144.29798,-36.73893
+Whittlesea,Government,Secondary,Whittlesea (C),145.12018,-37.51505
+Alexandra,Government,Secondary,Murrindindi (S),145.70148,-37.19449
+Hawthorn East,Government,Secondary,Boroondara (C),145.04507,-37.83988
+LAKE GARDENS,Government,Secondary,Ballarat (C),143.81821,-37.55452
+Balwyn North,Government,Secondary,Boroondara (C),145.07677,-37.79786
+Bayswater,Government,Secondary,Knox (C),145.262,-37.83903
+Beaufort,Government,Secondary,Pyrenees (S),143.38249,-37.43884
+Beaumaris,Government,Secondary,Bayside (C),145.03408,-37.9784
+Beechworth,Government,Secondary,Indigo (S),146.69076,-36.34722
+Belmont,Government,Secondary,Greater Geelong (C),144.33056,-38.17565
+Bendigo,Government,Secondary,Greater Bendigo (C),144.27928,-36.7553
+Berwick,Government,Secondary,Casey (C),145.36544,-38.0314
+Blackburn,Government,Secondary,Whitehorse (C),145.14989,-37.81037
+Bogong,Government,Pri/Sec,Alpine (S),147.22537,-36.80408
+Box Hill,Government,Secondary,Whitehorse (C),145.13721,-37.82
+Braybrook,Government,Secondary,Maribyrnong (C),144.84754,-37.77826
+Glen Waverley,Government,Secondary,Monash (C),145.16634,-37.89951
+Brighton East,Government,Secondary,Bayside (C),145.01912,-37.92016
+Broadford,Government,Secondary,Mitchell (S),145.04003,-37.20438
+Essendon,Government,Secondary,Moonee Valley (C),144.89775,-37.74712
+Canterbury,Government,Secondary,Boroondara (C),145.07282,-37.83015
+Canterbury,Government,Secondary,Boroondara (C),145.0691,-37.82029
+Casterton,Government,Secondary,Glenelg (S),141.38749,-37.5888
+Cheltenham,Government,Secondary,Kingston (C),145.06868,-37.95376
+Cobram,Government,Secondary,Moira (S),145.65412,-35.9136
+Cohuna,Government,Secondary,Gannawarra (S),144.22642,-35.8135
+Cranbourne,Government,Secondary,Casey (C),145.28614,-38.10759
+Cranbourne West,Government,Secondary,Casey (C),145.24651,-38.10672
+Croydon,Government,Secondary,Maroondah (C),145.28126,-37.78935
+Flemington,Government,Secondary,Moonee Valley (C),144.93324,-37.78215
+Dimboola,Government,Secondary,Hindmarsh (S),142.03441,-36.44984
+Doncaster East,Government,Secondary,Manningham (C),145.15856,-37.78213
+Donald,Government,Secondary,Buloke (S),142.97396,-36.37078
+Doncaster,Government,Secondary,Manningham (C),145.13805,-37.78458
+Drouin,Government,Secondary,Baw Baw (S),145.85098,-38.14466
+Eaglehawk,Government,Secondary,Greater Bendigo (C),144.26163,-36.72006
+Eltham,Government,Secondary,Nillumbik (S),145.14172,-37.72444
+Elwood,Government,Secondary,Port Phillip (C),144.9852,-37.88232
+Epping,Government,Secondary,Whittlesea (C),145.03343,-37.644
+Euroa,Government,Secondary,Strathbogie (S),145.5648,-36.7582
+Knoxfield,Government,Secondary,Knox (C),145.25904,-37.87321
+Bendigo,Government,Secondary,Greater Bendigo (C),144.29759,-36.77579
+Port Melbourne,Government,Secondary,Port Phillip (C),144.93204,-37.83201
+Footscray,Government,Secondary,Maribyrnong (C),144.89376,-37.79104
+Foster,Government,Secondary,South Gippsland (S),146.19741,-38.65174
+Frankston,Government,Secondary,Frankston (C),145.12895,-38.16219
+East Geelong,Government,Secondary,Greater Geelong (C),144.37373,-38.15303
+North Geelong,Government,Secondary,Greater Geelong (C),144.34079,-38.10996
+Gisborne,Government,Secondary,Macedon Ranges (S),144.58477,-37.49811
+Gladstone Park,Government,Secondary,Hume (C),144.89,-37.68977
+Bundoora,Government,Secondary,Banyule (C),145.06198,-37.7075
+Shepparton,Government,Secondary,Greater Shepparton (C),145.4154,-36.37207
+Hastings,Government,Secondary,Mornington Peninsula (S),145.17638,-38.30817
+Healesville,Government,Secondary,Yarra Ranges (S),145.53081,-37.64359
+Heywood,Government,Secondary,Glenelg (S),141.6205,-38.12927
+Glen Waverley,Government,Secondary,Monash (C),145.17682,-37.86541
+Kerang,Government,Secondary,Gannawarra (S),143.9138,-35.72565
+Kensington,Government,Secondary,Melbourne (C),144.92558,-37.78791
+Kew East,Government,Secondary,Boroondara (C),145.06336,-37.79555
+Mont Albert North,Government,Secondary,Whitehorse (C),145.11756,-37.80219
+Koo Wee Rup,Government,Secondary,Cardinia (S),145.49578,-38.19709
+Korumburra,Government,Secondary,South Gippsland (S),145.8039,-38.44387
+Kyabram,Government,Pri/Sec,Campaspe (S),145.05621,-36.31748
+Kyneton,Government,Secondary,Macedon Ranges (S),144.45817,-37.25133
+Lalor,Government,Secondary,Whittlesea (C),145.03062,-37.67266
+Epping,Government,Secondary,Whittlesea (C),145.03412,-37.66077
+Lilydale,Government,Secondary,Yarra Ranges (S),145.34392,-37.7607
+Lorne,Government,Pri/Sec,Surf Coast (S),143.97389,-38.53918
+Dandenong North,Government,Secondary,Greater Dandenong (C),145.20671,-37.95876
+Richmond,Government,Secondary,Yarra (C),145.00226,-37.81648
+Maffra,Government,Secondary,Wellington (S),146.98242,-37.96489
+Mansfield,Government,Secondary,Mansfield (S),146.08856,-37.06268
+Maribyrnong,Government,Secondary,Maribyrnong (C),144.88823,-37.77931
+Geelong,Government,Secondary,Greater Geelong (C),144.35321,-38.14959
+South Yarra,Government,Secondary,Stonnington (C),144.99531,-37.83683
+Melton,Government,Secondary,Melton (C),144.56822,-37.68175
+Mentone,Government,Secondary,Kingston (C),145.0535,-37.98018
+Mickleham,Government,Secondary,Hume (C),144.90194,-37.52738
+Mildura,Government,Secondary,Mildura (RC),142.14539,-34.198
+Mirboo North,Government,Secondary,South Gippsland (S),146.14882,-38.40018
+Monbulk,Government,Secondary,Yarra Ranges (S),145.42781,-37.88318
+Montmorency,Government,Secondary,Banyule (C),145.11361,-37.71408
+Mooroolbark,Government,Secondary,Yarra Ranges (S),145.31423,-37.77508
+Mordialloc,Government,Secondary,Kingston (C),145.09268,-38.01224
+Mount Beauty,Government,Secondary,Alpine (S),147.16728,-36.74031
+Mount Eliza,Government,Secondary,Mornington Peninsula (S),145.09354,-38.1897
+Mount Waverley,Government,Secondary,Monash (C),145.13231,-37.86909
+Mckinnon,Government,Secondary,Glen Eira (C),145.04854,-37.9122
+Melbourne,Government,Secondary,Port Phillip (C),144.97186,-37.83589
+Nathalia,Government,Secondary,Moira (S),145.20844,-36.0599
+Neerim South,Government,Secondary,Baw Baw (S),145.95668,-38.01694
+Newcomb,Government,Secondary,Greater Geelong (C),144.3952,-38.17113
+Northcote,Government,Secondary,Darebin (C),144.98971,-37.77416
+Ringwood,Government,Secondary,Maroondah (C),145.2376,-37.79975
+Numurkah,Government,Secondary,Moira (S),145.44627,-36.07995
+Armstrong Creek,Government,Secondary,Greater Geelong (C),144.36414,-38.23176
+Orbost,Government,Secondary,East Gippsland (S),148.46635,-37.70411
+Ouyen,Government,Pri/Sec,Mildura (RC),142.32261,-35.06457
+Pakenham,Government,Secondary,Cardinia (S),145.471,-38.069
+Pakenham,Government,Secondary,Cardinia (S),145.44402,-38.07827
+Mordialloc,Government,Secondary,Kingston (C),145.0935,-37.9903
+Pascoe Vale,Government,Secondary,Merri-bek (C),144.9355,-37.71756
+Windsor,Government,Secondary,Stonnington (C),144.99116,-37.85175
+Preston,Government,Secondary,Darebin (C),145.0064,-37.74169
+Princes Hill,Government,Secondary,Yarra (C),144.96503,-37.78348
+Point Cook,Government,Secondary,Wyndham (C),144.76858,-37.91573
+Drysdale,Government,Secondary,Greater Geelong (C),144.55753,-38.19066
+Rainbow,Government,Pri/Sec,Hindmarsh (S),141.9967,-35.89447
+Red Cliffs,Government,Secondary,Mildura (RC),142.19545,-34.2988
+Ringwood,Government,Secondary,Maroondah (C),145.23915,-37.81661
+Richmond,Government,Secondary,Yarra (C),145.0028,-37.81741
+Robinvale,Government,Pri/Sec,Swan Hill (RC),142.78155,-34.58889
+Rochester,Government,Secondary,Campaspe (S),144.6987,-36.35278
+Rosebud,Government,Secondary,Mornington Peninsula (S),144.88745,-38.36762
+Thornton,Government,Secondary,Murrindindi (S),145.82134,-37.29493
+Rutherglen,Government,Secondary,Indigo (S),146.4521,-36.06256
+Point Cook,Government,Pri/Sec,Wyndham (C),144.77005,-37.91054
+Scoresby,Government,Secondary,Knox (C),145.2362,-37.88864
+St Albans,Government,Secondary,Brimbank (C),144.80841,-37.74553
+St Arnaud,Government,Secondary,Northern Grampians (S),143.25094,-36.60955
+Caulfield North,Government,Secondary,Glen Eira (C),145.03417,-37.87398
+Strathmore,Government,Secondary,Moonee Valley (C),144.92664,-37.73695
+Sunbury,Government,Secondary,Hume (C),144.72867,-37.57428
+Brunswick,Government,Secondary,Merri-bek (C),144.96234,-37.77182
+Tallangatta,Government,Secondary,Towong (S),147.17267,-36.22044
+Thomastown,Government,Secondary,Whittlesea (C),145.00194,-37.67872
+Trafalgar,Government,Secondary,Baw Baw (S),146.1583,-38.21457
+Truganina,Government,Pri/Sec,Wyndham (C),144.73391,-37.84298
+Parkville,Government,Secondary,Melbourne (C),144.95538,-37.79698
+Roxburgh Park,Government,Secondary,Hume (C),144.93033,-37.63041
+Yarra Junction,Government,Secondary,Yarra Ranges (S),145.62393,-37.79209
+Upwey,Government,Secondary,Yarra Ranges (S),145.33548,-37.90436
+Vermont,Government,Secondary,Whitehorse (C),145.1997,-37.84412
+Berwick,Government,Secondary,Casey (C),145.34741,-38.05369
+Carrum Downs,Government,Secondary,Frankston (C),145.19766,-38.09529
+Wangaratta,Government,Secondary,Wangaratta (RC),146.30772,-36.3449
+Greenvale,Government,Secondary,Hume (C),144.88961,-37.6503
+Wantirna,Government,Secondary,Knox (C),145.22997,-37.8576
+Warracknabeal,Government,Secondary,Yarriambiack (S),142.3908,-36.25768
+Warrandyte,Government,Secondary,Manningham (C),145.18422,-37.74827
+Mulgrave,Government,Secondary,Monash (C),145.16938,-37.93447
+Werribee,Government,Secondary,Wyndham (C),144.66874,-37.90554
+Bairnsdale,Government,Secondary,East Gippsland (S),147.605,-37.82871
+Clayton South,Government,Secondary,Kingston (C),145.13658,-37.94031
+Wheelers Hill,Government,Secondary,Monash (C),145.18174,-37.91013
+Williamstown,Government,Secondary,Hobsons Bay (C),144.89502,-37.86286
+Wodonga,Government,Secondary,Wodonga (C),146.88105,-36.12561
+Yarram,Government,Secondary,Wellington (S),146.68541,-38.56743
+Ballarat East,Government,Secondary,Ballarat (C),143.89228,-37.55912
+Yea,Government,Secondary,Murrindindi (S),145.40854,-37.21501
+Caulfield East,Government,Secondary,Glen Eira (C),145.03801,-37.8857
+Craigieburn,Government,Secondary,Hume (C),144.93595,-37.60875
+Emerald,Government,Secondary,Cardinia (S),145.45874,-37.92427
+Reservoir,Government,Secondary,Darebin (C),145.02977,-37.72226
+Hampton Park,Government,Secondary,Casey (C),145.25988,-38.03486
+Hoppers Crossing,Government,Secondary,Wyndham (C),144.69536,-37.87122
+Keilor Downs,Government,Secondary,Brimbank (C),144.81119,-37.71552
+Morwell,Government,Secondary,Latrobe (C),146.43279,-38.22879
+Kurunjang,Government,Secondary,Melton (C),144.58596,-37.67291
+Lakes Entrance,Government,Secondary,East Gippsland (S),147.99841,-37.87134
+Langwarrin,Government,Secondary,Frankston (C),145.19018,-38.15929
+Sunbury,Government,Secondary,Hume (C),144.70448,-37.58401
+Burwood East,Government,Secondary,Whitehorse (C),145.16373,-37.84852
+Seaford,Government,Secondary,Frankston (C),145.13474,-38.0835
+Eltham North,Government,Secondary,Banyule (C),145.13991,-37.68687
+Stawell,Government,Secondary,Northern Grampians (S),142.78979,-37.06195
+Rowville,Government,Secondary,Knox (C),145.23709,-37.92389
+Wonthaggi,Government,Secondary,Bass Coast (S),145.59788,-38.61094
+Sandringham,Government,Secondary,Bayside (C),145.02303,-37.95671
+Fitzroy North,Government,Secondary,Yarra (C),144.98748,-37.78491
+Ashwood,Government,Secondary,Monash (C),145.10333,-37.86453
+Mitcham,Government,Secondary,Whitehorse (C),145.19016,-37.80711
+Leongatha,Government,Secondary,South Gippsland (S),145.96124,-38.47869
+Diamond Creek,Government,Secondary,Nillumbik (S),145.1674,-37.67283
+Burwood East,Government,Language,Whitehorse (C),145.14829,-37.84789
+Collingwood,Government,Language,Yarra (C),144.9848,-37.80784
+Noble Park,Government,Language,Greater Dandenong (C),145.17817,-37.97117
+Greensborough,Government,Secondary,Banyule (C),145.09125,-37.70849
+Ararat,Government,Secondary,Ararat (RC),142.92196,-37.286
+Mill Park,Government,Secondary,Whittlesea (C),145.06341,-37.66416
+Bacchus Marsh,Government,Secondary,Moorabool (S),144.43306,-37.68563
+Hoppers Crossing,Government,Pri/Sec,Wyndham (C),144.67494,-37.85813
+Fraser Rise,Government,Secondary,Melton (C),144.72787,-37.71569
+Taylors Lakes,Government,Secondary,Brimbank (C),144.7944,-37.70741
+Sunshine West,Government,Secondary,Brimbank (C),144.81382,-37.79316
+Wallan,Government,Secondary,Mitchell (S),144.98147,-37.41839
+Thornbury,Government,Secondary,Darebin (C),145.02521,-37.75649
+Portland,Government,Secondary,Glenelg (S),141.59482,-38.35882
+Delahey,Government,Secondary,Brimbank (C),144.77243,-37.71946
+Williamstown,Government,Pri/Sec,Hobsons Bay (C),144.88521,-37.8577
+Oakleigh South,Government,Secondary,Monash (C),145.08977,-37.92232
+Swan Hill,Government,Secondary,Swan Hill (RC),143.55285,-35.33523
+Traralgon,Government,Secondary,Latrobe (C),146.51949,-38.19142
+Mornington,Government,Secondary,Mornington Peninsula (S),145.05776,-38.21671
+Keilor East,Government,Secondary,Moonee Valley (C),144.86971,-37.73971
+Brunswick,Government,Secondary,Merri-bek (C),144.95501,-37.7709
+Glen Waverley,Government,Secondary,Monash (C),145.16211,-37.8781
+Frankston North,Government,Secondary,Frankston (C),145.14772,-38.12612
+Warrnambool,Government,Secondary,Warrnambool (C),142.49968,-38.37672
+Viewbank,Government,Secondary,Banyule (C),145.08659,-37.7412
+Noble Park,Government,Secondary,Greater Dandenong (C),145.18237,-37.97021
+Hamilton,Government,Secondary,Southern Grampians (S),142.01463,-37.73331
+Mooroolbark,Government,Secondary,Yarra Ranges (S),145.31618,-37.78934
+Heathmont,Government,Secondary,Maroondah (C),145.2321,-37.83843
+Horsham,Government,Secondary,Horsham (RC),142.1841,-36.71166
+Richmond,Government,Secondary,Yarra (C),145.01433,-37.82251
+Hamlyn Heights,Government,Secondary,Greater Geelong (C),144.32806,-38.12391
+Newborough,Government,Secondary,Latrobe (C),146.28598,-38.17668
+Templestowe Lower,Government,Secondary,Manningham (C),145.12231,-37.76743
+Castlemaine,Government,Secondary,Mount Alexander (S),144.22755,-37.05044
+Warragul,Government,Secondary,Baw Baw (S),145.92549,-38.1652
+Wendouree,Government,Secondary,Ballarat (C),143.83447,-37.51922
+Charlton,Government,Pri/Sec,Buloke (S),143.35963,-36.27031
+Wycheproof,Government,Pri/Sec,Buloke (S),143.2291,-36.0757
+Birchip,Government,Pri/Sec,Buloke (S),142.90994,-35.98438
+Nhill,Government,Pri/Sec,Hindmarsh (S),141.65886,-36.3326
+Sale,Government,Secondary,Wellington (S),147.06801,-38.10892
+Frankston,Government,Secondary,Frankston (C),145.15845,-38.14632
+Dinner Plain,Government,Camp,Alpine (S),147.24592,-37.02329
+Braybrook,Government,Language,Maribyrnong (C),144.85404,-37.791
+Narre Warren South,Government,Pri/Sec,Casey (C),145.28508,-38.04973
+Lara,Government,Secondary,Greater Geelong (C),144.41157,-38.01818
+Kaniva,Government,Pri/Sec,West Wimmera (S),141.24485,-36.38272
+Corryong,Government,Pri/Sec,Towong (S),147.91076,-36.19294
+Maryborough,Government,Pri/Sec,Central Goldfields (S),143.72287,-37.04216
+South Morang,Government,Pri/Sec,Whittlesea (C),145.07568,-37.63494
+Point Cook,Government,Secondary,Wyndham (C),144.73282,-37.88672
+Wyndham Vale,Government,Pri/Sec,Wyndham (C),144.60185,-37.87351
+Coburg,Government,Secondary,Merri-bek (C),144.9728,-37.7407
+Wodonga,Government,Pri/Sec,Wodonga (C),146.89056,-36.13084
+Craigieburn,Government,Pri/Sec,Hume (C),144.92133,-37.57864
+Tarneit,Government,Secondary,Wyndham (C),144.68041,-37.83335
+Echuca,Government,Secondary,Campaspe (S),144.73242,-36.13239
+Clayton,Government,Secondary,Monash (C),145.12869,-37.91422
+Altona,Government,Pri/Sec,Hobsons Bay (C),144.81864,-37.86191
+Dandenong,Government,Secondary,Greater Dandenong (C),145.20901,-37.97942
+Wonthaggi,Government,Special,Bass Coast (S),145.59647,-38.60974
+Laverton,Government,Pri/Sec,Hobsons Bay (C),144.77263,-37.85617
+Broadmeadows,Government,Secondary,Hume (C),144.91536,-37.68044
+Colac,Government,Secondary,Colac-Otway (S),143.5901,-38.3515
+Berwick,Government,Secondary,Casey (C),145.33656,-38.0385
+Werribee,Government,Secondary,Wyndham (C),144.70075,-37.89385
+Springvale South,Government,Secondary,Greater Dandenong (C),145.15984,-37.96702
+Hallam,Government,Secondary,Casey (C),145.26119,-38.0002
+Endeavour Hills,Government,Secondary,Casey (C),145.27656,-37.97461
+Narre Warren,Government,Secondary,Casey (C),145.29538,-38.00528
+Balmoral,Government,Pri/Sec,Southern Grampians (S),141.82362,-37.23958
+Myrtleford,Government,Pri/Sec,Alpine (S),146.72614,-36.54889
+Cranbourne North,Government,Secondary,Casey (C),145.30872,-38.07313
+Somerville,Government,Secondary,Mornington Peninsula (S),145.1686,-38.22726
+Tarneit,Government,Primary,Wyndham (C),144.66582,-37.83618
+Boort,Government,Pri/Sec,Loddon (S),143.72695,-36.11022
+Yarrawonga,Government,Pri/Sec,Moira (S),146.00667,-36.02144
+Seymour,Government,Pri/Sec,Mitchell (S),145.14112,-37.02984
+Merbein,Government,Pri/Sec,Mildura (RC),142.07131,-34.16937
+Albert Park,Government,Secondary,Port Phillip (C),144.94736,-37.84479
+Macleod West,Government,Pri/Sec,Darebin (C),145.05865,-37.72897
+Cairnlea,Government,Secondary,Brimbank (C),144.7949,-37.75552
+Swifts Creek,Government,Pri/Sec,East Gippsland (S),147.72403,-37.26684
+Glenroy,Government,Secondary,Merri-bek (C),144.925,-37.7047
+Fawkner,Government,Secondary,Merri-bek (C),144.97186,-37.70271
+Reservoir,Government,Secondary,Darebin (C),145.00277,-37.69667
+Wollert,Government,Secondary,Whittlesea (C),145.02524,-37.60962
+Mernda,Government,Pri/Sec,Whittlesea (C),145.08833,-37.60485
+Cranbourne East,Government,Secondary,Casey (C),145.30603,-38.10494
+Point Cook,Government,Pri/Sec,Wyndham (C),144.72752,-37.90164
+Sebastopol,Government,Pri/Sec,Ballarat (C),143.83351,-37.58661
+Corio,Government,Pri/Sec,Greater Geelong (C),144.35571,-38.07841
+Torquay,Government,Secondary,Surf Coast (S),144.32386,-38.30419
+Hopetoun,Government,Pri/Sec,Yarriambiack (S),142.36603,-35.73487
+Doveton,Government,Pri/Sec,Casey (C),145.24317,-37.98945
+Officer,Government,Secondary,Cardinia (S),145.41097,-38.07202
+Caroline Springs,Government,Pri/Sec,Melton (C),144.73722,-37.74634
+Caroline Springs,Government,Pri/Sec,Melton (C),144.73804,-37.73445
+Caroline Springs,Government,Secondary,Melton (C),144.74028,-37.73102
+Caroline Springs,Government,Primary,Melton (C),144.73867,-37.71118
+Croydon,Government,Secondary,Maroondah (C),145.26202,-37.79552
+Boronia,Government,Pri/Sec,Knox (C),145.29327,-37.8583
+Tarneit,Government,Pri/Sec,Wyndham (C),144.67982,-37.83745
+Benalla,Government,Pri/Sec,Benalla (RC),145.96385,-36.55337
+Parkville,Government,Special,Melbourne (C),144.94736,-37.77682
+South Yarra,Government,Secondary,Stonnington (C),144.99612,-37.83615
+MELBOURNE,Independent,Pri/Sec,Melbourne (C),144.98214,-37.84883
+GLEN IRIS,Independent,Pri/Sec,Stonnington (C),145.05464,-37.86145
+BUNDOORA,Catholic,Secondary,Banyule (C),145.06698,-37.69018
+WEST MELBOURNE,Catholic,Secondary,Melbourne (C),144.95288,-37.80597
+ST KILDA EAST,Catholic,Secondary,Port Phillip (C),144.997,-37.85936
+BALLARAT,Catholic,Secondary,Ballarat (C),143.83156,-37.55971
+BALLARAT,Catholic,Primary,Ballarat (C),143.84715,-37.5644
+BALLARAT EAST,Catholic,Primary,Ballarat (C),143.87401,-37.5617
+WARRNAMBOOL,Catholic,Secondary,Warrnambool (C),142.47736,-38.37099
+BALLARAT,Catholic,Secondary,Ballarat (C),143.82347,-37.55686
+MANSFIELD,Catholic,Primary,Mansfield (S),146.08901,-37.05835
+NEWPORT,Catholic,Primary,Hobsons Bay (C),144.8814,-37.84003
+WILLIAMSTOWN,Catholic,Primary,Hobsons Bay (C),144.90089,-37.8635
+KEW,Independent,Pri/Sec,Boroondara (C),145.03918,-37.81111
+ST KILDA EAST,Independent,Pri/Sec,Glen Eira (C),145.00489,-37.87738
+NORTH MELBOURNE,Catholic,Primary,Melbourne (C),144.94625,-37.7933
+WANGARATTA,Catholic,Primary,Wangaratta (RC),146.32195,-36.35616
+ST KILDA EAST,Catholic,Primary,Port Phillip (C),144.99759,-37.85902
+KILMORE,Catholic,Secondary,Mitchell (S),144.94763,-37.30101
+FLEMINGTON,Catholic,Primary,Moonee Valley (C),144.93173,-37.7847
+BENDIGO,Catholic,Secondary,Greater Bendigo (C),144.27336,-36.75344
+MARYBOROUGH,Independent,Secondary,Central Goldfields (S),143.73642,-37.05354
+MARYBOROUGH,Catholic,Primary,Central Goldfields (S),143.7368,-37.05183
+BAIRNSDALE,Catholic,Primary,East Gippsland (S),147.58563,-37.8414
+REDAN,Catholic,Primary,Ballarat (C),143.83767,-37.57811
+HAWTHORN,Catholic,Primary,Boroondara (C),145.03432,-37.82646
+GLEN IRIS,Catholic,Pri/Sec,Stonnington (C),145.05157,-37.86175
+NORTHCOTE,Catholic,Primary,Darebin (C),144.99672,-37.77462
+PRESTON,Catholic,Primary,Darebin (C),145.00377,-37.74481
+MORWELL,Catholic,Primary,Latrobe (C),146.40432,-38.23943
+TRARALGON,Catholic,Primary,Latrobe (C),146.5347,-38.19516
+SHEPPARTON,Catholic,Primary,Greater Shepparton (C),145.40765,-36.37473
+SEYMOUR,Catholic,Pri/Sec,Mitchell (S),145.14092,-37.0199
+DONALD,Catholic,Primary,Buloke (S),142.98517,-36.37358
+SALE,Catholic,Primary,Wellington (S),147.06233,-38.11071
+KILMORE,Catholic,Primary,Mitchell (S),144.94811,-37.29939
+BALLAN,Catholic,Primary,Moorabool (S),144.22873,-37.5999
+GORDON,Catholic,Primary,Moorabool (S),144.0909,-37.58065
+LANCEFIELD,Catholic,Primary,Macedon Ranges (S),144.73173,-37.27876
+CRESWICK,Catholic,Primary,Hepburn (S),143.89226,-37.42851
+TARRINGTON,Independent,Primary,Southern Grampians (S),142.09426,-37.76623
+KANGAROO FLAT,Catholic,Primary,Greater Bendigo (C),144.2448,-36.7942
+BENALLA,Catholic,Primary,Benalla (RC),145.97412,-36.55396
+DUNNSTOWN,Catholic,Primary,Moorabool (S),143.96603,-37.59116
+NEWTOWN,Catholic,Secondary,Greater Geelong (C),144.34015,-38.1495
+ST ARNAUD,Catholic,Primary,Northern Grampians (S),143.24686,-36.61708
+MILDURA,Catholic,Secondary,Mildura (RC),142.15346,-34.18872
+BRIGHTON,Catholic,Secondary,Bayside (C),144.99678,-37.89673
+BRIGHTON,Catholic,Primary,Bayside (C),144.99766,-37.89794
+BENTLEIGH EAST,Catholic,Primary,Glen Eira (C),145.07091,-37.92304
+KEW,Independent,Pri/Sec,Boroondara (C),145.03849,-37.81395
+EAGLEHAWK,Catholic,Primary,Greater Bendigo (C),144.25729,-36.72348
+MOUNT CLEAR,Catholic,Secondary,Ballarat (C),143.87035,-37.61146
+BALLARAT,Independent,Pri/Sec,Ballarat (C),143.83365,-37.55965
+CASTLEMAINE,Catholic,Primary,Mount Alexander (S),144.22096,-37.06396
+KYNETON,Catholic,Secondary,Macedon Ranges (S),144.45882,-37.25289
+WOODEND,Catholic,Primary,Macedon Ranges (S),144.53049,-37.35779
+CHARLTON,Catholic,Primary,Buloke (S),143.35105,-36.27177
+TATURA,Catholic,Primary,Greater Shepparton (C),145.22392,-36.43983
+SOUTH YARRA,Independent,Primary,Melbourne (C),144.98574,-37.83895
+COBURG,Catholic,Primary,Merri-bek (C),144.96785,-37.73893
+WERRIBEE,Catholic,Primary,Wyndham (C),144.65057,-37.90127
+GISBORNE,Catholic,Primary,Macedon Ranges (S),144.59009,-37.49091
+SUNBURY,Catholic,Primary,Hume (C),144.7363,-37.58004
+CHILTERN,Catholic,Primary,Indigo (S),146.60706,-36.14598
+RUTHERGLEN,Catholic,Primary,Indigo (S),146.46298,-36.05042
+INGLEWOOD,Catholic,Primary,Loddon (S),143.87249,-36.57114
+BENALLA,Catholic,Secondary,Benalla (RC),145.97539,-36.55277
+BALWYN,Independent,Pri/Sec,Boroondara (C),145.08033,-37.81516
+PAKENHAM,Catholic,Primary,Cardinia (S),145.47453,-38.06938
+ARMADALE,Independent,Pri/Sec,Stonnington (C),145.02509,-37.85232
+YARRAWONGA,Catholic,Primary,Moira (S),146.00925,-36.01072
+KEW,Catholic,Pri/Sec,Boroondara (C),145.0311,-37.81386
+PENSHURST,Catholic,Primary,Southern Grampians (S),142.28978,-37.87751
+ARARAT,Catholic,Secondary,Ararat (RC),142.93777,-37.28474
+CASTERTON,Catholic,Primary,Glenelg (S),141.41363,-37.58601
+BACCHUS MARSH,Catholic,Primary,Moorabool (S),144.43486,-37.67227
+KOROIT,Catholic,Primary,Moyne (S),142.36897,-38.29989
+CORIO,Independent,Pri/Sec,Greater Geelong (C),144.39907,-38.06882
+KEW,Independent,Pri/Sec,Boroondara (C),145.0355,-37.8102
+FITZROY,Catholic,Secondary,Yarra (C),144.97441,-37.80371
+FITZROY,Catholic,Primary,Yarra (C),144.97852,-37.80205
+LILYDALE,Catholic,Secondary,Yarra Ranges (S),145.35775,-37.75076
+FOOTSCRAY,Catholic,Primary,Maribyrnong (C),144.90684,-37.80116
+YARRAVILLE,Catholic,Primary,Maribyrnong (C),144.8899,-37.8137
+HORSHAM,Catholic,Primary,Horsham (RC),142.20399,-36.714
+COLAC,Catholic,Secondary,Colac-Otway (S),143.57693,-38.35203
+COLAC,Catholic,Primary,Colac-Otway (S),143.5854,-38.33473
+MENTONE,Catholic,Secondary,Kingston (C),145.06571,-37.98415
+MORNINGTON,Catholic,Secondary,Mornington Peninsula (S),145.072,-38.21826
+SOUTH YARRA,Independent,Pri/Sec,Melbourne (C),144.9848,-37.83169
+NEWTOWN,Independent,Pri/Sec,Greater Geelong (C),144.34009,-38.15242
+SHEPPARTON,Catholic,Secondary,Greater Shepparton (C),145.40764,-36.37471
+YARRAWONGA,Catholic,Secondary,Moira (S),146.00921,-36.00866
+CLIFTON HILL,Catholic,Primary,Yarra (C),144.98822,-37.79034
+NUMURKAH,Catholic,Primary,Moira (S),145.4436,-36.08646
+WARRNAMBOOL,Catholic,Primary,Warrnambool (C),142.48614,-38.37249
+PORTLAND,Independent,Secondary,Glenelg (S),141.60595,-38.34523
+DRYSDALE,Catholic,Secondary,Greater Geelong (C),,
+GEELONG,Catholic,Primary,Greater Geelong (C),144.363,-38.15319
+GEELONG WEST,Catholic,Primary,Greater Geelong (C),144.34604,-38.13484
+BURWOOD,Independent,Pri/Sec,Whitehorse (C),145.107,-37.84856
+MOONEE PONDS,Catholic,Primary,Moonee Valley (C),144.92318,-37.75966
+LILYDALE,Catholic,Primary,Yarra Ranges (S),145.35261,-37.75273
+ELTHAM,Catholic,Secondary,Nillumbik (S),145.14356,-37.71152
+COLLINGWOOD,Catholic,Primary,Yarra (C),144.98639,-37.80046
+WARRACKNABEAL,Catholic,Primary,Yarriambiack (S),142.3896,-36.25408
+ECHUCA,Catholic,Primary,Campaspe (S),144.72583,-36.13426
+KEW,Catholic,Primary,Boroondara (C),145.03744,-37.80817
+ARARAT,Catholic,Primary,Ararat (RC),142.93861,-37.2855
+ECHUCA,Catholic,Secondary,Campaspe (S),144.74337,-36.11815
+PORT FAIRY,Catholic,Primary,Moyne (S),142.23167,-38.38613
+ROCHESTER,Catholic,Primary,Campaspe (S),144.70117,-36.36476
+NORTH MELBOURNE,Catholic,Secondary,Melbourne (C),144.94287,-37.79289
+PORTLAND,Catholic,Primary,Glenelg (S),141.59279,-38.35947
+SALE,Catholic,Secondary,Wellington (S),147.06378,-38.10871
+KYABRAM,Catholic,Pri/Sec,Campaspe (S),145.04471,-36.30955
+SURREY HILLS,Catholic,Primary,Boroondara (C),145.10008,-37.82032
+ELMORE,Catholic,Primary,Greater Bendigo (C),144.61562,-36.49302
+BEECHWORTH,Catholic,Primary,Indigo (S),146.68281,-36.36007
+COLERAINE,Catholic,Primary,Southern Grampians (S),141.69473,-37.60538
+CAMPERDOWN,Catholic,Secondary,Corangamite (S),143.13956,-38.235
+CAMPERDOWN,Catholic,Primary,Corangamite (S),143.139,-38.23503
+ESSENDON,Catholic,Secondary,Moonee Valley (C),144.91429,-37.7572
+DAYLESFORD,Catholic,Primary,Hepburn (S),144.15136,-37.33724
+HAMILTON,Catholic,Primary,Southern Grampians (S),142.05091,-37.74114
+BENDIGO,Catholic,Primary,Greater Bendigo (C),144.28421,-36.75458
+KEW,Catholic,Pri/Sec,Boroondara (C),145.05578,-37.80897
+WODONGA,Catholic,Primary,Wodonga (C),146.88922,-36.11702
+STAWELL,Catholic,Primary,Northern Grampians (S),142.78726,-37.05935
+ST KILDA,Independent,Pri/Sec,Port Phillip (C),144.99155,-37.85955
+MENTONE,Catholic,Primary,Kingston (C),145.07016,-37.98357
+TERANG,Catholic,Primary,Corangamite (S),142.90996,-38.2398
+WARRAGUL,Catholic,Primary,Baw Baw (S),145.91202,-38.15861
+QUARRY HILL,Catholic,Primary,Greater Bendigo (C),144.27835,-36.76942
+BRIGHTON,Independent,Pri/Sec,Bayside (C),144.99694,-37.90612
+HEIDELBERG,Catholic,Primary,Banyule (C),145.06655,-37.75764
+HEIDELBERG,Catholic,Secondary,Banyule (C),145.06759,-37.75793
+BRUNSWICK WEST,Catholic,Primary,Merri-bek (C),144.94298,-37.76229
+MORDIALLOC,Catholic,Primary,Kingston (C),145.09178,-38.00804
+BALLARAT NORTH,Catholic,Primary,Ballarat (C),143.86007,-37.54591
+WENDOUREE,Independent,Pri/Sec,Ballarat (C),143.83083,-37.53924
+BRUNSWICK EAST,Catholic,Primary,Merri-bek (C),144.97786,-37.77634
+GLEN HUNTLY,Catholic,Primary,Glen Eira (C),145.0471,-37.88689
+DANDENONG,Catholic,Primary,Greater Dandenong (C),145.22084,-37.99067
+SANDRINGHAM,Catholic,Primary,Bayside (C),145.00855,-37.95148
+WONTHAGGI,Catholic,Primary,Bass Coast (S),145.60341,-38.60086
+ASCOT VALE,Catholic,Primary,Moonee Valley (C),144.91127,-37.77384
+KERANG,Catholic,Primary,Gannawarra (S),143.91781,-35.72546
+MALVERN,Catholic,Pri/Sec,Stonnington (C),145.03218,-37.85768
+BRUNSWICK NORTH,Catholic,Primary,Merri-bek (C),144.96825,-37.75863
+HAMILTON,Independent,Pri/Sec,Southern Grampians (S),142.02421,-37.7372
+BALLARAT EAST,Catholic,Primary,Ballarat (C),143.90299,-37.56161
+LEONGATHA,Catholic,Primary,South Gippsland (S),145.9543,-38.47894
+KORUMBURRA,Catholic,Primary,South Gippsland (S),145.82232,-38.43604
+IVANHOE,Independent,Pri/Sec,Banyule (C),145.04448,-37.77252
+HEALESVILLE,Catholic,Primary,Yarra Ranges (S),145.5158,-37.65868
+NAR NAR GOON,Catholic,Primary,Cardinia (S),145.57319,-38.07303
+HAWTHORN,Independent,Pri/Sec,Boroondara (C),145.03229,-37.83392
+MALVERN EAST,Catholic,Primary,Stonnington (C),145.05292,-37.87302
+BRIGHTON EAST,Independent,Pri/Sec,Bayside (C),145.00755,-37.92863
+KENSINGTON,Catholic,Primary,Melbourne (C),144.92878,-37.79558
+QUEENSCLIFF,Catholic,Primary,Queenscliffe (B),144.6553,-38.26868
+ALPHINGTON,Catholic,Primary,Darebin (C),145.02036,-37.78007
+MALVERN,Catholic,Primary,Stonnington (C),145.03116,-37.85807
+YARRAM,Catholic,Primary,Wellington (S),146.67597,-38.5569
+WHITE HILLS,Catholic,Primary,Greater Bendigo (C),144.31057,-36.72487
+ELWOOD,Catholic,Primary,Port Phillip (C),144.98112,-37.88253
+KYNETON,Catholic,Primary,Macedon Ranges (S),144.46212,-37.25051
+RINGWOOD EAST,Independent,Pri/Sec,Maroondah (C),145.25669,-37.81552
+SWAN HILL,Catholic,Primary,Swan Hill (RC),143.5456,-35.32846
+MT ELIZA,Independent,Pri/Sec,Mornington Peninsula (S),145.09346,-38.17226
+HASTINGS,Catholic,Primary,Mornington Peninsula (S),145.1917,-38.30344
+CORAGULAC,Catholic,Primary,Colac-Otway (S),143.5188,-38.27065
+SUNSHINE,Catholic,Primary,Brimbank (C),144.83556,-37.78945
+THORNBURY,Catholic,Primary,Darebin (C),145.00166,-37.75684
+DENNINGTON,Catholic,Primary,Warrnambool (C),142.44614,-38.3515
+TOORAK,Independent,Pri/Sec,Stonnington (C),145.02127,-37.8383
+ESSENDON,Independent,Pri/Sec,Moonee Valley (C),144.91497,-37.75991
+HORSHAM,Catholic,Secondary,Horsham (RC),142.20795,-36.71731
+BRIGHTON,Catholic,Primary,Bayside (C),144.99415,-37.92011
+EUROA,Catholic,Primary,Strathbogie (S),145.56987,-36.75337
+KEILOR EAST,Independent,Pri/Sec,Moonee Valley (C),144.87034,-37.73215
+FOOTSCRAY,Catholic,Primary,Maribyrnong (C),144.88522,-37.79582
+COBRAM,Catholic,Primary,Moira (S),145.65236,-35.91707
+CAULFIELD,Independent,Pri/Sec,Glen Eira (C),145.01132,-37.87791
+IVANHOE,Catholic,Primary,Banyule (C),145.03876,-37.77194
+NAGAMBIE,Catholic,Primary,Strathbogie (S),145.15405,-36.78161
+PRAHRAN EAST,Catholic,Primary,Stonnington (C),145.00946,-37.85246
+ORBOST,Catholic,Primary,East Gippsland (S),148.45563,-37.70917
+MENTONE,Independent,Pri/Sec,Kingston (C),145.06812,-37.98769
+IVANHOE,Independent,Pri/Sec,Banyule (C),145.04672,-37.76527
+MYRTLEFORD,Catholic,Primary,Alpine (S),146.72693,-36.55357
+KEW,Independent,Pri/Sec,Boroondara (C),145.04782,-37.81478
+ORMOND,Independent,Pri/Sec,Glen Eira (C),145.04122,-37.89952
+KEYSBOROUGH,Independent,Pri/Sec,Greater Dandenong (C),145.14643,-37.99598
+ESSENDON,Catholic,Primary,Moonee Valley (C),144.91031,-37.75111
+YEA,Catholic,Primary,Murrindindi (S),145.42461,-37.21455
+DEEPDENE,Catholic,Primary,Boroondara (C),145.06279,-37.81108
+CANTERBURY,Independent,Pri/Sec,Boroondara (C),145.08037,-37.82918
+MENTONE,Independent,Pri/Sec,Kingston (C),145.06346,-37.98938
+CHELSEA,Catholic,Primary,Kingston (C),145.11859,-38.05544
+SALE,Independent,Pri/Sec,Wellington (S),147.06463,-38.09365
+BRIGHTON EAST,Catholic,Primary,Bayside (C),145.01746,-37.91628
+TOORAK,Catholic,Pri/Sec,Stonnington (C),145.01489,-37.84819
+CAMBERWELL EAST,Catholic,Primary,Boroondara (C),145.08384,-37.83892
+HAMPTON,Catholic,Primary,Bayside (C),145.0009,-37.93305
+HEATHCOTE,Catholic,Primary,Greater Bendigo (C),144.70111,-36.91768
+COHUNA,Catholic,Primary,Gannawarra (S),144.21854,-35.80823
+CANTERBURY,Independent,Pri/Sec,Boroondara (C),145.06641,-37.81609
+CRIB POINT,Catholic,Primary,Mornington Peninsula (S),145.20281,-38.36147
+BRIGHTON,Independent,Pri/Sec,Bayside (C),144.99352,-37.91111
+MORELAND,Catholic,Primary,Merri-bek (C),144.95156,-37.74984
+MT WAVERLEY,Independent,Pri/Sec,Monash (C),145.13629,-37.87674
+BOX HILL,Catholic,Primary,Whitehorse (C),145.13149,-37.81849
+ALTONA,Catholic,Primary,Hobsons Bay (C),144.82838,-37.86666
+ELTHAM,Catholic,Primary,Nillumbik (S),145.14791,-37.71612
+MERBEIN,Catholic,Primary,Mildura (RC),142.05309,-34.16686
+FRANKSTON,Catholic,Primary,Frankston (C),145.1262,-38.1488
+BOX HILL,Catholic,Secondary,Whitehorse (C),145.12992,-37.81835
+RESERVOIR,Catholic,Primary,Darebin (C),145.00512,-37.71802
+BENTLEIGH,Catholic,Primary,Glen Eira (C),145.04147,-37.92283
+BLACK ROCK,Catholic,Primary,Bayside (C),145.02316,-37.97592
+SUNBURY,Catholic,Secondary,Hume (C),144.73903,-37.57264
+STRATFORD,Catholic,Primary,Wellington (S),147.07768,-37.96726
+BOX HILL,Independent,Pri/Sec,Whitehorse (C),145.11863,-37.83278
+TRAFALGAR,Catholic,Primary,Baw Baw (S),146.15219,-38.20721
+MURRUMBEENA,Catholic,Primary,Glen Eira (C),145.06527,-37.90178
+GLEN IRIS,Catholic,Primary,Stonnington (C),145.05231,-37.85736
+BERWICK,Independent,Pri/Sec,Casey (C),145.34654,-38.03535
+CANTERBURY,Independent,Pri/Sec,Boroondara (C),145.0597,-37.81821
+KEW EAST,Catholic,Primary,Boroondara (C),145.04981,-37.79538
+RINGWOOD,Catholic,Primary,Maroondah (C),145.23218,-37.81642
+MONTMORENCY,Catholic,Primary,Banyule (C),145.12656,-37.71601
+SORRENTO,Catholic,Primary,Mornington Peninsula (S),144.7418,-38.34047
+GLEN IRIS,Catholic,Primary,Boroondara (C),145.0646,-37.85009
+ELSTERNWICK,Catholic,Primary,Glen Eira (C),145.00529,-37.88251
+RED CLIFFS,Catholic,Primary,Mildura (RC),142.18796,-34.30235
+KEW,Independent,Pri/Sec,Boroondara (C),145.05221,-37.81593
+EPPING,Catholic,Primary,Whittlesea (C),145.02755,-37.65054
+NORTHCOTE,Catholic,Secondary,Darebin (C),145.00248,-37.77036
+OAKLEIGH,Catholic,Primary,Monash (C),145.08692,-37.90184
+FAWKNER,Catholic,Primary,Merri-bek (C),144.96362,-37.71628
+FERNTREE GULLY,Catholic,Primary,Knox (C),145.29517,-37.88738
+MITCHAM,Catholic,Primary,Whitehorse (C),145.1904,-37.81744
+MOOROOPNA,Catholic,Primary,Greater Shepparton (C),145.35422,-36.39605
+PRESTON WEST,Catholic,Primary,Darebin (C),144.99262,-37.7341
+TOORAK,Catholic,Pri/Sec,Stonnington (C),145.0247,-37.8354
+KOO WEE RUP,Catholic,Primary,Cardinia (S),145.48527,-38.19746
+STRATHMORE,Catholic,Primary,Moonee Valley (C),144.92413,-37.74214
+NEWTOWN,Catholic,Secondary,Greater Geelong (C),144.33186,-38.1502
+SPRINGVALE,Catholic,Primary,Greater Dandenong (C),145.15034,-37.95323
+MENTONE,Catholic,Secondary,Kingston (C),145.06821,-37.99116
+PRESTON EAST,Catholic,Primary,Darebin (C),145.01857,-37.73026
+CAMBERWELL,Catholic,Secondary,Boroondara (C),145.08258,-37.83366
+COBURG EAST,Catholic,Primary,Merri-bek (C),144.97271,-37.74742
+PASCOE VALE,Catholic,Primary,Merri-bek (C),144.94186,-37.73089
+KINGSVILLE,Catholic,Primary,Maribyrnong (C),144.87292,-37.80853
+NEWTOWN,Catholic,Primary,Greater Geelong (C),144.34301,-38.15641
+ESSENDON,Catholic,Secondary,Moonee Valley (C),144.8832,-37.74939
+DONVALE,Catholic,Secondary,Manningham (C),145.19954,-37.7918
+ASHBURTON,Catholic,Primary,Boroondara (C),145.08248,-37.86413
+CLARKES HILL,Catholic,Primary,Moorabool (S),143.9887,-37.5004
+BENTLEIGH,Catholic,Secondary,Glen Eira (C),145.03994,-37.92572
+BALWYN NORTH,Catholic,Primary,Boroondara (C),145.0709,-37.79352
+CHADSTONE,Catholic,Secondary,Monash (C),145.10026,-37.88273
+NHILL,Catholic,Primary,Hindmarsh (S),141.64304,-36.33541
+GEELONG EAST,Catholic,Primary,Greater Geelong (C),144.37393,-38.16462
+BURWOOD,Independent,Pri/Sec,Whitehorse (C),145.11777,-37.84722
+MOE,Catholic,Primary,Latrobe (C),146.25356,-38.17937
+BULLEEN,Catholic,Secondary,Manningham (C),145.08268,-37.77478
+WARRAGUL,Catholic,Secondary,Baw Baw (S),145.91527,-38.15903
+IRYMPLE,Independent,Pri/Sec,Mildura (RC),142.15926,-34.22261
+ALBION,Catholic,Primary,Brimbank (C),144.8202,-37.78219
+IVANHOE WEST,Catholic,Primary,Banyule (C),145.03412,-37.76306
+MORTLAKE,Catholic,Primary,Moyne (S),142.80202,-38.07994
+HIGHETT,Catholic,Primary,Bayside (C),145.03183,-37.9461
+CHELTENHAM,Catholic,Primary,Kingston (C),145.05971,-37.9655
+NUNAWADING,Independent,Primary,Whitehorse (C),145.17005,-37.82192
+CROYDON,Catholic,Primary,Maroondah (C),145.27279,-37.79749
+EDENHOPE,Catholic,Primary,West Wimmera (S),141.30005,-37.03403
+NARRE WARREN SOUTH,Independent,Pri/Sec,Casey (C),145.31652,-38.05022
+ALEXANDRA,Catholic,Primary,Murrindindi (S),145.71338,-37.19127
+ESSENDON,Catholic,Primary,Moonee Valley (C),144.9052,-37.75665
+ELSTERNWICK,Independent,Pri/Sec,Glen Eira (C),145.0082,-37.8839
+THORNBURY EAST,Catholic,Primary,Darebin (C),145.01619,-37.76085
+ST ALBANS,Catholic,Primary,Brimbank (C),144.80005,-37.73769
+BLACKBURN,Catholic,Primary,Whitehorse (C),145.15743,-37.82325
+RUSHWORTH,Catholic,Primary,Campaspe (S),145.0112,-36.5878
+HEYFIELD,Catholic,Primary,Wellington (S),146.78427,-37.98075
+NORLANE,Catholic,Primary,Greater Geelong (C),144.35882,-38.09017
+HEIDELBERG WEST,Catholic,Primary,Banyule (C),145.04629,-37.74692
+SPOTSWOOD,Catholic,Primary,Hobsons Bay (C),144.87773,-37.82908
+HAMILTON,Catholic,Secondary,Southern Grampians (S),142.04945,-37.74204
+CHADSTONE,Catholic,Primary,Monash (C),145.1012,-37.87978
+NOBLE PARK,Catholic,Primary,Greater Dandenong (C),145.17243,-37.97171
+CLAYTON,Catholic,Primary,Monash (C),145.12186,-37.92314
+HOPETOUN,Catholic,Primary,Yarriambiack (S),142.36219,-35.72393
+ST KILDA EAST,Independent,Pri/Sec,Glen Eira (C),145.00034,-37.86812
+NIDDRIE,Catholic,Primary,Moonee Valley (C),144.88903,-37.74366
+BELL PARK,Catholic,Primary,Greater Geelong (C),144.33833,-38.1111
+MANIFOLD HEIGHTS,Catholic,Primary,Greater Geelong (C),144.32996,-38.13581
+GREENSBOROUGH,Catholic,Primary,Banyule (C),145.09263,-37.70285
+ARDEER,Catholic,Primary,Brimbank (C),144.80081,-37.77941
+DEER PARK,Catholic,Primary,Brimbank (C),144.76927,-37.76853
+BRAYBROOK,Catholic,Primary,Maribyrnong (C),144.86196,-37.78761
+GLENROY,Catholic,Primary,Merri-bek (C),144.9228,-37.70389
+SPRINGVALE,Catholic,Secondary,Greater Dandenong (C),145.15202,-37.95907
+SUNSHINE WEST,Catholic,Primary,Brimbank (C),144.80752,-37.78753
+PYRAMID HILL,Catholic,Primary,Loddon (S),144.11184,-36.05485
+HERNE HILL,Catholic,Secondary,Greater Geelong (C),144.33048,-38.13008
+BEAUMARIS,Catholic,Primary,Bayside (C),145.04104,-37.98199
+KENNINGTON,Catholic,Primary,Greater Bendigo (C),144.29824,-36.7669
+SUNSHINE NORTH,Catholic,Primary,Brimbank (C),144.83528,-37.77116
+SEBASTOPOL,Catholic,Primary,Ballarat (C),143.84018,-37.60347
+HAWTHORN,Independent,Special,Boroondara (C),145.02655,-37.82304
+MILDURA,Catholic,Primary,Mildura (RC),142.15224,-34.18733
+ST KILDA EAST,Independent,Pri/Sec,Glen Eira (C),145.00084,-37.86928
+MARIBYRNONG,Catholic,Primary,Maribyrnong (C),144.89104,-37.7669
+NEWBOROUGH,Catholic,Primary,Latrobe (C),146.29159,-38.18474
+MOUNT WAVERLEY,Catholic,Primary,Monash (C),145.12963,-37.87426
+DANDENONG NORTH,Catholic,Primary,Greater Dandenong (C),145.20582,-37.97133
+SHEPPARTON SOUTH,Catholic,Primary,Greater Shepparton (C),145.41068,-36.39247
+SURREY HILLS,Catholic,Primary,Whitehorse (C),145.11139,-37.83006
+MOORABBIN,Catholic,Primary,Kingston (C),145.05217,-37.93822
+HUGHESDALE,Catholic,Secondary,Monash (C),145.08608,-37.90216
+MORWELL EAST,Catholic,Primary,Latrobe (C),146.41548,-38.23061
+DIMBOOLA,Independent,Primary,Hindmarsh (S),142.03758,-36.45706
+SEA LAKE,Catholic,Primary,Buloke (S),142.85067,-35.50183
+YARRA JUNCTION,Catholic,Primary,Yarra Ranges (S),145.61681,-37.79217
+RESERVOIR EAST,Catholic,Primary,Darebin (C),145.0192,-37.71157
+LAKES ENTRANCE,Catholic,Primary,East Gippsland (S),148.01234,-37.87102
+ROSANNA,Catholic,Primary,Banyule (C),145.07698,-37.73518
+TALLANGATTA,Catholic,Primary,Towong (S),147.17342,-36.21623
+OAKLEIGH EAST,Catholic,Primary,Monash (C),145.10575,-37.89616
+ABERFELDIE,Catholic,Primary,Moonee Valley (C),144.89658,-37.75635
+DANDENONG,Catholic,Secondary,Greater Dandenong (C),145.22626,-37.99023
+BAIRNSDALE,Catholic,Secondary,East Gippsland (S),147.58766,-37.8371
+ROBINVALE,Catholic,Pri/Sec,Swan Hill (RC),142.77851,-34.58471
+WANGARATTA,Catholic,Primary,Wangaratta (RC),146.32114,-36.37219
+VERMONT SOUTH,Catholic,Secondary,Whitehorse (C),145.17411,-37.84779
+BROADMEADOWS,Catholic,Primary,Hume (C),144.9237,-37.68506
+TONGALA,Catholic,Primary,Campaspe (S),144.95359,-36.25266
+BALWYN NORTH,Catholic,Primary,Boroondara (C),145.10325,-37.79592
+GLEN WAVERLEY,Catholic,Primary,Monash (C),145.16389,-37.8868
+BENNETTSWOOD,Catholic,Primary,Whitehorse (C),145.12591,-37.85165
+GLEN WAVERLEY,Catholic,Primary,Monash (C),145.1502,-37.8711
+PARKDALE EAST,Catholic,Primary,Kingston (C),145.09249,-37.99047
+DONCASTER EAST,Catholic,Primary,Manningham (C),145.1534,-37.79055
+NATHALIA,Catholic,Secondary,Moira (S),145.20875,-36.05766
+DOVETON,Catholic,Primary,Casey (C),145.23863,-37.9905
+RINGWOOD,Catholic,Secondary,Maroondah (C),145.23494,-37.82306
+ELSTERNWICK,Independent,Pri/Sec,Glen Eira (C),145.00663,-37.89287
+MT ELIZA,Independent,Pri/Sec,Mornington Peninsula (S),145.09069,-38.19817
+FAWKNER NORTH,Catholic,Primary,Merri-bek (C),144.96795,-37.69816
+MULGRAVE,Catholic,Primary,Monash (C),145.15956,-37.93272
+LALOR,Catholic,Primary,Whittlesea (C),145.01883,-37.67237
+OAK PARK,Catholic,Primary,Merri-bek (C),144.92108,-37.71885
+BELGRAVE,Catholic,Primary,Yarra Ranges (S),145.35268,-37.90841
+WARRNAMBOOL WEST,Catholic,Primary,Warrnambool (C),142.46583,-38.36492
+AIRPORT WEST,Catholic,Primary,Moonee Valley (C),144.88025,-37.72501
+ELIMINYT,Catholic,Primary,Colac-Otway (S),143.57855,-38.35316
+DIAMOND CREEK,Catholic,Primary,Nillumbik (S),145.15878,-37.67215
+BERWICK,Catholic,Primary,Casey (C),145.35357,-38.03382
+ABERFELDIE,Catholic,Secondary,Moonee Valley (C),144.89796,-37.75662
+HAWTHORN,Independent,Pri/Sec,Boroondara (C),145.04337,-37.84227
+KINGSBURY,Catholic,Primary,Darebin (C),145.03552,-37.71526
+BLACKBURN SOUTH,Catholic,Primary,Whitehorse (C),145.14671,-37.83555
+WANGARATTA,Catholic,Primary,Wangaratta (RC),146.3056,-36.34656
+MURTOA,Catholic,Primary,Yarriambiack (S),142.47365,-36.62268
+CROYDON HILLS,Independent,Secondary,Maroondah (C),145.27291,-37.78296
+SUNSHINE WEST,Catholic,Secondary,Brimbank (C),144.80613,-37.78773
+ALTONA,Catholic,Secondary,Hobsons Bay (C),144.81167,-37.8639
+WENDOUREE,Catholic,Primary,Ballarat (C),143.82561,-37.52544
+BULLEEN,Catholic,Primary,Manningham (C),145.09033,-37.7673
+BORONIA,Catholic,Primary,Knox (C),145.27481,-37.86271
+CORRYONG,Catholic,Primary,Towong (S),147.89919,-36.19824
+BELGRAVE,Catholic,Secondary,Yarra Ranges (S),145.35889,-37.91064
+BAYSWATER,Catholic,Primary,Knox (C),145.26576,-37.84898
+FERNTREE GULLY,Catholic,Secondary,Knox (C),145.29509,-37.89049
+BALWYN,Independent,Special,Boroondara (C),145.08686,-37.81235
+BROOKLYN,Catholic,Primary,Hobsons Bay (C),144.84796,-37.82099
+ASPENDALE,Catholic,Primary,Kingston (C),145.10226,-38.01813
+HADFIELD,Catholic,Primary,Merri-bek (C),144.94494,-37.70729
+MOUNT WAVERLEY,Catholic,Secondary,Monash (C),145.13326,-37.87467
+BLACKBURN NORTH,Catholic,Primary,Whitehorse (C),145.16659,-37.80764
+DALLAS,Catholic,Primary,Hume (C),144.93198,-37.66574
+ALTONA NORTH,Catholic,Secondary,Hobsons Bay (C),144.84239,-37.83162
+MOOROOLBARK,Catholic,Primary,Yarra Ranges (S),145.31752,-37.78791
+BUNDOORA,Catholic,Primary,Whittlesea (C),145.05722,-37.69849
+EPPING,Catholic,Secondary,Whittlesea (C),145.03141,-37.65518
+RINGWOOD,Independent,Pri/Sec,Maroondah (C),145.25816,-37.7837
+NEWCOMB,Catholic,Primary,Greater Geelong (C),144.3931,-38.16655
+COBURG,Catholic,Secondary,Merri-bek (C),144.96456,-37.7304
+VERMONT,Catholic,Primary,Whitehorse (C),145.18365,-37.84039
+MAFFRA,Catholic,Primary,Wellington (S),146.97239,-37.9635
+MORNINGTON,Catholic,Primary,Mornington Peninsula (S),145.07046,-38.22321
+FRANKSTON EAST,Catholic,Primary,Frankston (C),145.1481,-38.14582
+WANTIRNA SOUTH,Catholic,Special,Knox (C),145.24279,-37.8779
+FRANKSTON,Catholic,Secondary,Frankston (C),145.13887,-38.13557
+SEAFORD,Catholic,Primary,Frankston (C),145.14095,-38.1066
+MULGRAVE,Catholic,Secondary,Monash (C),145.16614,-37.9152
+AVONDALE HEIGHTS,Catholic,Primary,Moonee Valley (C),144.86162,-37.75847
+DONCASTER,Catholic,Primary,Manningham (C),145.12228,-37.7806
+ENDEAVOUR HILLS,Independent,Pri/Sec,Casey (C),145.27803,-37.97092
+TEMPLESTOWE LOWER,Catholic,Primary,Manningham (C),145.12287,-37.76127
+VERMONT,Catholic,Primary,Whitehorse (C),145.20969,-37.83675
+WHEELERS HILL,Catholic,Primary,Monash (C),145.16605,-37.90812
+WERRIBEE,Catholic,Secondary,Wyndham (C),144.6651,-37.9095
+SALE,Catholic,Primary,Wellington (S),147.08331,-38.0994
+ALTONA NORTH,Catholic,Primary,Hobsons Bay (C),144.85169,-37.83922
+KEILOR EAST,Catholic,Primary,Moonee Valley (C),144.85942,-37.74424
+WARRNAMBOOL EAST,Catholic,Primary,Warrnambool (C),142.51953,-38.38525
+MYRTLEFORD,Catholic,Secondary,Alpine (S),146.72536,-36.55334
+LAVERTON,Catholic,Primary,Hobsons Bay (C),144.77698,-37.85378
+SCORESBY,Catholic,Primary,Knox (C),145.22596,-37.88984
+WODONGA WEST,Catholic,Primary,Wodonga (C),146.87264,-36.12675
+MOUNT EVELYN,Independent,Pri/Sec,Yarra Ranges (S),145.3671,-37.79883
+WARRANWOOD,Independent,Pri/Sec,Maroondah (C),145.24881,-37.77722
+BENDIGO NORTH,Catholic,Primary,Greater Bendigo (C),144.27274,-36.74417
+DINGLEY,Catholic,Primary,Kingston (C),145.12957,-37.98666
+MALVERN EAST,Independent,Special,Stonnington (C),145.05995,-37.87595
+NUNAWADING,Independent,Secondary,Whitehorse (C),145.16902,-37.82255
+RESEARCH,Independent,Pri/Sec,Nillumbik (S),145.19223,-37.70044
+ST ALBANS SOUTH,Catholic,Primary,Brimbank (C),144.81141,-37.75644
+MILDURA,Catholic,Primary,Mildura (RC),142.15603,-34.2046
+COTTLES BRIDGE,Independent,Primary,Nillumbik (S),145.21333,-37.62939
+HOPPERS CROSSING,Catholic,Primary,Wyndham (C),144.69031,-37.87464
+DONVALE,Independent,Pri/Sec,Manningham (C),145.19345,-37.77403
+BOX HILL NORTH,Independent,Special,Whitehorse (C),145.13214,-37.80388
+ELSTERNWICK,Independent,Primary,Glen Eira (C),145.0012,-37.88229
+THOMASTOWN EAST,Catholic,Primary,Whittlesea (C),145.0392,-37.67842
+WOODEND,Independent,Pri/Sec,Macedon Ranges (S),144.57598,-37.36383
+GLADSTONE PARK,Catholic,Primary,Hume (C),144.88946,-37.69303
+CRANBOURNE,Catholic,Primary,Casey (C),145.27885,-38.11164
+KEYSBOROUGH,Catholic,Primary,Greater Dandenong (C),145.16293,-37.98994
+MELTON,Catholic,Primary,Melton (C),144.58464,-37.68092
+CORIO,Catholic,Primary,Greater Geelong (C),144.35813,-38.07203
+TAYLORS HILL,Independent,Pri/Sec,Melton (C),144.76315,-37.7246
+GLEN WAVERLEY,Independent,Special,Monash (C),145.15745,-37.90226
+WANGARATTA,Catholic,Secondary,Wangaratta (RC),146.31054,-36.33875
+RINGWOOD NORTH,Catholic,Primary,Maroondah (C),145.23692,-37.79323
+CHURCHILL,Catholic,Primary,Latrobe (C),146.41571,-38.3164
+VERMONT SOUTH,Catholic,Primary,Whitehorse (C),145.17504,-37.86234
+THOMASTOWN WEST,Catholic,Primary,Whittlesea (C),144.99772,-37.67775
+NHILL,Independent,Primary,Hindmarsh (S),141.66215,-36.32773
+SUNBURY,Catholic,Primary,Hume (C),144.71746,-37.56839
+DONVALE,Catholic,Primary,Manningham (C),145.17721,-37.77444
+LANGWARRIN,Catholic,Primary,Frankston (C),145.19111,-38.15528
+KEALBA,Catholic,Primary,Brimbank (C),144.81963,-37.73374
+DANDENONG NORTH,Catholic,Primary,Greater Dandenong (C),145.19888,-37.94632
+RESERVOIR NORTH,Catholic,Primary,Darebin (C),144.99292,-37.70222
+KINGS PARK,Catholic,Primary,Brimbank (C),144.77539,-37.7363
+ST ALBANS,Catholic,Secondary,Brimbank (C),144.79909,-37.73889
+BEACONSFIELD,Catholic,Secondary,Cardinia (S),145.37311,-38.052
+HORSHAM,Independent,Pri/Sec,Horsham (RC),142.21775,-36.70818
+ST HELENA,Independent,Primary,Banyule (C),145.13709,-37.68407
+WANTIRNA SOUTH,Independent,Pri/Sec,Knox (C),145.2153,-37.88014
+ARMADALE,Independent,Pri/Sec,Stonnington (C),145.0105,-37.85823
+TRUGANINA,Independent,Pri/Sec,Wyndham (C),144.7249,-37.85084
+GROVEDALE,Catholic,Primary,Greater Geelong (C),144.33011,-38.20252
+KEILOR,Catholic,Primary,Brimbank (C),144.82052,-37.71063
+MELTON SOUTH,Catholic,Primary,Melton (C),144.5729,-37.70966
+GREENSBOROUGH NORTH,Catholic,Primary,Nillumbik (S),145.11911,-37.68219
+WANTIRNA,Catholic,Primary,Knox (C),145.23507,-37.85338
+SUNSHINE SOUTH WEST,Catholic,Primary,Brimbank (C),144.81962,-37.80028
+BUNDOORA,Independent,Pri/Sec,Whittlesea (C),145.05467,-37.69501
+PRESTON,Independent,Pri/Sec,Darebin (C),144.99953,-37.74593
+CROYDON HILLS,Independent,Primary,Maroondah (C),145.26862,-37.78268
+CHIRNSIDE PARK,Independent,Pri/Sec,Yarra Ranges (S),145.30513,-37.76357
+CAMPBELLS CREEK,Independent,Pri/Sec,Mount Alexander (S),144.20542,-37.08849
+BELL POST HILL,Independent,Pri/Sec,Greater Geelong (C),144.318,-38.09719
+WODONGA,Catholic,Secondary,Wodonga (C),146.86239,-36.12962
+BRAYBROOK,Catholic,Secondary,Maribyrnong (C),144.8501,-37.78586
+ALFREDTON,Catholic,Primary,Ballarat (C),143.79995,-37.55349
+MOUNT EVELYN,Catholic,Primary,Yarra Ranges (S),145.39586,-37.79052
+PARK ORCHARDS,Catholic,Primary,Manningham (C),145.21859,-37.7733
+TRARALGON WEST,Catholic,Primary,Latrobe (C),146.51105,-38.18765
+CRAIGIEBURN,Catholic,Primary,Hume (C),144.93137,-37.5986
+FRANKSTON SOUTH,Catholic,Primary,Frankston (C),145.14587,-38.17205
+MILL PARK,Catholic,Primary,Whittlesea (C),145.05891,-37.66499
+WATSONIA,Catholic,Secondary,Banyule (C),145.08073,-37.7034
+MELTON,Catholic,Secondary,Melton (C),144.55041,-37.67725
+RHYLL,Independent,Pri/Sec,Bass Coast (S),145.27232,-38.48834
+PORTLAND,Independent,Primary,Glenelg (S),141.58984,-38.35679
+HIGHTON,Independent,Pri/Sec,Greater Geelong (C),144.31307,-38.18524
+MOOROOLBARK,Independent,Pri/Sec,Yarra Ranges (S),145.33887,-37.78785
+FITZROY NORTH,Independent,Primary,Yarra (C),144.97981,-37.78917
+ENDEAVOUR HILLS,Catholic,Primary,Casey (C),145.25793,-37.98052
+CLAYTON SOUTH,Catholic,Primary,Kingston (C),145.10719,-37.93489
+MOUNT ELIZA,Catholic,Primary,Mornington Peninsula (S),145.10114,-38.19773
+NATHALIA,Catholic,Primary,Moira (S),145.20774,-36.0586
+BENDIGO,Independent,Pri/Sec,Greater Bendigo (C),144.27158,-36.76553
+HAMILTON,Independent,Pri/Sec,Southern Grampians (S),142.04149,-37.77083
+DOREEN,Independent,Pri/Sec,Nillumbik (S),145.13879,-37.61346
+HOPPERS CROSSING NORTH,Catholic,Primary,Wyndham (C),144.68749,-37.85729
+ROWVILLE,Catholic,Primary,Knox (C),145.24533,-37.92568
+ALTONA MEADOWS,Catholic,Primary,Hobsons Bay (C),144.7917,-37.87515
+NARRE WARREN,Catholic,Primary,Casey (C),145.31501,-38.02597
+OCEAN GROVE,Catholic,Primary,Greater Geelong (C),144.54016,-38.26078
+SYDENHAM,Catholic,Secondary,Brimbank (C),144.77101,-37.69914
+KEILOR NORTH,Catholic,Secondary,Brimbank (C),144.80506,-37.69994
+CROYDON NORTH,Independent,Primary,Maroondah (C),145.29449,-37.76375
+LANGWARRIN SOUTH,Independent,Pri/Sec,Frankston (C),145.16302,-38.17863
+KEW,Independent,Special,Boroondara (C),145.03604,-37.80551
+MILDURA,Independent,Pri/Sec,Mildura (RC),142.12879,-34.2016
+SHEPPARTON,Independent,Pri/Sec,Greater Shepparton (C),145.41558,-36.32748
+WANTIRNA SOUTH,Independent,Pri/Sec,Knox (C),145.2192,-37.86547
+WERRIBEE,Independent,Pri/Sec,Wyndham (C),144.68133,-37.88132
+CLYDE NORTH,Independent,Pri/Sec,Casey (C),145.3638,-38.08468
+WARRAGUL,Independent,Pri/Sec,Baw Baw (S),145.93042,-38.14781
+SUNSHINE NORTH,Independent,Primary,Brimbank (C),144.83586,-37.7684
+ASHWOOD,Independent,Special,Monash (C),145.10889,-37.8668
+PAKENHAM,Independent,Pri/Sec,Cardinia (S),145.46732,-38.0619
+KILSYTH,Independent,Primary,Yarra Ranges (S),145.31893,-37.82914
+THE BASIN,Catholic,Primary,Knox (C),145.31084,-37.8539
+LALOR WEST,Catholic,Primary,Whittlesea (C),145.00324,-37.6656
+LARA,Catholic,Primary,Greater Geelong (C),144.39058,-38.01519
+WHITTLESEA,Catholic,Primary,Whittlesea (C),145.11454,-37.50906
+TEMPLESTOWE,Catholic,Primary,Manningham (C),145.15431,-37.76748
+ECHUCA,Independent,Pri/Sec,Campaspe (S),144.73176,-36.14482
+BELGRAVE HEIGHTS,Independent,Pri/Sec,Yarra Ranges (S),145.34623,-37.9189
+OAKLEIGH,Independent,Pri/Sec,Monash (C),145.08282,-37.89591
+HEALESVILLE,Independent,Special,Yarra Ranges (S),145.50922,-37.68452
+KERANG,Independent,Pri/Sec,Gannawarra (S),143.91342,-35.73042
+WANTIRNA SOUTH,Independent,Pri/Sec,Knox (C),145.24464,-37.87387
+DROUIN,Independent,Pri/Sec,Baw Baw (S),145.87712,-38.14284
+COBURG,Independent,Pri/Sec,Merri-bek (C),144.96612,-37.73633
+TYABB,Independent,Pri/Sec,Mornington Peninsula (S),145.16798,-38.26212
+KEILOR DOWNS,Catholic,Primary,Brimbank (C),144.80435,-37.71462
+MELTON WEST,Catholic,Primary,Melton (C),144.5502,-37.67878
+MONBULK,Catholic,Primary,Yarra Ranges (S),145.41206,-37.868
+ROSEBUD,Catholic,Primary,Mornington Peninsula (S),144.89754,-38.37133
+WHEELERS HILL,Catholic,Primary,Monash (C),145.19051,-37.91781
+LENEVA,Independent,Pri/Sec,Wodonga (C),146.88735,-36.15717
+KILSYTH,Catholic,Primary,Yarra Ranges (S),145.32174,-37.80656
+WANTIRNA SOUTH,Catholic,Primary,Knox (C),145.24291,-37.87747
+BROOKFIELD,Independent,Pri/Sec,Melton (C),144.56028,-37.70028
+MANSFIELD,Independent,Pri/Sec,Mansfield (S),146.08574,-37.0614
+ENDEAVOUR HILLS,Catholic,Primary,Casey (C),145.26266,-37.96753
+WERRIBEE,Catholic,Primary,Wyndham (C),144.66344,-37.90995
+NOBLE PARK NORTH,Catholic,Secondary,Greater Dandenong (C),145.19546,-37.94023
+TORQUAY,Catholic,Primary,Surf Coast (S),144.31185,-38.32112
+CAULFIELD SOUTH,Independent,Pri/Sec,Glen Eira (C),145.0194,-37.89244
+LEONGATHA,Catholic,Secondary,South Gippsland (S),145.96354,-38.46673
+WARRNAMBOOL,Independent,Pri/Sec,Warrnambool (C),142.50617,-38.36211
+ABBOTSFORD,Independent,Pri/Sec,Yarra (C),145.00522,-37.80366
+TRUGANINA,Independent,Pri/Sec,Wyndham (C),144.72202,-37.85265
+KEILOR,Independent,Pri/Sec,Brimbank (C),144.82318,-37.70656
+CARRUM DOWNS,Catholic,Primary,Frankston (C),145.17847,-38.10335
+ELTHAM NORTH,Catholic,Primary,Banyule (C),145.13546,-37.69844
+GREENVALE,Catholic,Primary,Hume (C),144.88864,-37.65364
+YARRA JUNCTION,Independent,Pri/Sec,Yarra Ranges (S),145.63116,-37.79444
+SWAN HILL,Catholic,Secondary,Swan Hill (RC),143.5568,-35.34192
+HAMPTON PARK,Catholic,Primary,Casey (C),145.2674,-38.03932
+BACCHUS MARSH,Independent,Pri/Sec,Moorabool (S),144.43159,-37.69027
+CRANBOURNE,Catholic,Secondary,Casey (C),145.25687,-38.10841
+KEYSBOROUGH,Independent,Pri/Sec,Greater Dandenong (C),145.1435,-38.0012
+ALPHINGTON,Independent,Pri/Sec,Yarra (C),145.03617,-37.78043
+CRANBOURNE,Catholic,Primary,Casey (C),145.26724,-38.07727
+DROUIN,Catholic,Primary,Baw Baw (S),145.862,-38.13244
+MOOROOLBARK,Independent,Pri/Sec,Yarra Ranges (S),145.32507,-37.76461
+DELACOMBE,Catholic,Primary,Ballarat (C),143.81724,-37.58019
+MUCKLEFORD,Independent,Pri/Sec,Mount Alexander (S),144.15669,-37.08188
+COOLAROO,Independent,Pri/Sec,Hume (C),144.93121,-37.65583
+MANSFIELD,Independent,Special,Mansfield (S),146.08586,-37.0608
+SPRINGVALE,Independent,Pri/Sec,Greater Dandenong (C),145.14863,-37.93904
+WODONGA,Independent,Pri/Sec,Wodonga (C),146.84528,-36.11673
+SWAN HILL,Independent,Primary,Swan Hill (RC),143.5465,-35.37756
+BENDIGO,Independent,Pri/Sec,Greater Bendigo (C),144.27273,-36.76261
+STRATHFIELDSAYE,Catholic,Primary,Greater Bendigo (C),144.36129,-36.80447
+SOUTH MELBOURNE,Catholic,Primary,Port Phillip (C),144.95481,-37.83616
+CRANBOURNE EAST,Independent,Pri/Sec,Casey (C),145.2929,-38.1103
+SOMERVILLE,Catholic,Primary,Mornington Peninsula (S),145.1684,-38.23365
+NARRE WARREN NORTH,Catholic,Primary,Casey (C),145.31128,-37.99584
+WERRIBEE NORTH,Catholic,Primary,Wyndham (C),144.65866,-37.87559
+STRATHDALE,Independent,Pri/Sec,Greater Bendigo (C),144.31346,-36.78263
+BROADMEADOWS,Independent,Pri/Sec,Hume (C),144.93007,-37.66862
+BROADMEADOWS,Catholic,Secondary,Hume (C),144.91826,-37.68786
+ROXBURGH PARK,Catholic,Primary,Hume (C),144.93432,-37.62344
+HAWTHORN,Independent,Primary,Boroondara (C),145.03133,-37.82708
+BELL POST HILL,Independent,Pri/Sec,Greater Geelong (C),144.328,-38.10988
+NEW GISBORNE,Catholic,Primary,Macedon Ranges (S),144.59778,-37.45589
+BERWICK,Catholic,Primary,Casey (C),145.33695,-38.06977
+TARNEIT,Independent,Pri/Sec,Wyndham (C),144.6666,-37.85525
+BROADMEADOWS,Independent,Pri/Sec,Hume (C),144.93564,-37.68472
+SYDENHAM,Catholic,Primary,Brimbank (C),144.77224,-37.7003
+SUNBURY,Independent,Pri/Sec,Hume (C),144.70602,-37.5191
+RESERVOIR,Independent,Primary,Darebin (C),145.01947,-37.70438
+TARNEIT,Catholic,Secondary,Wyndham (C),144.70206,-37.84768
+DRYSDALE,Catholic,Primary,Greater Geelong (C),144.55617,-38.18801
+SHEPPARTON,Independent,Pri/Sec,Greater Shepparton (C),145.41598,-36.35387
+FAWKNER NORTH,Independent,Pri/Sec,Merri-bek (C),144.97169,-37.70518
+TYNONG,Independent,Pri/Sec,Cardinia (S),145.62369,-38.08322
+BAIRNSDALE,Independent,Pri/Sec,East Gippsland (S),147.57835,-37.84122
+EAST PRESTON,Independent,Pri/Sec,Darebin (C),145.03622,-37.73395
+BELMONT,Catholic,Primary,Greater Geelong (C),144.3249,-38.18552
+EMERALD,Independent,Primary,Cardinia (S),145.38821,-37.95976
+GREENVALE,Independent,Pri/Sec,Hume (C),144.8907,-37.62771
+HAWTHORN EAST,Independent,Secondary,Boroondara (C),145.04517,-37.84322
+MT HELEN,Independent,Primary,Ballarat (C),143.8622,-37.64076
+CAROLINE SPRINGS,Catholic,Primary,Melton (C),144.73744,-37.74772
+FRESHWATER CREEK,Independent,Primary,Surf Coast (S),144.27974,-38.26332
+NEW GISBORNE,Independent,Pri/Sec,Macedon Ranges (S),144.60001,-37.45339
+KEYSBOROUGH,Independent,Pri/Sec,Greater Dandenong (C),145.17547,-38.01399
+POINT COOK,Catholic,Primary,Wyndham (C),144.75334,-37.8926
+NARRE WARREN SOUTH,Catholic,Primary,Casey (C),145.29799,-38.05539
+BUNYIP,Catholic,Primary,Cardinia (S),145.71586,-38.09326
+MELBOURNE,Independent,Secondary,Melbourne (C),144.97056,-37.81154
+MELTON WEST,Independent,Pri/Sec,Nillumbik (S),144.5424,-37.6863
+SOUTH YARRA,Independent,Special,Stonnington (C),144.99768,-37.83762
+LOVELY BANKS,Independent,Pri/Sec,Greater Geelong (C),144.33029,-38.06714
+TRARALGON,Catholic,Secondary,Latrobe (C),146.51425,-38.2009
+IRYMPLE,Independent,Pri/Sec,Mildura (RC),142.14532,-34.24742
+PASCOE VALE SOUTH,Catholic,Pri/Sec,Merri-bek (C),144.94274,-37.74119
+MELBOURNE,Independent,Secondary,Melbourne (C),144.95442,-37.81289
+NARRE WARREN,Independent,Special,Greater Dandenong (C),145.30575,-38.03025
+ELWOOD,Independent,Pri/Sec,Port Phillip (C),144.98349,-37.87323
+HILLSIDE,Catholic,Primary,Melton (C),144.74715,-37.68792
+MELBOURNE,Independent,Secondary,Melbourne (C),144.97227,-37.8103
+SHEPPARTON NORTH,Catholic,Primary,Greater Shepparton (C),145.41203,-36.32432
+BARANDUDA,Catholic,Primary,Wodonga (C),146.93993,-36.17389
+WODONGA,Independent,Special,Wodonga (C),146.8894,-36.11803
+SOUTH MORANG,Catholic,Pri/Sec,Whittlesea (C),145.09103,-37.64332
+POINT COOK,Catholic,Primary,Wyndham (C),144.72868,-37.89076
+PAKENHAM,Independent,Pri/Sec,Cardinia (S),145.45593,-38.06492
+RICHMOND,Catholic,Primary,Yarra (C),145.00824,-37.81585
+BENDIGO,Catholic,Special,Greater Bendigo (C),144.28602,-36.75554
+BEECHWORTH,Independent,Primary,Indigo (S),146.69353,-36.36669
+MT MARTHA,Independent,Pri/Sec,Mornington Peninsula (S),145.03269,-38.27325
+CAROLINE SPRINGS,Catholic,Secondary,Melton (C),144.7396,-37.72888
+SEBASTOPOL,Independent,Pri/Sec,Ballarat (C),143.84381,-37.59292
+NORTH FITZROY,Independent,Primary,Yarra (C),144.98277,-37.77883
+MOUNT CLEAR,Catholic,Primary,Ballarat (C),143.87158,-37.61258
+BENALLA,Independent,Special,Benalla (RC),145.9843,-36.54767
+GREENVALE LAKES,Catholic,Secondary,Hume (C),144.90947,-37.61532
+MICKLEHAM,Independent,Pri/Sec,Hume (C),144.93125,-37.56798
+CRANBOURNE,Independent,Pri/Sec,Casey (C),145.3073,-38.14
+MT RIDLEY,Catholic,Primary,Hume (C),144.93276,-37.57522
+ARMSTRONG CREEK,Independent,Pri/Sec,Greater Geelong (C),144.33707,-38.23046
+MANOR LAKES,Catholic,Primary,Wyndham (C),144.60622,-37.87585
+DAYLESFORD,Independent,Primary,Hepburn (S),144.16595,-37.34233
+CAROLINE SPRINGS,Catholic,Primary,Melton (C),144.73671,-37.71349
+MERNDA,Catholic,Primary,Whittlesea (C),145.0906,-37.59574
+EPPING,Independent,Pri/Sec,Whittlesea (C),145.03753,-37.62426
+WARRAGUL,Independent,Special,Baw Baw (S),145.92622,-38.17823
+WANGARATTA,Catholic,Special,Wangaratta (RC),146.30898,-36.33783
+LANGWARRIN SOUTH,Independent,Pri/Sec,Frankston (C),145.17465,-38.1926
+SHEPPARTON,Independent,Secondary,Greater Shepparton (C),145.4017,-36.37766
+OFFICER,Catholic,Primary,Cardinia (S),145.40567,-38.05462
+LYNBROOK,Catholic,Primary,Casey (C),145.25248,-38.05901
+DERRIMUT,Catholic,Primary,Brimbank (C),144.76052,-37.79068
+FERNTREE GULLY,Independent,Pri/Sec,Knox (C),145.28649,-37.88729
+MELBOURNE,Independent,Pri/Sec,Melbourne (C),144.97709,-37.83359
+TARNEIT,Independent,Pri/Sec,Wyndham (C),144.66038,-37.85424
+CAROLINE SPRINGS,Independent,Pri/Sec,Melton (C),144.7396,-37.71396
+WHITTINGTON,Catholic,Special,Greater Geelong (C),144.38711,-38.17432
+BANGHOLME,Independent,Pri/Sec,Greater Dandenong (C),145.14876,-38.0492
+CAULFIELD SOUTH,Independent,Pri/Sec,Glen Eira (C),145.02567,-37.88817
+TARNEIT,Catholic,Primary,Wyndham (C),144.69823,-37.84829
+NORTH MELBOURNE,Catholic,Special,Melbourne (C),144.95494,-37.80384
+GLENROY,Independent,Pri/Sec,Merri-bek (C),144.92926,-37.69777
+WANGARATTA,Independent,Pri/Sec,Wangaratta (RC),146.32991,-36.38595
+KOONWARRA,Independent,Primary,South Gippsland (S),145.94392,-38.54791
+ORMOND,Independent,Pri/Sec,Bayside (C),145.03508,-37.9036
+BAIRNSDALE,Independent,Primary,East Gippsland (S),147.6078,-37.82106
+BENALLA,Independent,Pri/Sec,Benalla (RC),145.99668,-36.55392
+EPPING NORTH,Catholic,Primary,Whittlesea (C),145.0126,-37.626
+POINT COOK,Catholic,Primary,Wyndham (C),144.76595,-37.9088
+CRANBOURNE EAST,Catholic,Primary,Casey (C),145.31704,-38.11617
+LILYDALE,Independent,Special,Yarra Ranges (S),145.34398,-37.75716
+TARNEIT,Catholic,Primary,Wyndham (C),144.66571,-37.83342
+TRUGANINA SOUTH,Catholic,Primary,Wyndham (C),144.72821,-37.84381
+OFFICER,Catholic,Primary,Cardinia (S),145.43271,-38.06277
+DOREEN,Catholic,Primary,Whittlesea (C),145.11522,-37.59693
+COBRAM,Independent,Pri/Sec,Moira (S),145.66006,-35.92428
+MAIDEN GULLY,Catholic,Pri/Sec,Greater Bendigo (C),144.22169,-36.73171
+CLARINDA,Independent,Pri/Sec,Kingston (C),145.11136,-37.95784
+RICHMOND,Independent,Special,Melbourne (C),144.98926,-37.81954
+MACEDON,Independent,Pri/Sec,Macedon Ranges (S),144.53319,-37.4457
+SPRINGVALE SOUTH,Independent,Primary,Greater Dandenong (C),145.14879,-37.96694
+MELTON SOUTH,Independent,Pri/Sec,Melton (C),144.56548,-37.70712
+LILYDALE,Independent,Pri/Sec,Yarra Ranges (S),145.35199,-37.78489
+KEW,Independent,Special,Boroondara (C),145.03148,-37.80222
+NARRE WARREN NORTH,Independent,Pri/Sec,Casey (C),145.31587,-37.97749
+WILLIAMSTOWN,Independent,Primary,Hobsons Bay (C),144.9052,-37.86311
+VENTNOR,Independent,Primary,Bass Coast (S),145.2016,-38.50808
+ROSEBUD,Independent,Special,Mornington Peninsula (S),144.88506,-38.38285
+RESERVOIR,Independent,Special,Darebin (C),145.00926,-37.6987
+NORTH MELBOURNE,Independent,Special,Melbourne (C),144.95509,-37.80519
+FRANKSTON,Independent,Special,Frankston (C),145.11925,-38.14825
+MELBOURNE,Independent,Special,Port Phillip (C),144.95615,-37.81654
+HAWTHORN EAST,Independent,Secondary,Boroondara (C),145.05401,-37.83071
+LUCAS,Catholic,Primary,Ballarat (C),143.78041,-37.54597
+ST KILDA,Independent,Pri/Sec,Port Phillip (C),144.99191,-37.86057
+CRAIGIEBURN WEST,Catholic,Primary,Hume (C),144.8961,-37.58197
+BANNOCKBURN,Catholic,Primary,Golden Plains (S),144.1701,-38.04693
+WALLAN EAST,Catholic,Primary,Mitchell (S),144.99984,-37.4241
+TORQUAY NORTH,Catholic,Primary,Surf Coast (S),144.33228,-38.30332
+COWES,Catholic,Primary,Bass Coast (S),145.2398,-38.4637
+THE BASIN,Independent,Pri/Sec,Knox (C),145.32148,-37.86007
+KIALLA,Catholic,Pri/Sec,Greater Shepparton (C),145.40034,-36.43612
+SUNBURY,Catholic,Primary,Hume (C),144.70532,-37.58479
+WOLLERT,Catholic,Primary,Whittlesea (C),145.03178,-37.61582
+CLAYTON SOUTH,Independent,Primary,Kingston (C),145.13932,-37.94484
+CLYDE NORTH,Independent,Primary,Casey (C),145.37876,-38.10602
+ARMSTRONG CREEK,Catholic,Primary,Greater Geelong (C),144.36945,-38.24009
+RYANSTON,Independent,Secondary,Bass Coast (S),145.55883,-38.52856
+CHARLEMONT,Catholic,Secondary,Greater Geelong (C),144.35671,-38.21912
+HAMPTON,Independent,Special,Bayside (C),145.0235,-37.93846
+MELTON,Independent,Secondary,Melton (C),144.57797,-37.68674
+COLDSTREAM,Independent,Special,Yarra Ranges (S),145.38227,-37.73304
+WERRIBEE,Catholic,Primary,Wyndham (C),144.61028,-37.9033
+SOUTH MELBOURNE,Independent,Secondary,Melbourne (C),144.96665,-37.83731
+WARRAGUL,Catholic,Primary,Baw Baw (S),145.96161,-38.14153
+DALLAS,Independent,Primary,Hume (C),144.92369,-37.67575
+CERES,Independent,Primary,Greater Geelong (C),144.28535,-38.17178
+RICHMOND,Catholic,Secondary,Yarra (C),144.99848,-37.82191
+MELTON,Independent,Pri/Sec,Melton (C),144.60498,-37.68243
+WEIR VIEWS,Catholic,Primary,Melton (C),144.57246,-37.73305
+NARRE WARREN NORTH,Independent,Primary,Casey (C),145.31604,-37.97748
+SOUTH MORANG,Independent,Secondary,Whittlesea (C),145.08148,-37.64875
+MICKLEHAM,Catholic,Primary,Hume (C),144.9052,-37.53046
+NARRE WARREN NORTH,Independent,Primary,Casey (C),145.31589,-37.97324
+FERNTREE GULLY,Independent,Secondary,Knox (C),145.29327,-37.88319
+GREENVALE,Catholic,Primary,Hume (C),144.88566,-37.62974
