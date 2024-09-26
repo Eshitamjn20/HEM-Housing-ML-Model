@@ -29,9 +29,13 @@ You can install the required libraries either manually or via a requirements.txt
   - seaborn (for visualizations)
   - scikit-learn (for machine learning models)
   - scipy 
-Option 1 : Installing the dependencies manually 
+
+
+- Option 1 : Installing the dependencies manually 
+
     conda install pandas numpy matplotlib seaborn scikit-learn scipy
-Option 2 : Using a requirements.txt file
+- Option 2 : Using a requirements.txt file
+
     pip install -r requirements.txt
 
 
