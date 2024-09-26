@@ -16,3 +16,4 @@ This project utilizes Machine Learning (ML) to develop a predictive model that a
 ## Data Source: 
 This project leverages two key datasets.  The primary dataset, sourced from Kaggle, consists of real estate data scraped from Domain.com.au, which includes details such as address, property type, suburb, selling method, number of rooms, price, real estate agent, sale date, and distance from the CBD. Although the dataset was raw, we cleaned and processed it to focus on key features that enhance the accuracy of our machine learning models for predicting housing prices. Additionally, we incorporated a schooling dataset to calculate the number of schools per suburb, providing a crucial factor in analyzing regional desirability and its effect on property prices.
 - [Kaggle: Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)
+
