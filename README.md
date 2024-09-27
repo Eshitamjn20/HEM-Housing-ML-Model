@@ -5,6 +5,7 @@
 03. [Configuring the project Environment](#env)
 
 
+
 <a name="intro"></a>
 ## Project Introduction : 
 Finding suitable housing within a budget can be challenging for buyers, and predicting housing prices helps them plan their finances while also benefiting property investors by providing insights into market trends. Residential housing is crucial for individuals and families, making it essential to track property price fluctuations that impact homebuyers, agents, sellers, and investors. This project uses Machine Learning (ML) to predict Melbourne housing prices based on factors like rooms, bathrooms, distance from the CBD, and nearby facilities.
