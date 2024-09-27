@@ -47,6 +47,12 @@ You can either manually install the libraries or use the `requirements.txt` file
 
  conda install pandas numpy matplotlib seaborn scikit-learn scipy
 
+
+#### Option 2: Using `requirements.txt` file
+
+conda install --file requirements.txt
+
+
 ## Running the Jupyter Notebooks
 
 Once your environment is set up, you can run the Jupyter notebooks in sequence. Each notebook is designed to handle a specific part of the project, including data exploration, visualizations, feature engineering, model training, and evaluation.
