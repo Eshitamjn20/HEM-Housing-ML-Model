@@ -6,17 +6,18 @@
 2. [Data Source](#data-source)
 3. [Configuring the Project Environment](#configuring-the-project-environment)
 4. [Running the Jupyter Notebooks](#running-the-jupyter-notebooks)
-5. [Data Processing (EDA)](#data-processing-eda)
-6. [Relationships Visualization](#relationships-visualization)
+5. [Data Processing (EDA)](#eda)
+6. [Relationships Visualization](#visualise)
 7. [Feature Engineering and Model Training](#feature-engineering-and-model-training)
 8. [Model Prediction](#model-prediction)
 
+<a name="project-introduction"></a>
 ## Project Introduction
 
 Predicting housing prices is vital for buyers, sellers, and investors. In this project, we predict Melbourne housing prices based on factors such as the number of rooms, bathrooms, proximity to the Central Business District (CBD), and nearby school facilities. We use machine learning models such as Random Forest, Gradient Boosting, and Polynomial Regression to achieve this.
 
 ---
-
+<a name="data-source"></a>
 ## Data Source
 
 - **[Kaggle: Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)**  
@@ -26,7 +27,7 @@ This dataset includes a variety of features, including property type, suburb, nu
 We enriched the dataset with schooling data from the Victorian Government dataset, which includes the number of schools per suburb. This is important to assess how school proximity influences property prices.
 
 ---
-
+<a name="configuring-the-project-environment"></a>
 ## Configuring the Project Environment
 
 ### Step 1: Install Anaconda
@@ -34,7 +35,7 @@ Download and install Anaconda from [here](https://www.anaconda.com/products/dist
 
 ### Step 2: Create a Conda Environment
 
-```bash
+
 conda create --name housing-price-env python=3.12.6
 conda activate housing-price-env
 
@@ -43,8 +44,8 @@ You can either manually install the libraries or use the `requirements.txt` file
 
 #### Option 1: Manually Install Dependencies
 
-```bash
-conda install pandas numpy matplotlib seaborn scikit-learn scipy
+
+ conda install pandas numpy matplotlib seaborn scikit-learn scipy
 
 ## Running the Jupyter Notebooks
 
@@ -52,18 +53,17 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
 
 ### Step-by-Step Process:
 - Activate the Environment Make sure your conda environment is activated:
-'''bash
-conda activate housing-price-env'''
+
+conda activate housing-price-env
 
 - Launch Jupyter Notebook
-'''bash
-jupyter notebook'''
+   jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
-'''EDA.ipynb'''
+'''melb-housing-dataset-cleaning-eda.ipynb'''
 - This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
-'''Visualisation.ipynb'''
+'''housing_price_regression_filtered_analysis.ipynb'''
 - This notebook generates key visualizations to show relationships between various features and housing prices.
-'''FeatureEngineering.ipynb'''
+'''Modelling-and-feature-engineering.ipynb'''
 - This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
@@ -108,7 +108,7 @@ A scatter plot showing how the number of nearby schools and the distance from th
 
 - Scatter Plots with Regression Lines: Visualizes relationships between prices and key variables like rooms, bathrooms, and distance from CBD with nearby schools.
 - R-squared Value: This value helps to evaluate how well the regression line fits the data.
-<a name="feature-engineering"></a>
+<a name="feature-engineering-and-model-training"></a>
 
 ## Feature Engineering and Model Training
 
@@ -137,7 +137,7 @@ Each model is evaluated using the following metrics:
 - Scatter Plots: Visualizes how well the models' predictions align with actual prices.
 - Comparison Table: Displays the actual prices vs predicted prices for each model.
 
-<a name="prediction"></a>
+<a name="model-prediction"></a>
 
 ### Model Prediction
 
