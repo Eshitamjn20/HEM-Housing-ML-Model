@@ -65,11 +65,11 @@ conda activate housing-price-env
 - Launch Jupyter Notebook
    jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
-'''melb-housing-dataset-cleaning-eda.ipynb'''
+ **melb-housing-dataset-cleaning-eda.ipynb**
 - This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
-'''housing_price_regression_filtered_analysis.ipynb'''
+ **housing_price_regression_filtered_analysis.ipynb**
 - This notebook generates key visualizations to show relationships between various features and housing prices.
-'''Modelling-and-feature-engineering.ipynb'''
+ **Modelling-and-feature-engineering.ipynb**
 - This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
