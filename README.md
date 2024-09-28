@@ -41,8 +41,8 @@ Download and install Anaconda from [here](https://www.anaconda.com/products/dist
 
 #### Create and activate a new environment using Conda
 
-  conda create --name housing-price-env python=3.12.6
-  conda activate housing-price-env
+    conda create --name housing-price-env python=3.12.6
+    conda activate housing-price-env
 
 ### Step 3: Install Required Dependencies  
 You can either manually install the libraries or use the `requirements.txt` file.
@@ -61,12 +61,11 @@ You can either manually install the libraries or use the `requirements.txt` file
 Once your environment is set up, you can run the Jupyter notebooks in sequence. Each notebook is designed to handle a specific part of the project, including data exploration, visualizations, feature engineering, model training, and evaluation.
 
 ### Step-by-Step Process:
-- Activate the Environment Make sure your conda environment is activated:
+-  #####  Activate the Environment Make sure your conda environment is activated:
+        conda activate housing-price-env
 
-    conda activate housing-price-env
-
-- Launch Jupyter Notebook
-    jupyter notebook
+- ##### Launch Jupyter Notebook
+     jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
  **melb-housing-dataset-cleaning-eda.ipynb**
 - This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
