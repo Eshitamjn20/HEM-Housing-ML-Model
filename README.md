@@ -39,10 +39,10 @@ Download and install Anaconda from [here](https://www.anaconda.com/products/dist
 
 ### Step 3: Create a Conda Environment
 
-Create and activate a new environment using Conda
+#### Create and activate a new environment using Conda
 
-conda create --name housing-price-env python=3.12.6
-conda activate housing-price-env
+  conda create --name housing-price-env python=3.12.6
+  conda activate housing-price-env
 
 ### Step 3: Install Required Dependencies  
 You can either manually install the libraries or use the `requirements.txt` file.
@@ -50,12 +50,12 @@ You can either manually install the libraries or use the `requirements.txt` file
 #### Option 1: Manually Install Dependencies
 
 
- conda install pandas numpy matplotlib seaborn scikit-learn scipy
+   conda install pandas numpy matplotlib seaborn scikit-learn scipy
 
 
 #### Option 2: Using `requirements.txt` file
 
-conda install --file requirements.txt
+    conda install --file requirements.txt
 
 
 ## Running the Jupyter Notebooks
@@ -65,10 +65,10 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
 ### Step-by-Step Process:
 - Activate the Environment Make sure your conda environment is activated:
 
-conda activate housing-price-env
+    conda activate housing-price-env
 
 - Launch Jupyter Notebook
-   jupyter notebook
+      jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
  **melb-housing-dataset-cleaning-eda.ipynb**
 - This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
@@ -79,17 +79,9 @@ conda activate housing-price-env
 <a name="eda"></a>
 
 ## Data Processing (EDA)
+### Notebook: melb-housing-dataset-cleaning-eda.ipynb
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-Notebook: melb-housing-dataset-cleaning-eda.ipynb
-=======
-Notebook: [EDA] (https://github.com/Eshitamjn20/HEM-Housing-ML-Model/blob/main/SourceCode/melb-housing-dataset-cleaning-eda.ipynb)
->>>>>>> 99db115d20a2595ad6cc89a89d1cdb4dc7ca4c9d
-=======
-Notebook: [melb-housing-dataset-cleaning-eda.ipynb] (https://github.com/Eshitamjn20/HEM-Housing-ML-Model/blob/main/SourceCode/melb-housing-dataset-cleaning-eda.ipynb)
->>>>>>> f297d98e26ddabf92773541f36a3d454445cf7b8
-### Steps:
+Steps:
 
 ### Loading the Dataset
 The dataset is loaded, and the first few rows are displayed to provide an overview of the data.
