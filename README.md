@@ -76,7 +76,7 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
  This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
-## Data Processing (EDA)
+## Data Processing (EDA):mag::bar_chart:
 ### Notebook: melb-housing-dataset-cleaning-eda.ipynb
 
 Steps:
@@ -101,7 +101,7 @@ This step involves analyzing the relationships between pairs of features, for ex
 - Box Plots: Shows how housing price varies by number of rooms, bathrooms, etc.
 <a name="visualise"></a>
 
-## Relationships Visualization
+## Relationships Visualization:memo:
 
 ### Notebook: housing_price_regression_filtered_analysis.ipynb
 Steps:
@@ -156,3 +156,10 @@ After running the FeatureEngineering.ipynb notebook, you will have trained three
 
 - **Scatter Plots**: Reduced scatter plots to make the predictions easier to compare. These plots will help you visualize how closely each model's predictions match the actual prices.
 - **Comparison Table**: A table is displayed showing the actual prices vs the predicted prices for each of the models (Random Forest, Polynomial Regression, and Gradient Boosting).
+
+
+## Contributors: :brain:
+
+- **Eshita Mahajan**
+- **Hritik Anand**
+- **Michelle Abrigo**
