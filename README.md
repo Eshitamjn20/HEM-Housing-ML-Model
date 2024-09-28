@@ -30,11 +30,16 @@ We enriched the dataset with schooling data from the Victorian Government datase
 <a name="configuring-the-project-environment"></a>
 ## Configuring the Project Environment
 
-### Step 1: Install Anaconda
+### Step 1: Clone the Repository using the following commands 
+git clone https://github.com/Eshitamjn20/HEM-Housing-ML-Model.git
+cd your-repository //folder where the repository was clonned 
+
+### Step 2: Install Anaconda
 Download and install Anaconda from [here](https://www.anaconda.com/products/distribution).
 
-### Step 2: Create a Conda Environment
+### Step 3: Create a Conda Environment
 
+Create and activate a new environment using Conda
 
 conda create --name housing-price-env python=3.12.6
 conda activate housing-price-env
