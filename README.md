@@ -69,11 +69,11 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
         jupyter notebook
 - Open the Notebooks the following notebooks will appear in the Jupyter interface:
 
- - **melb-housing-dataset-cleaning-eda.ipynb**
+   - **melb-housing-dataset-cleaning-eda.ipynb**
  This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
- - **housing_price_regression_filtered_analysis.ipynb**
+   - **housing_price_regression_filtered_analysis.ipynb**
   This notebook generates key visualizations to show relationships between various features and housing prices.
- - **Modelling-and-feature-engineering.ipynb**
+   - **Modelling-and-feature-engineering.ipynb**
  This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
@@ -90,9 +90,9 @@ The notebook checks for missing values and removes any rows with missing data, e
 You will visualize the distribution of individual features such as Price, Distance_from_CBD, Rooms, and Bathrooms. Histograms are used to show these distributions.
 - #### Bivariate Analysis
 This step involves analyzing the relationships between pairs of features, for example:
- - **Price vs Rooms**
- - **Price vs Bathrooms**
- - **Price vs Distance from CBD**
+    - **Price vs Rooms**
+    - **Price vs Bathrooms**
+    - **Price vs Distance from CBD**
 
 
 The bivariate plots (box plots and scatter plots) will help reveal correlations between these features and the house prices.
