@@ -152,7 +152,7 @@ Each model is evaluated using the following metrics:
 
 ### Model Prediction
 
-After running the FeatureEngineering.ipynb notebook, you will have trained three models: Random Forest, Polynomial Regression, and Gradient Boosting. The notebook visualizes and compares their predictions with actual prices.
+After running the **Modelling-and-feature-engineering.ipynb** notebook, you will have trained three models: Random Forest, Polynomial Regression, and Gradient Boosting. The notebook visualizes and compares their predictions with actual prices.
 
 ### Outputs to Expect:
 
