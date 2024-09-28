@@ -10,7 +10,7 @@
 6. [Relationships Visualization](#visualise)
 7. [Feature Engineering and Model Training](#feature-engineering-and-model-training)
 8. [Model Prediction](#model-prediction)
-9. 12. [Contributors](#team)
+
 
 <a name="project-introduction"></a>
 ## Project Introduction
@@ -77,7 +77,7 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
  This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
-## Data Processing (EDA):mag::bar_chart:
+## Data Processing (EDA):mag: :bar_chart:
 ### Notebook: melb-housing-dataset-cleaning-eda.ipynb
 
 Steps:
@@ -160,8 +160,3 @@ After running the FeatureEngineering.ipynb notebook, you will have trained three
 
 
 <a name="team"></a>
-## Contributors: :brain:
-
-- **Eshita Mahajan**
-- **Hritik Anand**
-- **Michelle Abrigo**
