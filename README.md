@@ -18,7 +18,7 @@ Predicting housing prices is vital for buyers, sellers, and investors. In this p
 
 ---
 <a name="data-source"></a>
-## Data Source
+## Data Source :books:
 
 - **[Kaggle: Melbourne Housing Market](https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market)**  
 This dataset includes a variety of features, including property type, suburb, number of rooms, price, sale date, and distance from the CBD.
@@ -67,12 +67,13 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
 - ##### Launch Jupyter Notebook
         jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
- **melb-housing-dataset-cleaning-eda.ipynb**
-- This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
- **housing_price_regression_filtered_analysis.ipynb**
-- This notebook generates key visualizations to show relationships between various features and housing prices.
- **Modelling-and-feature-engineering.ipynb**
-- This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
+
+ - **melb-housing-dataset-cleaning-eda.ipynb**
+ This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
+ - **housing_price_regression_filtered_analysis.ipynb**
+  This notebook generates key visualizations to show relationships between various features and housing prices.
+ - **Modelling-and-feature-engineering.ipynb**
+ This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
 ## Data Processing (EDA)
