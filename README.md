@@ -77,7 +77,7 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
  This notebook performs feature engineering, trains machine learning models, and evaluates their performance.
 <a name="eda"></a>
 
-## Data Processing (EDA):mag: :bar_chart:
+## Data Processing (EDA) :mag::bar_chart:
 ### Notebook: melb-housing-dataset-cleaning-eda.ipynb
 
 Steps:
