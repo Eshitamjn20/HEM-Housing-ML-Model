@@ -81,10 +81,14 @@ conda activate housing-price-env
 ## Data Processing (EDA)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Notebook: melb-housing-dataset-cleaning-eda.ipynb
 =======
 Notebook: [EDA] (https://github.com/Eshitamjn20/HEM-Housing-ML-Model/blob/main/SourceCode/melb-housing-dataset-cleaning-eda.ipynb)
 >>>>>>> 99db115d20a2595ad6cc89a89d1cdb4dc7ca4c9d
+=======
+Notebook: [melb-housing-dataset-cleaning-eda.ipynb] (https://github.com/Eshitamjn20/HEM-Housing-ML-Model/blob/main/SourceCode/melb-housing-dataset-cleaning-eda.ipynb)
+>>>>>>> f297d98e26ddabf92773541f36a3d454445cf7b8
 ### Steps:
 
 ### Loading the Dataset
