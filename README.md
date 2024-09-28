@@ -65,7 +65,7 @@ Once your environment is set up, you can run the Jupyter notebooks in sequence. 
         conda activate housing-price-env
 
 - ##### Launch Jupyter Notebook
-     jupyter notebook
+        jupyter notebook
 - Open the Notebooks The following notebooks will appear in the Jupyter interface:
  **melb-housing-dataset-cleaning-eda.ipynb**
 - This notebook explores the dataset and performs Exploratory Data Analysis (EDA) to understand the features and relationships in the dataset.
@@ -153,5 +153,5 @@ After running the FeatureEngineering.ipynb notebook, you will have trained three
 
 ### Outputs to Expect:
 
-- Scatter Plots: Reduced scatter plots to make the predictions easier to compare. These plots will help you visualize how closely each model's predictions match the actual prices.
-- Comparison Table: A table is displayed showing the actual prices vs the predicted prices for each of the models (Random Forest, Polynomial Regression, and Gradient Boosting).
+- **Scatter Plots**: Reduced scatter plots to make the predictions easier to compare. These plots will help you visualize how closely each model's predictions match the actual prices.
+- **Comparison Table**: A table is displayed showing the actual prices vs the predicted prices for each of the models (Random Forest, Polynomial Regression, and Gradient Boosting).
