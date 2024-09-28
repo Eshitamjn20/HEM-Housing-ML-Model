@@ -97,9 +97,9 @@ This step involves analyzing the relationships between pairs of features, for ex
 - The bivariate plots (box plots and scatter plots) will help reveal correlations between these features and the house prices.
 #### Output:
 
-- Heatmaps: Visualizes the correlation between the features.
-- Histograms: Displays the distributions of key variables.
-- Box Plots: Shows how housing price varies by number of rooms, bathrooms, etc.
+- **Heatmaps**: Visualizes the correlation between the features.
+- **Histograms**: Displays the distributions of key variables.
+- **Box Plots**: Shows how housing price varies by number of rooms, bathrooms, etc.
 <a name="visualise"></a>
 
 ## Relationships Visualization:memo:
@@ -107,17 +107,17 @@ This step involves analyzing the relationships between pairs of features, for ex
 ### Notebook: housing_price_regression_filtered_analysis.ipynb
 Steps:
 
-- Price vs Distance for 5-Room Houses
+- **Price vs Distance for 5-Room Houses**
 A scatter plot showing how housing prices vary with the distance from the CBD for properties that have 5 rooms. This is fitted with a polynomial regression line to capture the trend.
-- Price vs Distance for 3-Bathroom Houses
+- **Price vs Distance for 3-Bathroom Houses**
 Another scatter plot showing how housing prices vary with the distance from the CBD, but this time for properties with 3 bathrooms.
-- Price vs Distance with Number of Schools
+- **Price vs Distance with Number of Schools**
 A scatter plot showing how the number of nearby schools and the distance from the CBD affect housing prices.
 
 ### Output:
 
-- Scatter Plots with Regression Lines: Visualizes relationships between prices and key variables like rooms, bathrooms, and distance from CBD with nearby schools.
-- R-squared Value: This value helps to evaluate how well the regression line fits the data.
+- **Scatter Plots with Regression Lines**: Visualizes relationships between prices and key variables like rooms, bathrooms, and distance from CBD with nearby schools.
+- **R-squared Value**: This value helps to evaluate how well the regression line fits the data.
 <a name="feature-engineering-and-model-training"></a>
 
 ## Feature Engineering and Model Training
@@ -125,27 +125,27 @@ A scatter plot showing how the number of nearby schools and the distance from th
 ### Notebook: Modelling-and-feature-engineering.ipynb
 Steps:
 
-Feature Creation
+#### Feature Creation
 - New features are engineered to help improve the accuracy of predictions:
 = Schools_Distance_Ratio: Ratio of schools to the distance from the CBD.
 - Rooms_Bathroom_Interaction: Interaction term between the number of rooms and bathrooms.
 - Distance_Schools_Interaction: Interaction between the distance from the CBD and nearby schools.
-### Model Training
+#### Model Training
 Three different machine learning models are trained:
-- Random Forest: A powerful model that captures complex relationships between features.
-- Polynomial Regression: Adds polynomial terms to model non-linear relationships.
-- Gradient Boosting: Captures complex relationships and improves accuracy by sequentially learning from previous predictions.
+- **Random Forest**: A powerful model that captures complex relationships between features.
+- **Polynomial Regression**: Adds polynomial terms to model non-linear relationships.
+- **Gradient Boosting**: Captures complex relationships and improves accuracy by sequentially learning from previous predictions.
 ### Model Evaluation
 Each model is evaluated using the following metrics:
-- R² (Coefficient of Determination): Measures how well the model captures variance in housing prices.
-- MSE (Mean Squared Error): Measures the average squared difference between actual and predicted prices.
+- **R²** (Coefficient of Determination): Measures how well the model captures variance in housing prices.
+- **MSE** (Mean Squared Error): Measures the average squared difference between actual and predicted prices.
 
 ### Output:
 
-- Best Hyperparameters: After hyperparameter tuning (using GridSearchCV), the best parameters for Random Forest are shown.
-- Predictions: Each model makes predictions on test data, which are then compared with actual prices.
-- Scatter Plots: Visualizes how well the models' predictions align with actual prices.
-- Comparison Table: Displays the actual prices vs predicted prices for each model.
+- **Best Hyperparameters**: After hyperparameter tuning (using GridSearchCV), the best parameters for Random Forest are shown.
+- **Predictions**: Each model makes predictions on test data, which are then compared with actual prices.
+- **Scatter Plots**: Visualizes how well the models' predictions align with actual prices.
+- **Comparison Table**: Displays the actual prices vs predicted prices for each model.
 
 <a name="model-prediction"></a>
 
