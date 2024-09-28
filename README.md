@@ -10,6 +10,7 @@
 6. [Relationships Visualization](#visualise)
 7. [Feature Engineering and Model Training](#feature-engineering-and-model-training)
 8. [Model Prediction](#model-prediction)
+9. 12. [Contributors](#team)
 
 <a name="project-introduction"></a>
 ## Project Introduction
@@ -158,6 +159,7 @@ After running the FeatureEngineering.ipynb notebook, you will have trained three
 - **Comparison Table**: A table is displayed showing the actual prices vs the predicted prices for each of the models (Random Forest, Polynomial Regression, and Gradient Boosting).
 
 
+<a name="team"></a>
 ## Contributors: :brain:
 
 - **Eshita Mahajan**
