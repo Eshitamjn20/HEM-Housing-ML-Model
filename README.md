@@ -80,7 +80,7 @@ conda activate housing-price-env
 
 ## Data Processing (EDA)
 
-Notebook: EDA.ipynb
+Notebook: melb-housing-dataset-cleaning-eda.ipynb
 ### Steps:
 
 ### Loading the Dataset
@@ -105,7 +105,7 @@ This step involves analyzing the relationships between pairs of features, for ex
 
 ## Relationships Visualization
 
-### Notebook: Visualisation.ipynb
+### Notebook: housing_price_regression_filtered_analysis.ipynb
 Steps:
 
 - Price vs Distance for 5-Room Houses
@@ -123,7 +123,7 @@ A scatter plot showing how the number of nearby schools and the distance from th
 
 ## Feature Engineering and Model Training
 
-### Notebook: FeatureEngineering.ipynb
+### Notebook: Modelling-and-feature-engineering.ipynb
 Steps:
 
 Feature Creation
