@@ -90,11 +90,12 @@ The notebook checks for missing values and removes any rows with missing data, e
 You will visualize the distribution of individual features such as Price, Distance_from_CBD, Rooms, and Bathrooms. Histograms are used to show these distributions.
 #### Bivariate Analysis
 This step involves analyzing the relationships between pairs of features, for example:
-- Price vs Rooms
-- Price vs Bathrooms
-- Price vs Distance from CBD
+- **Price vs Rooms**
+- **Price vs Bathrooms**
+- **Price vs Distance from CBD**
 
-- The bivariate plots (box plots and scatter plots) will help reveal correlations between these features and the house prices.
+
+The bivariate plots (box plots and scatter plots) will help reveal correlations between these features and the house prices.
 #### Output:
 
 - **Heatmaps**: Visualizes the correlation between the features.
